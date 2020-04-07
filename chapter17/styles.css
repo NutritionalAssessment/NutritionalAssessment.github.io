@@ -4,8 +4,8 @@ font-size: 4vw;}
 h2 { font-size: 20pt;}
 h3 { font-size: 18pt;}
 iframe {
-  visibility: hidden; 
-  display: none;
+  visibility: visible; 
+  display: block;
   float: left;
   border: none;
 }
@@ -21,7 +21,7 @@ table {
 	margin: 20px;
 	text-align: center;
 	float: left;
-	min-width: 33%;
+	min-width: 35%;
 }
 td.left-aligned { text-align: left; }
 td.shaded { background-color: pink; }
@@ -32,6 +32,368 @@ caption {
   font-size: 13pt;
   margin: 10px;
 }
+
+span.capT1 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 260px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT2 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 315px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT3 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 390px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT4 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 252px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT5 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 288px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT6 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 300px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT7 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 570px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT8 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 250px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT9 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 558px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT10 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 545px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT11 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 275px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT12 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 275px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT13 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 413px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT14 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 470px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT15 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 344px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT16 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 671px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT17 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 325px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT18 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 350px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT19 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 418px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capT20 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 610px;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF0 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF1 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF2 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 350px;
+  padding: 10px;
+  margin: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF3 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF4 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 45px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF5 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF6 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF7 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 350px;
+  padding: 10px;
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF8 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 60px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+span.capF9 {
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  width: 330px;
+  padding: 10px;
+  margin: 55px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto;
+}
+
 
 .MathJax {
   font-size: 1.0 em;
@@ -46,7 +408,7 @@ tr, td {vertical-align: center;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
-	padding: 5px;
+	padding: 3px;
   font-size: 13pt;
 }
 th {
@@ -67,7 +429,6 @@ figure {
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 0px;
-  background-color: lavender;
 }
 
 figcaption {
