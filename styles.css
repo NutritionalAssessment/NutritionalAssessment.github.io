@@ -12,11 +12,20 @@ iframe {
   display: block;
   float: left;
   border: none;
+  margin-top: 20px;
 }
 a.iframe {
   text-decoration: underline;
   color: blue;
-}table { 
+}
+
+span.n {
+	white-space: nowrap;
+}
+
+
+
+table {
 	table-layout: auto;
 	border-style: solid;
 	border-width: thin;
@@ -30,6 +39,7 @@ a.iframe {
 
 td.left-aligned { text-align: left; }
 td.shaded { background-color: pink; }
+td.shade {background-color: lavender; }
 caption {
   caption-side: bottom;
   text-align: justify;
@@ -45,7 +55,7 @@ caption {
   padding: 10px;
   margin-left: 15%;
   margin-bottom: 40px;
-  
+  margin-top: 20px; 
 }
 .smallbox {
   font-size: 14pt;
@@ -58,6 +68,7 @@ caption {
   margin-left: 2%;
   margin-right: 3%;
   margin-bottom: 20px;
+  margin-top: 20px;
   
 }
 .tinybox {
@@ -71,6 +82,7 @@ caption {
   margin-left: 2%;
   margin-right: 3%;
   margin-bottom: 20px;
+  margin-top: 20px;
   
 }
 
@@ -107,548 +119,75 @@ caption {
   text-align: justify;
   font-size: 14pt;
 }
-span.capw230 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 230px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw240 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 240px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw250 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 250px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw260 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 260px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw270 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 270px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw280 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 280px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw290 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 290px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw300 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 300px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw310 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 310px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw320 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 320px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw330 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 330px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw340 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 340px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw350 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 350px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw360 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 360px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw370 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 370px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw380 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 380px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw390 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 390px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw400 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 400px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw410 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 410px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw420 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 420px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw430 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 430px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw440 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 440px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw450 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 450px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw460 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 460px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw470 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 470px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw480 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 480px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw490 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 490px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw500 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 500px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw510 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 510px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw520 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 520px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw530 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 530px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw540 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 540px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw550 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 550px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw560 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 560px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw570 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 570px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw580 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 580px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw590 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 590px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw600 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 600px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw610 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 610px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw620 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 620px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw630 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 630px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw640 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 640px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw650 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 650px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw660 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 660px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
-span.capw770 {
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  width: 770px;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto;
-}
 
+span.capw150 {width: 150px} 
+span.capw160 {width: 160px}
+span.capw170 {width: 170px}
+span.capw180 {width: 180px}
+span.capw190 {width: 190px}
+span.capw200 {width: 200px}
+span.capw210 {width: 210px}
+span.capw220 {width: 220px}
+span.capw230 {width: 230px}
+span.capw240 {width: 240px} 
+span.capw250 {width: 250px} 
+span.capw260 {width: 260px}
+span.capw270 {width: 270px}
+span.capw280 {width: 280px}
+span.capw290 {width: 290px}
+span.capw300 {width: 300px}
+span.capw310 {width: 310px}
+span.capw320 {width: 320px}
+span.capw330 {width: 330px}
+span.capw340 {width: 340px}
+span.capw350 {width: 350px}
+span.capw360 {width: 360px}
+span.capw370 {width: 370px}
+span.capw380 {width: 380px}
+span.capw390 {width: 390px}
+span.capw400 {width: 400px}
+span.capw410 {width: 410px}
+span.capw420 {width: 420px}
+span.capw430 {width: 430px}
+span.capw440 {width: 440px}
+span.capw450 {width: 450px}
+span.capw460 {width: 460px}
+span.capw470 {width: 470px}
+span.capw480 {width: 480px}
+span.capw490 {width: 490px}
+span.capw500 {width: 500px}
+span.capw510 {width: 510px}
+span.capw520 {width: 520px}
+span.capw530 {width: 530px}
+span.capw540 {width: 540px}
+span.capw550 {width: 550px}
+span.capw560 {width: 560px}
+span.capw570 {width: 570px}
+span.capw580 {width: 580px}
+span.capw590 {width: 590px}
+span.capw600 {width: 600px}
+span.capw610 {width: 610px}
+span.capw620 {width: 620px}
+span.capw630 {width: 630px}
+span.capw640 {width: 640px}
+span.capw650 {width: 650px}
+span.capw660 {width: 660px}
+span.capw770 {width: 770px}
 
+span.capw150, span.capw160, span.capw170, span.capw180,
+span.capw190, span.capw200, span.capw210, span.capw220, 
+span.capw230, span.capw240, span.capw250, span.capw260, span.capw270, span.capw280, span.capw290, span.capw300, span.capw310, span.capw320, span.capw330, span.capw340, span.capw350, span.capw360, span.capw370, span.capw380, span.capw390, span.capw400, span.capw410, span.capw420, span.capw430, span.capw440, span.capw450, span.capw460, span.capw470, span.capw480, span.capw490, span.capw500, span.capw510, span.capw520, span.capw530, span.capw540, span.capw550, span.capw560, span.capw570, span.capw580, span.capw590, span.capw600, span.capw610, span.capw620, span.capw630, span.capw640, span.capw650, span.capw660, span.capw770
+{
+  text-align: justify;
+  font-size: 13pt;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  background-color: lavender; 
+  hyphens: auto
+}
 
 .MathJax {
   font-size: 1.0 em;
@@ -671,7 +210,7 @@ th {
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
-	padding: 15px;
+	padding: 5px;
   font-size: 13pt;
 }
 thead.reporttablehead { background-color:  lavender; }
@@ -774,6 +313,8 @@ img.cover {
 .table-of-contents li {
   margin: 0 0 0.25em 0;
   text-indent: -40px;
+  list-style-type: none;
+  padding: 2px;
 }
 
 .table-of-contents a {
@@ -783,6 +324,12 @@ img.cover {
 .table-of-contents a:hover,
 .table-of-contents a:active {
   text-decoration: underline;
+}
+
+li {
+    list-style-position: inside;
+	list-style-type: disc;
+	padding: 2px;
 }
 
 h3:target {
