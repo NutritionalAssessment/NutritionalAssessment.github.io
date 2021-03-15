@@ -6,7 +6,8 @@ h1 {  text-align: right;
 font-size: 4vw;}
 h2 { font-size: 18pt;}
 h3 { font-size: 16pt;}
-h4 { font-size; 18pt;} 
+h4 { font-size: 18pt;} 
+h5 { font-size; 16pt;}
 iframe {
   visibility: visible; 
   display: block;
@@ -23,18 +24,33 @@ span.n {
 	white-space: nowrap;
 }
 
+caption.cap {
+  background-color: lavender; 
+  margin: 20px 0px 0px 0px;
+  padding: 10px;
+}
 
+figure {
+  float: left;
+  padding: 10px;
+  margin: 20px 20px 20px 20px;
+}
+
+figcaption.cap {
+  background-color: lavender; 
+  margin: 20px 0px 0px 0px;
+  padding: 10px;
+}
 
 table {
 	table-layout: auto;
 	border-style: solid;
 	border-width: thin;
 	border-collapse: collapse;
-	margin-left: 20px;
-	text-align: center;
+	margin: 20px 20px 20px 20px;
 	float: left;
-	min-width: 35%;
-	max-width: 60%;
+	padding: 10px;
+	text-align: center;
 }
 
 td.left-aligned { text-align: left; }
@@ -48,7 +64,7 @@ caption {
 }
 .box {
   font-size: 14pt;
-  display: grid ;
+  display: block;
   background-color: lightyellow;
   width: 70%;
   border:2px solid black;
@@ -120,74 +136,6 @@ caption {
   font-size: 14pt;
 }
 
-span.capw150 {width: 150px} 
-span.capw160 {width: 160px}
-span.capw170 {width: 170px}
-span.capw180 {width: 180px}
-span.capw190 {width: 190px}
-span.capw200 {width: 200px}
-span.capw210 {width: 210px}
-span.capw220 {width: 220px}
-span.capw230 {width: 230px}
-span.capw240 {width: 240px} 
-span.capw250 {width: 250px} 
-span.capw260 {width: 260px}
-span.capw270 {width: 270px}
-span.capw280 {width: 280px}
-span.capw290 {width: 290px}
-span.capw300 {width: 300px}
-span.capw310 {width: 310px}
-span.capw320 {width: 320px}
-span.capw330 {width: 330px}
-span.capw340 {width: 340px}
-span.capw350 {width: 350px}
-span.capw360 {width: 360px}
-span.capw370 {width: 370px}
-span.capw380 {width: 380px}
-span.capw390 {width: 390px}
-span.capw400 {width: 400px}
-span.capw410 {width: 410px}
-span.capw420 {width: 420px}
-span.capw430 {width: 430px}
-span.capw440 {width: 440px}
-span.capw450 {width: 450px}
-span.capw460 {width: 460px}
-span.capw470 {width: 470px}
-span.capw480 {width: 480px}
-span.capw490 {width: 490px}
-span.capw500 {width: 500px}
-span.capw510 {width: 510px}
-span.capw520 {width: 520px}
-span.capw530 {width: 530px}
-span.capw540 {width: 540px}
-span.capw550 {width: 550px}
-span.capw560 {width: 560px}
-span.capw570 {width: 570px}
-span.capw580 {width: 580px}
-span.capw590 {width: 590px}
-span.capw600 {width: 600px}
-span.capw610 {width: 610px}
-span.capw620 {width: 620px}
-span.capw630 {width: 630px}
-span.capw640 {width: 640px}
-span.capw650 {width: 650px}
-span.capw660 {width: 660px}
-span.capw770 {width: 770px}
-
-span.capw150, span.capw160, span.capw170, span.capw180,
-span.capw190, span.capw200, span.capw210, span.capw220, 
-span.capw230, span.capw240, span.capw250, span.capw260, span.capw270, span.capw280, span.capw290, span.capw300, span.capw310, span.capw320, span.capw330, span.capw340, span.capw350, span.capw360, span.capw370, span.capw380, span.capw390, span.capw400, span.capw410, span.capw420, span.capw430, span.capw440, span.capw450, span.capw460, span.capw470, span.capw480, span.capw490, span.capw500, span.capw510, span.capw520, span.capw530, span.capw540, span.capw550, span.capw560, span.capw570, span.capw580, span.capw590, span.capw600, span.capw610, span.capw620, span.capw630, span.capw640, span.capw650, span.capw660, span.capw770
-{
-  text-align: justify;
-  font-size: 13pt;
-  display: inline-block;
-  padding: 10px;
-  margin: 20px;
-  margin-top: 12px;
-  margin-bottom: 0px;
-  background-color: lavender; 
-  hyphens: auto
-}
 
 .MathJax {
   font-size: 1.0 em;
