@@ -2,26 +2,17 @@
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="icon" href="icon/icon.jpg"/>
 <link rel="stylesheet" href="styles.css"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="functions.txt">
 </script>
-
-
-
-
-
-
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <script type="text/javascript">
 </script>
 
-<SCRIPT>
-window.resizeTo(600,400);
-</SCRIPT>
+
 
 
 
@@ -47,8 +38,8 @@ To be revised and
 
 <p>
 The assessment of the iron status of the population is
-critical:  iron de&shy;fi&shy;ciency is the most frequently occurring
-micronutrient de&shy;fi&shy;ciency in low-income and industrialized
+critical:  iron deficiency is the most frequently occurring
+micronutrient deficiency in low-income and industrialized
 countries.
 </p>
 
@@ -89,7 +80,7 @@ hormones and bile acids
 (<a href="https://www.google.com" target="right" >Yip and Dallman, 1996</a>;
 </span>
 
-<span title="Beard JL, Dawson H, Pi&#x00f1;ero DJ.  (1996).  Iron meta&shy;bolism:
+<span title="Beard JL, Dawson H, Pi&#x00f1;ero DJ.  (1996).  Iron metabolism:
   a comprehensive review.  Nutrition Reviews 54:  295&ndash;317.">
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Beard et al., 1996</a>)
 </span>
@@ -106,8 +97,8 @@ fraction of the nonheme iron stores.  Small quantities of
 ferritin can be synthesized in all cells of the body, even
 those with no special iron storage function.  Ferritin also
 appears in small concen&shy;trations in the serum but is not
-involved in iron transport.  The remain&shy;der of storage iron
-is insoluble hemo&shy;siderin
+involved in iron transport.  The remainder of storage iron
+is insoluble hemosiderin
 <span title="Yip R, Dallman PR.  (1996).  Iron.  In:  Ziegler EE, Filer
   LJ (eds.)  Present Knowledge in Nutrition. 7th ed.
   International Life Sciences Institute Press, Washington, DC.
@@ -138,10 +129,10 @@ means of cell membrane receptors specific for transferrin
 (<a href="#17.8">Section&nbsp;17.8</a>).  About 20&ndash;30mg of iron cycles through the
 transport component each day.
 </p>
-<h4>Absorption and meta&shy;bolism of iron</h4>
+<h4>Absorption and metabolism of iron</h4>
 <p>
 Three main factors in the body operate to maintain iron
-balance and prevent iron de&shy;fi&shy;ciency and iron overload.
+balance and prevent iron deficiency and iron overload.
 These are:  (a) intake, (b) storage, and (c) loss of iron.
 The interrelationship of these factors has now been
 described mathematically, so that the amount of storage iron
@@ -157,7 +148,7 @@ of iron are known
 
 <p>
 The two different forms of dietary iron, heme and nonheme,
-are absorbed by separate mech&shy;anisms.  Heme iron is derived
+are absorbed by separate mechanisms.  Heme iron is derived
 from the hemo&shy;globin and myoglobin in meat, and is absorbed
 readily as the intact moiety.  Nonheme iron is found
 primarily in plant-based foods, meat, and iron-fortified
@@ -169,9 +160,9 @@ some inhibit and others enhance nonheme iron absorption.
 
 <p>
 Inhibitors of nonheme iron absorption include phytate and
-polyphenols, as well as certain vege&shy;table proteins (e.g.,
+polyphenols, as well as certain vegetable proteins (e.g.,
 soybean protein).  Calcium inhibits both nonheme and heme
-iron absorption, although the precise mech&shy;anism is unclear.
+iron absorption, although the precise mechanism is unclear.
 In contrast, vitamin&nbsp;C, other organic acids, and animal
 tissues (meat, fish, and poultry) enhance nonheme iron
 absorption
@@ -197,14 +188,14 @@ Details are given in Section&nbsp;4.8 and
 <p>
 The amount of iron in the stores varies widely, depending on
 sex and iron status.  The iron bound to ferritin is more
-readily mobilized than iron bound to hemo&shy;siderin.  In cases
-of chronic iron de&shy;fi&shy;ciency, iron stores in the bone marrow,
+readily mobilized than iron bound to hemosiderin.  In cases
+of chronic iron deficiency, iron stores in the bone marrow,
 spleen, and liver are depleted first, after which tissue
-iron de&shy;fi&shy;ciency occurs.  In contrast, when iron balance is
+iron deficiency occurs.  In contrast, when iron balance is
 positive, iron stores gradually increase.  In general,
 depletion of iron stores alone does not have any adverse
 functional consequences, although there are some exceptions
-<span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron meta&shy;bolism:
+<span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron metabolism:
   a comprehensive review.  Nutrition Reviews 54:  295&ndash;317.">
 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Beard et al., 1996</a>).
 </span>
@@ -228,21 +219,21 @@ per day, although in some women it is much greater
 </p>
 
 <p>
-Most of the iron in eryth&shy;ro&shy;cytes is
+Most of the iron in erythrocytes is
 recycled for hemo&shy;globin synthesis at the end of their
 functional lifetime (i.e., on average 120d).  At this time,
-the eryth&shy;ro&shy;cytes are degraded by the macrophages of the
+the erythrocytes are degraded by the macrophages of the
 reticular endothelium, and the iron is rereleased in the
 form of iron bound to transferrin or ferritin.  This process
 is termed iron turnover; each day 0.66% of the total iron
 content of the body is recycled in this way.  For more
-details on the functions, absorption, and meta&shy;bolism of iron see
+details on the functions, absorption, and metabolism of iron see
 <span title="Fairbanks VF.  (1994).  Iron in medicine and nutrition.  In:
   Shils M, Olson JA, Shike M (eds.)  Modern Nutrition in
   Health and Disease. 8th ed.  Volume 1. &bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
 (<a href="https://www.google.com" target="right" >Fairbanks 1994</a>,
 </span>
-<span title="Hallberg L.,2001.  Perspectives on nutritional iron de&shy;fi&shy;ciency.
+<span title="Hallberg L.,2001.  Perspectives on nutritional iron deficiency.
   Annual Review of Nutrition 21:  1&ndash;21.">
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/11375427" target="right" >Hallberg , 2001</a>,
 </span>
@@ -256,26 +247,26 @@ details on the functions, absorption, and meta&shy;bolism of iron see
 <h4>
   Deficiency of iron in humans</h4>
 <p>
-Iron de&shy;fi&shy;ciency is particularly prevalent in infants, young
+Iron deficiency is particularly prevalent in infants, young
 children, and pregnant women.  It may arise from inadequate
 intakes of dietary iron, poor absorption, excessive losses,
-or a com&shy;bin&shy;ation of these factors.  In normal circumstances,
+or a combination of these factors.  In normal circumstances,
 only a small amount of iron is lost each day, with the
 exception of menstrual losses in premenopausal women.
 </p>
 
 <p>
-Overt physical manifestations of iron de&shy;fi&shy;ciency include anemia,
+Overt physical manifestations of iron deficiency include anemia,
 angular stomatitis, glossitis, dysphagia, hypochlorhydria,
 and koilonychia (spoon nails).  Behavioral disturbances such
-as pica, character&shy;ized by the abnormal consumption of
+as pica, characterized by the abnormal consumption of
 nonfood items such as dirt (geophagia) and ice (pagophagia),
 can also occur.  Other less-specific physiological
-manifestations that are associated with iron de&shy;fi&shy;ciency
+manifestations that are associated with iron deficiency
 include fatigue, anorexia, tiredness, impaired exercise or
 work performance, developmental delay, and cognitive
 impairment.  These functional consequences of iron
-de&shy;fi&shy;ciency are most likely to occur when the iron de&shy;fi&shy;ciency
+deficiency are most likely to occur when the iron deficiency
 is accompanied by a measurable decrease in hemo&shy;globin
 concen&shy;tration
 <span title="IOM (Institute of Medicine).  (2001).  Dietary Reference
@@ -288,9 +279,9 @@ concen&shy;tration
 
 Whether adverse pregnancy
 outcomes such as preterm delivery and higher maternal
-mortality are associated with iron de&shy;fi&shy;ciency is still
+mortality are associated with iron deficiency is still
 uncertain
-<span title="Allen LH.  (1997).  Pregnancy and iron de&shy;fi&shy;ciency:
+<span title="Allen LH.  (1997).  Pregnancy and iron deficiency:
   unresolved issues.  Nutrition Reviews 51:  49&ndash;52.">
 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9197129" target="right" >Allen, 1997</a>).
 </span>
@@ -324,7 +315,7 @@ target="right" >Hallberg and
 <p> In many industrialized countries, cereal
   products fortified or enriched with iron, provide the
   highest proportion of dietary iron, followed by meat,
-  poultry, and fish, and then vege&shy;tables and fruits
+  poultry, and fish, and then vegetables and fruits
 
   <span title="Gregory J, Foster K, Tyler H, Wiseman M. (1990).  The
   Dietary and Nutritional Survey of British Adults.  Her
@@ -407,7 +398,7 @@ target="right" >Hallberg and
   multiple blood transfusions, or at least in part from
   excessive intakes of dietary iron (e.g., some Bantu in South
   Africa)
-<span title="Andrews NC.  (1999).  Disorders of iron meta&shy;bolism.  New
+<span title="Andrews NC.  (1999).  Disorders of iron metabolism.  New
   England Journal of Medicine 341:  1986&ndash;1995.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10607817"
   target="right" >Andrews, 1999</a>)
@@ -427,14 +418,14 @@ target="right" >Hallberg and
   target="right" >IOM, 2001</a>).
   </span></p>
 
-<h4> Development of iron-de&shy;fi&shy;ciency anemia </h4>
-<p> Three stages in the development of iron de&shy;fi&shy;ciency anemia can
-  be recognized and are best character&shy;ized by the use of
+<h4> Development of iron-deficiency anemia </h4>
+<p> Three stages in the development of iron deficiency anemia can
+  be recognized and are best characterized by the use of
   multiple indices (<a href="#17.9">Section&nbsp;17.9</a>).  The three stages are the
   following: </p>
 <p>
 <span class="topic">Iron depletion,</span>
-  the first stage, is character&shy;ized by a
+  the first stage, is characterized by a
   progressive reduction in the amount of storage iron in the
   liver.  At this stage, the supply of iron to the functional
   compartment is not compromised so levels of transport iron
@@ -444,19 +435,19 @@ target="right" >Hallberg and
 <p>
 <span class="topic">Iron-deficient erythro&shy;poiesis,</span>
 , the second stage, is
-  character&shy;ized by the exhaustion of iron stores and is also
-  referred to as &ldquo;iron de&shy;fi&shy;ciency without anemia&rdquo;.  At this
+  characterized by the exhaustion of iron stores and is also
+  referred to as &ldquo;iron deficiency without anemia&rdquo;.  At this
   stage the iron supply to the erythropoietic cells is
   progressively reduced and decreases in transferrin
   saturation occur (<a href="#17.5">Section&nbsp;17.5</a>).  At the same time, there
   are increases in serum transferrin receptor (<a href="#17.8">Section&nbsp;17.8</a>)
-  and eryth&shy;ro&shy;cyte protoporphyrin concen&shy;trations (<a href="#17.7">Section&nbsp;17.7</a>).
+  and erythrocyte protoporphyrin concen&shy;trations (<a href="#17.7">Section&nbsp;17.7</a>).
   Hemoglobin levels may decline slightly at this
   stage, although they usually remain within the normal range. </p>
 <p>
-<span class="topic">Iron-de&shy;fi&shy;ciency anemia,</span>
+<span class="topic">Iron-deficiency anemia,</span>
   the third and final stage of iron
-  de&shy;fi&shy;ciency, is character&shy;ized by the exhaustion of iron
+  deficiency, is characterized by the exhaustion of iron
   stores, declining levels of circulating iron, and presence
   of frank microcytic, hypochromic anemia.  The main feature
   of this stage is a reduction in the concen&shy;tration of
@@ -467,7 +458,7 @@ target="right" >Hallberg and
   confirmation of the presence of hypochromia and
   microcytosis. </p>
 <p> The different measures of iron status are each discussed in
-  the remain&shy;der of this chapter, starting with those used in
+  the remainder of this chapter, starting with those used in
   the diagnosis of anemia &mdash; hemo&shy;globin and hematocrit. </p>
 
 <h2 id="17.1" >17.1 Hemoglobin</h2>
@@ -477,13 +468,13 @@ target="right" >Hallberg and
   hemo&shy;globin molecule is a conjugate of a protein (globin) and
   four molecules of heme.  Measurement of the concen&shy;tration of
   hemo&shy;globin in whole blood is probably the most widely used
-  test for iron-de&shy;fi&shy;ciency anemia.  It is important to note
+  test for iron-deficiency anemia.  It is important to note
   that some misclassification will always arise because the
   range of hemo&shy;globin values for normal nonanemic persons
-  overlap with values for persons with iron-de&shy;fi&shy;ciency.  This
+  overlap with values for persons with iron-deficiency.  This
   means that hemo&shy;globin should not be used as the only measure
-  of iron status in indiv&shy;iduals.  Indeed it can only be used
-  as the sole indicator of iron-de&shy;fi&shy;ciency anemia in
+  of iron status in individuals.  Indeed it can only be used
+  as the sole indicator of iron-deficiency anemia in
   populations under very specific circumstances
   (<a href="#17.1.3">Section&nbsp;17.1.3</a>).
   The use of hemo&shy;globin as a measure of iron status
@@ -491,7 +482,7 @@ target="right" >Hallberg and
 <h3 id="17.1.1">17.1.1 Factors affecting hemo&shy;globin concen&shy;trations</h3>
 <p>
 <span class="topic">Biological variation</span> in hemo&shy;globin concen&shy;trations are
-  sig&shy;nif&shy;icant.  Hemoglobin values tend to be lower in the
+  significant.  Hemoglobin values tend to be lower in the
   evening than in the morning, by amounts of up to 10g/L.
   Day-to-day variation is low.
 <p>
@@ -508,7 +499,7 @@ target="right" >Hallberg and
   style="width:350px;height:640px;"></iframe>
   </p>
   Sex differences in hemo&shy;globin
-  are apparent at 6&nbsp;mo of age, with boys having sig&shy;nif&shy;icantly
+  are apparent at 6&nbsp;mo of age, with boys having significantly
   lower hemo&shy;globin concen&shy;trations than girls.  Such
   discrepancies appear to be greater in infants with a birth
   weight &lt;&nbsp;3500g
@@ -516,7 +507,7 @@ target="right" >Hallberg and
   Hernell O. (2002a).  Sex differences in iron status during
   infancy.  Pediatrics 110:  545&ndash;552.  Domell&ouml;f M, Dewey KG,
   Lonnerdal B, Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/12205258"
   target="right" >Domell&ouml;f et al., 2002a</a>).
@@ -533,11 +524,11 @@ target="right" >Hallberg and
 <span class="topic">Race</span> is known to influence hemo&shy;globin concen&shy;trations.
   Individuals of African descent have hemo&shy;globin values 5&ndash;10g/L
   lower than Caucasians, irrespective of age, income, or
-  iron de&shy;fi&shy;ciency.  It is likely that a genetic factor is
+  iron deficiency.  It is likely that a genetic factor is
   involved.  As a result, race-specific cutoffs for diagnosing
   anemia in persons of African descent may be necessary
      <span title="Johnson-Spear MA, Yip R. (1994).  Hemoglobin difference
-  between black and white women with com&shy;parable iron status:
+  between black and white women with comparable iron status:
   justification for race-specific anemia criteria.  American
   Journal of Clinical Nutrition 60:  117&ndash;121.">
  (<a href="http://www.ncbi.nlm.nih.gov/pubmed/8017324"
@@ -545,14 +536,14 @@ target="right" >Hallberg and
  </span>
      <span title="WHO/UNICEF/UNU (World Health Organization / United Nations
   Childrens Fund / United Nations University) (2001).  Iron
-  de&shy;fi&shy;ciency anaemia, assessment, prevention and control:  a
+  deficiency anaemia, assessment, prevention and control:  a
   guide for programme managers.  WHO/NHD/01.3.  World Health
   Organization, Geneva. &bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
     (<a href="https://www.google.com"
 target="right" >WHO/UNICEF/UNU, 2001</a> )
  </span>
 recommends moving the hemo&shy;globin cutoffs downward by 10g/L
-  for indiv&shy;iduals of African descent, irrespective of age.  In
+  for individuals of African descent, irrespective of age.  In
   contrast, the Caucasian cutoffs for anemia seem to be
   appropriate for persons in Thailand
   <span title="Charoenlarp P, Polpothi T. (1987).  The distribution of
@@ -584,14 +575,14 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
   to both the lower partial pressure of oxygen and the reduced
   oxygen saturation of blood
   <span title="Hurtado A, Merino C, Delgado E. (1945).  Influence of
-  anoxemia on the hemopoietic activ&shy;ity.  Archives of Internal
+  anoxemia on the hemopoietic activity.  Archives of Internal
   Medicine 75:  284&ndash;323.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
   (<a href="https://www.google.com"
   target="right" >Hurtado et al., 1945</a>).
   </span>
-  This becomes sig&shy;nif&shy;icant at elevations above 1000m, with usual
+  This becomes significant at elevations above 1000m, with usual
   hematocrit and hemo&shy;globin concen&shy;trations increasing
-  gradually with altitude.  Con&shy;sequently, a series of
+  gradually with altitude.  Consequently, a series of
   adjustments for altitude for hemo&shy;globin cutoffs have been
   published by the Centers for Disease Control and Prevention
   <span title="CDC (Centers for Disease Control and Prevention).  (1989).
@@ -602,13 +593,13 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
     </span>
   (<a href="#17.1.2">Section&nbsp;17.1.2</a>). </p>
 <p>
-<span class="topic">Iron-de&shy;fi&shy;ciency anemia</span> develops only during the third stage
-  of iron de&shy;fi&shy;ciency, when iron stores are exhausted and the
+<span class="topic">Iron-deficiency anemia</span> develops only during the third stage
+  of iron deficiency, when iron stores are exhausted and the
   supply of iron to the tissues is compromised.  Hemoglobin is
-  therefore an insensitive measure of iron de&shy;fi&shy;ciency as the
+  therefore an insensitive measure of iron deficiency as the
   concen&shy;trations only fall during this late stage.  In
   addition, considerable overlap exists in the hemo&shy;globin
-  values of normal nonanemic and iron-deficient indiv&shy;iduals
+  values of normal nonanemic and iron-deficient individuals
 
      (<a href="#figure014A">Figure&nbsp;1.4</a>),
   <!--
@@ -623,17 +614,17 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 <span class="topic">Certain other micronutrient deficiencies</span> are associated with
   anemia and, by definition, with low hemo&shy;globin
   concen&shy;trations.  These include deficiencies of vitamin&nbsp;A,
-  B<sub>6</sub>, and B<sub>12</sub>, and ribo&shy;flavin, folic acid, and copper
+  B<sub>6</sub>, and B<sub>12</sub>, and riboflavin, folic acid, and copper
   <span title="van den Broek NR, Letsky EA, White SA, Shenkin A. (1998).
   Iron status in pregnant women:  which measurements are
   valid?  British Journal of Haematology 103:  817&ndash;824.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10871590"
   target="right" >van den Broek and Letsky, 2000</a>);
   </span>
-  details of the role of vita&shy;mins in
+  details of the role of vitamins in
   the etiology of anemia are given in
   <span title="Fishman SM, Christian P, West KJ Jr.  (2000).  The role of
-  vita&shy;mins in the prevention and control of anaemia.  Public
+  vitamins in the prevention and control of anaemia.  Public
   Health Nutrition 3:  125&ndash;150. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10948381"
   target="right" >Fishman et al.  (2000</a>).
@@ -642,8 +633,8 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 <p>
 <span class="topic">Parasitic infections</span> such as with the malarial protozoan
   Plasmodium falciparum cause low hemo&shy;globin concen&shy;trations by
-  rupturing eryth&shy;ro&shy;cytes and suppressing the production of new
-  eryth&shy;ro&shy;cytes.  Helminths (such as hookworms) and flukes
+  rupturing erythrocytes and suppressing the production of new
+  erythrocytes.  Helminths (such as hookworms) and flukes
   (e.g., schistosomes) may also cause low hemo&shy;globin values as
   a result of loss of blood and thus iron
     <span title="Stoltzfus RJ, Chwaya HM, Montresor A, Albonico M, Savioli L,
@@ -664,7 +655,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 	</p>
 <p>
 <span class="topic">Certain disease states</span> can affect hemo&shy;globin concen&shy;trations,
-  sig&shy;nif&shy;icantly reducing the specificity of the measure.  Low
+  significantly reducing the specificity of the measure.  Low
   hemo&shy;globin values arise in chronic infections and
   inflammation, chronic disease states including HIV-AIDS,
   hemorrhage, protein-energy malnutrition, hemo&shy;globinopathies,
@@ -686,13 +677,13 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
   healthy, non&shy;pregnant reference sample studied during the
   National Health and Nutrition Examination
   Survey (NHANES) III, 1988&ndash;1991).  The reference sample
-  consisted of indiv&shy;iduals of all races, but excluded pregnant
-  women and those with a higher risk of iron de&shy;fi&shy;ciency based
+  consisted of individuals of all races, but excluded pregnant
+  women and those with a higher risk of iron deficiency based
   on an abnmissing value for 3 of the 4&nbsp;tests
-  (free eryth&shy;ro&shy;cyte protoporphyrinormal value or, trans&shy;ferrin saturation,
+  (free erythrocyte protoporphyrinormal value or, trans&shy;ferrin saturation,
   serum ferritin, and mean cell volume)
      <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669"
   target="right" >Looker et al. 1997</a>).
@@ -711,7 +702,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 <p> Although often termed hemo&shy;globin &ldquo;cutoff values,&rdquo; the
   values from
       <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669"
   target="right" >Looker et,al., 1997</a>).
@@ -724,7 +715,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
   functional impairment (Section&nbsp;15.4).  Implicit in the use
   of a 5th percentile reference limit derived from the
   distribution of hemo&shy;globin values for a healthy reference
-  sample is the concept that most indiv&shy;iduals with hemo&shy;globin
+  sample is the concept that most individuals with hemo&shy;globin
   concen&shy;trations below the limit/cutoff will be at risk of
   having suboptimal hemo&shy;globin concen&shy;trations (i.e., the
   hemo&shy;globin would increase in response to iron
@@ -735,7 +726,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 <p> Cutoff values for hemo&shy;globin for
   identifying anemia during infancy were not defined by
    <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669"
   target="right" >Looker et al., 1997</a>).
@@ -747,7 +738,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
   (<a href="#table172A">Table&nbsp;17.2</a>)
   and by the
   <span title="CDC (Centers for Disease Control and Prevention).  (1998).
-  Recommendations to prevent and control iron de&shy;fi&shy;ciency in
+  Recommendations to prevent and control iron deficiency in
   the United States.  Morbidity and Mortality Weekly Report
   47:  1&ndash;36.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
   CDC  (<a href="https://www.google.com" target="right" >1998</a>).
@@ -763,7 +754,7 @@ recommends moving the hemo&shy;globin cutoffs downward by 10g/L
 
   <span title="  Domell&ouml;f M, Dewey KG, Lonnerdal B,
   Cohen RJ, Hernell O.,2002b.  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686. ">
   Domell&ouml;f et al. (<a href="http://www.ncbi.nlm.nih.gov/pubmed/12468607"
   target="right" >2002b</a>)
@@ -860,7 +851,7 @@ target="right" >Stoltzfus and Dreyfuss, 1998</a>).
   breastfeeding infants and children in the NHANES III
   population are included in
 
-  <a href="appendix/appA17-1.pdf" target="_blank">  Appendix&nbsp;A17.1 </a>
+  <a href="appendix/appA17-1.pdf" target="blank">  Appendix&nbsp;A17.1 </a>
 
   <span title="IOM (Institute of Medicine).  (2001).  Dietary Reference
   Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium,
@@ -936,7 +927,7 @@ Mean, median, and lower and upper 2.5 percentiles by age and
   studies to assess the iron status of a population
 
   <span title="Yip R, Stoltzfus RJ, Simmons WK.  (1996).  Assessment of the
-  prevalence and the nature of iron de&shy;fi&shy;ciency for
+  prevalence and the nature of iron deficiency for
   populations:  the utility of comparing haemoglobin
   distributions.  In:  Hallberg L, Asp N-G (eds.)  Iron
   Nutrition in Health and Disease.  John Libbey and Co,
@@ -947,7 +938,7 @@ Mean, median, and lower and upper 2.5 percentiles by age and
   This simplified approach is designed to assess
   the prevalence and etiology of anemia, based solely on
   hemo&shy;globin, and is especially useful when it is not feasible
-  to use multiple bio&shy;chem&shy;ical tests for iron status because
+  to use multiple biochemical tests for iron status because
   of cost or operational constraints.  It is also useful in
   developing countries where factors other than inadequate
   intakes of dietary iron, such as parasitic infections and
@@ -973,13 +964,13 @@ Mean, median, and lower and upper 2.5 percentiles by age and
      </span>
   and NHANES&nbsp;III
    <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669"
   target="right" >Looker et al. 1997</a>).
   </span>
-  populations by excluding subjects with bio&shy;chem&shy;ical evidence of iron
-  de&shy;fi&shy;ciency, as noted earlier.
+  populations by excluding subjects with biochemical evidence of iron
+  deficiency, as noted earlier.
 
    <a href="#figure171A">Figure&nbsp;17.1</a>
 
@@ -990,23 +981,23 @@ Mean, median, and lower and upper 2.5 percentiles by age and
 <p> If anemia is prevalent in the population then the
   distribution will be shifted to the left.  The distribution
   approach can also indicate when inadequate dietary intake of
-  iron is the main factor causing iron de&shy;fi&shy;ciency in a
+  iron is the main factor causing iron deficiency in a
   population.  In this case the hemo&shy;globin distributions for
   children and women are disproportionately affected.  Both
-  subgroups have sig&shy;nif&shy;icantly lower median hemo&shy;globin values
+  subgroups have significantly lower median hemo&shy;globin values
   when compared with their respective reference distributions,
   whereas the median of the distribution for adult men is
   virtually unaffected.  For example, comparison of the
   hemo&shy;globin distributions for both schoolaged children
 
      (<a href="#figure172A">Figure&nbsp;17.2</a>)
+
   <iframe src="figures/fig17-2.htm" name="figure172AFrame" id="figure172A" style="width:470px;height:530px"></iframe>
 
-  
   and men from Zanzibar with the corresponding
   U.S. reference sample for African Americans shows a marked
   shift of hemo&shy;globin concen&shy;trations.  In Zanzibar, the
-  decreased hemo&shy;globin levels were related to gastro&shy;intest&shy;inal
+  decreased hemo&shy;globin levels were related to gastrointestinal
   blood loss as a result of hookworm infection rather than
   inadequate dietary iron intake. </p>
 <h3 id="17.1.4">17.1.4 Measurement of hemo&shy;globin</h3>
@@ -1090,7 +1081,7 @@ Mean, median, and lower and upper 2.5 percentiles by age and
   and uses a dry reagent (sodium azide) in a microcuvette for
   direct blood collection and measurement.  The accuracy and
   precision of hemo&shy;globin values based on the HemoCue are
-  com&shy;parable to those obtained using the cyanmethemo&shy;globin
+  comparable to those obtained using the cyanmethemo&shy;globin
   method, provided standardized procedures for the sample
   collection and analysis are followed
   <span title=" von Schenck H, Falkensson M, Lundberg B. (1986).  Evaluation
@@ -1118,9 +1109,9 @@ Mean, median, and lower and upper 2.5 percentiles by age and
 
 <iframe src="figures/fig17-3.htm" name="figure173AFrame" id="figure173A" style="width:470px;height:380px"></iframe>
 
-  In iron de&shy;fi&shy;ciency, the hematocrit falls after hemo&shy;globin
+  In iron deficiency, the hematocrit falls after hemo&shy;globin
   formation has become impaired.  As a result, in early cases
-  of moderate iron de&shy;fi&shy;ciency, a marginally low hemo&shy;globin
+  of moderate iron deficiency, a marginally low hemo&shy;globin
   value may be associated with a nearly normal hematocrit
     <span title=" Graitcer PL, Goldsby JB, Nichaman MZ. (1981).  Hemglobins
   and hematocrits:  are they equally sensitive in detecting
@@ -1128,13 +1119,13 @@ Mean, median, and lower and upper 2.5 percentiles by age and
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/7446459" target="right" >Graitcer et al., 1981</a>).
    </span>
   Only in more severe
-  iron-de&shy;fi&shy;ciency anemia are both hemo&shy;globin and hematocrit
+  iron-deficiency anemia are both hemo&shy;globin and hematocrit
   reduced.   Limitations
   of the hematocrit determination include: </p>
  <ul>
 <li>Poor sensitivity with
 hematocrit falling only in the third stage of iron
-de&shy;fi&shy;ciency
+deficiency
 </li>
 <li>Poor specificity, as hematocrit is affected by the same factors that influence
 hemo&shy;globin
@@ -1156,7 +1147,7 @@ to those described for hemo&shy;globin
 <p> Hematocrit, like hemo&shy;globin, is usually determined on
   EDTA-anticoagulated blood from a venipuncture or capillary
   blood.  The measurement is relatively easy, rapid, and often
-  used in screening for iron-de&shy;fi&shy;ciency anemia, although the
+  used in screening for iron-deficiency anemia, although the
   technical errors for the measurement of hematocrit are
   greater than for hemo&shy;globin.  Measurement errors may result
   from: </p>
@@ -1172,7 +1163,7 @@ to those described for hemo&shy;globin
     dried before it was punctured </li>
   <li>Elevated white blood cell
     counts, leading to a poorly defined boundary between
-    eryth&shy;ro&shy;cytes and plasma in the hematocrit tube</li>
+    erythrocytes and plasma in the hematocrit tube</li>
 </ul>
 <h3 id="17.2.1">17.2.1 Interpretive criteria</h3>
  The cutoff values for hematocrit, compiled by INACG / WHO /
@@ -1239,7 +1230,7 @@ to those described for hemo&shy;globin
   lower than those generated electronically from automated
   counters
 <span title=" Fairbanks VG.  (1980).  Nonequivalence of automated and
-  manual hematocrit and eryth&shy;ro&shy;cyte indices.  American Journal
+  manual hematocrit and erythrocyte indices.  American Journal
   of Clinical Pathology 73:  55&ndash;62. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/7352424"
   target="right" >Fairbanks, 1980</a>;
@@ -1262,7 +1253,7 @@ to those described for hemo&shy;globin
   are required.  Values for red cell indices from automated
   counters are slightly higher than those determined manually
 <span title=" Fairbanks VG.  (1980).  Nonequivalence of automated and
-  manual hematocrit and eryth&shy;ro&shy;cyte indices.  American Journal
+  manual hematocrit and erythrocyte indices.  American Journal
   of Clinical Pathology 73:  55&ndash;62. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/7352424" target="right" >Fairbanks, 1980)</a>;
   </span>
@@ -1271,9 +1262,9 @@ to those described for hemo&shy;globin
   indices are noted in the absence of thalassemia trait,
   anemia of inflammatory disease, and other known causal
   conditions, additional measures of iron status are
-  recommended to confirm the diagnosis of iron de&shy;fi&shy;ciency.
+  recommended to confirm the diagnosis of iron deficiency.
   The confirmatory tests commonly used are serum iron and
-  total iron-binding capacity, serum ferritin, eryth&shy;ro&shy;cyte
+  total iron-binding capacity, serum ferritin, erythrocyte
   protoporphyrin, and more recently, serum trans&shy;ferrin
   receptor.  These tests are discussed in <a href="#17.5">Sections&nbsp;17.5</a> to
   <a href="#17.8">17.8</a>. </p>
@@ -1284,9 +1275,9 @@ to those described for hemo&shy;globin
   style="width:648px;height:400px;"></iframe>
 
   summarizes the expected changes in the more
-  important red cell indices during iron-de&shy;fi&shy;ciency anemia,
+  important red cell indices during iron-deficiency anemia,
   macrocytic anemia resulting from vitamin&nbsp;B<sub>12</sub> or folic acid
-  de&shy;fi&shy;ciency, and anemia of chronic inflammation (also known
+  deficiency, and anemia of chronic inflammation (also known
   as anemia of chronic disease).  The anemia of chronic
   inflammation (e.g., due to rheumatic fever, Crohn&#39;s disease,
   or ulcerative colitis) results from a defect in iron
@@ -1295,14 +1286,14 @@ to those described for hemo&shy;globin
   reticulo&shy;endothelial cells to plasma trans&shy;ferrin, or both.
   The anemia is generally mild, and can be normochromic and
   normocytic or slightly hypochromic and microcytic
-  <span title="Andrews NC.  (1999).  Disorders of iron meta&shy;bolism.  New
+  <span title="Andrews NC.  (1999).  Disorders of iron metabolism.  New
   England Journal of Medicine 341:  1986&ndash;1995.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10607817"
   target="right" >Andrews, 1999</a>).
     </span>
   Changes in red cell indices during vitamin&nbsp;B<sub>12</sub> and
-  folic acfolic acid de&shy;fi&shy;ciency and are descare described in
-  more detail in Section&nbsp;22.1.1.  In iron-de&shy;fi&shy;ciency anemia,
+  folic acfolic acid deficiency and are descare described in
+  more detail in Section&nbsp;22.1.1.  In iron-deficiency anemia,
   the fall in hemo&shy;globin is followed by a fall in mean cell
   volume, then mean cell hemo&shy;globin, and finally mean cell
   hemo&shy;globin concen&shy;tration.
@@ -1310,8 +1301,8 @@ to those described for hemo&shy;globin
 <p> Mean cell volume or mean corpuscular volume (MCV) is a
   measure of the average size of the red blood cells expressed
   in femtoliters (fL).  Cells may be abnormally large
-  (macrocytosis), as in vitamin&nbsp;B<sub>12</sub> or folic acid de&shy;fi&shy;ciency,
-  or abnormally small (microcytosis), as in iron and vitamin&nbsp;B<sub>6</sub> de&shy;fi&shy;ciency.
+  (macrocytosis), as in vitamin&nbsp;B<sub>12</sub> or folic acid deficiency,
+  or abnormally small (microcytosis), as in iron and vitamin&nbsp;B<sub>6</sub> deficiency.
   Mean cell volume is best determined directly
   with an electronic counter as results obtained in this way
   are highly reproducible.  If an electronic counter is not
@@ -1331,11 +1322,11 @@ to those described for hemo&shy;globin
   red cell size is unaffected if the sample is diluted by the
   interstitial fluid. </p>
 <p> A low MCV value only occurs when iron
-  de&shy;fi&shy;ciency is severe.  It is a relatively specific index for
-  iron-de&shy;fi&shy;ciency anemia, provided that the anemias of chronic
+  deficiency is severe.  It is a relatively specific index for
+  iron-deficiency anemia, provided that the anemias of chronic
   inflammation, certain hemo&shy;globinopathies, and lead poisoning
   are excluded.  In macrocytic anemias
-  associated with vitamin&nbsp;B<sub>12</sub> or folate de&shy;fi&shy;ciency, MCV values
+  associated with vitamin&nbsp;B<sub>12</sub> or folate deficiency, MCV values
   are high
 
   (
@@ -1349,7 +1340,7 @@ to those described for hemo&shy;globin
   progressively from 6mo of age to early adulthood
   <span title="Yip R, Johnson C, Dallman PR.  (1984).  Age-related changes
   in laboratory values used in the diagnosis of anemia and
-  iron de&shy;fi&shy;ciency.  American Journal of Clinical Nutrition 39:
+  iron deficiency.  American Journal of Clinical Nutrition 39:
   427&ndash;436.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021"
   target="right" >Yip et.al., 1984</a>).
@@ -1384,7 +1375,7 @@ to those described for hemo&shy;globin
    (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Pilch and
     Senti, 1984</a>).
   </span>
-  At present, com&shy;parable data are not available
+  At present, comparable data are not available
   for NHANES&nbsp;III. </p>
 <p> Age and sex-specific data for MCV are
   available for the U.K. national surveys
@@ -1426,7 +1417,7 @@ to those described for hemo&shy;globin
   specifically excluded. </p>
 <h3 id="17.3.2">17.3.2 Mean cell hemo&shy;globin</h3>
 <p> Mean cell hemo&shy;globin (MCH) is the mean hemo&shy;globin content of
-  indiv&shy;idual red blood cells.  It is derived from the ratio of
+  individual red blood cells.  It is derived from the ratio of
   hemo&shy;globin to the red blood cell count: </p>
 
 <p>
@@ -1435,9 +1426,9 @@ to those described for hemo&shy;globin
 
 <p> The MCH changes progressively from infancy to adulthood,
   when values range from 27 to 32pg.  The changes in
-  iron-de&shy;fi&shy;ciency anemia are similar to those for MCV; MCH is
-  low in iron-de&shy;fi&shy;ciency anemia but high in the macrocytic
-  anemias of both vitamin&nbsp;B<sub>12</sub> and folate de&shy;fi&shy;ciency
+  iron-deficiency anemia are similar to those for MCV; MCH is
+  low in iron-deficiency anemia but high in the macrocytic
+  anemias of both vitamin&nbsp;B<sub>12</sub> and folate deficiency
 
     (<a href="#table177A">Table&nbsp;17.7</a>).
 
@@ -1446,10 +1437,10 @@ to those described for hemo&shy;globin
   -->
   In the latter, the red blood cells are laden with
   hemo&shy;globin but are reduced in number.  In severe iron
-  de&shy;fi&shy;ciency, the relative fall in MCH is greater than the
+  deficiency, the relative fall in MCH is greater than the
   corresponding fall in MCV
   <span title="Dallman PR.  (1977).  New approaches to screening for iron
-  de&shy;fi&shy;ciency.  Journal of Pediatrics 90:  678&ndash;681. ">
+  deficiency.  Journal of Pediatrics 90:  678&ndash;681. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Dallman, 1977</a>).
   </span>
   Age and sex-specific data for MCH are available for the U.K.
@@ -1505,17 +1496,17 @@ to those described for hemo&shy;globin
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/5579856" target="right" >Matoth et al., 1971</a>).
   </span>
   Nevertheless, this index is the least useful of the red cell
-  indices because it is last to fall during iron de&shy;fi&shy;ciency.
+  indices because it is last to fall during iron deficiency.
   Mean cell hemo&shy;globin concen&shy;trations are low in
-  iron-de&shy;fi&shy;ciency anemia but normal in
+  iron-deficiency anemia but normal in
   the macrocytic anemia of vitamin&nbsp;B<sub>12</sub> and folic acid
-  de&shy;fi&shy;ciency, and in the anemia of chronic disease
+  deficiency, and in the anemia of chronic disease
 
       (<a href="#table177A">Table&nbsp;17.7</a>).
 
   Values in normal adults range from 320 to 360g/L.
   Values of &lt;&nbsp;300g/L indicate hypochromia and are associated
-  with advanced iron de&shy;fi&shy;ciency.  Age and sex-specific data for
+  with advanced iron deficiency.  Age and sex-specific data for
   MCHC are available for the U.K. national surveys
 
   <span title="Gregory J, Foster K, Tyler H, Wiseman M. (1990).  The
@@ -1567,7 +1558,7 @@ to those described for hemo&shy;globin
   counters output only the standard deviation as the measure
   of RDW. </p>
 <p> Red cell distribution width increases in
-  iron-de&shy;fi&shy;ciency anemia and was included as a marker of iron
+  iron-deficiency anemia and was included as a marker of iron
   status in the NHANES&nbsp;III survey
   <span title="Looker AC, Gunter EW, Johnson CL.  (1995).  Methods to
   assess iron status in various NHANES surveys.  Nutrition
@@ -1579,9 +1570,9 @@ to those described for hemo&shy;globin
   this, 65% of women of African descent aged 20&ndash;49y with an
   elevated RDW were also iron deficient based on the ferritin
   model <a href="#17.6">(Section&nbsp;17.6</a>); 36% were anemic.  In contrast, only 6%
-  with a normal RDW showed similar signs of iron de&shy;fi&shy;ciency,
+  with a normal RDW showed similar signs of iron deficiency,
   and only 5% were anemic.  For children 1&ndash;2y, the
-  sensitivity of this cutoff was sig&shy;nif&shy;icantly worse,
+  sensitivity of this cutoff was significantly worse,
   suggesting that different cutoffs are needed for children
   and adults.
   <span title="Bessman JD, Gilmer PR Jr, Gardner FH.  (1983).  Improved
@@ -1590,7 +1581,7 @@ to those described for hemo&shy;globin
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Bessman et al. (1983)</a>
   </span>
   classified anemic
-  disorders based on a com&shy;bin&shy;ation of a low, normal, and high
+  disorders based on a combination of a low, normal, and high
   MCV and two categories of RDW &mdash; normal (&lt;&nbsp;15.1%) and high
   (indicating anisocytosis).  The anemias identified in this
   way are listed in
@@ -1601,8 +1592,8 @@ to those described for hemo&shy;globin
   style="width:630px;height:680px;"></iframe>
 </p><p>
 
-Clearly, a high RDW is not specific for iron de&shy;fi&shy;ciency.
-  High values also occur in folate or vitamin&nbsp;B<sub>12</sub> de&shy;fi&shy;ciency
+Clearly, a high RDW is not specific for iron deficiency.
+  High values also occur in folate or vitamin&nbsp;B<sub>12</sub> deficiency
   and when iron and folate, or iron and vitamin&nbsp;B<sub>12</sub>
   deficiencies coexist.  Also, in some hemo&shy;globinopathies
   (e.g. in S&nbsp;&beta;-thalassemia and SS and SC hemo&shy;globinopathy) RDW
@@ -1612,11 +1603,11 @@ Clearly, a high RDW is not specific for iron de&shy;fi&shy;ciency.
 
   </p>
 
-  However, iron-de&shy;fi&shy;ciency anemia
+  However, iron-deficiency anemia
   results in a greater increase in RDW than does the
   microcytic anemia of the hemo&shy;globinopathy S&nbsp;&beta;-thalassemia
    <span title="Bessman JD, Feinstein DI.  (1979).  Quantitative
-  anisocytosis as a discriminant between iron de&shy;fi&shy;ciency and
+  anisocytosis as a discriminant between iron deficiency and
   thalassemia minor.  Blood 53:  288&ndash;293. ">
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >(Bessman and Feinstein, 1979</a>).
   </span>
@@ -1654,10 +1645,10 @@ Clearly, a high RDW is not specific for iron de&shy;fi&shy;ciency.
 <h2 id="17.5">17.5 Serum iron, TIBC, and trans&shy;ferrin saturation</h2>
 <p> Three interrelated variables, serum iron, total iron-binding
   capacity (TIBC), and trans&shy;ferrin saturation are very useful
-  for differentiating between nutritional iron de&shy;fi&shy;ciency and
+  for differentiating between nutritional iron deficiency and
   anemia arising from chronic infections, inflammation, or
-  chronic neoplastic diseases.  Nutritional iron de&shy;fi&shy;ciency is
-  character&shy;ized by a low serum iron, elevated TIBC and, thus,
+  chronic neoplastic diseases.  Nutritional iron deficiency is
+  characterized by a low serum iron, elevated TIBC and, thus,
   low trans&shy;ferrin saturation, whereas in chronic infections,
   inflammation, or chronic neoplastic diseases, both serum
   iron and TIBC are low, so trans&shy;ferrin saturation tends
@@ -1694,7 +1685,7 @@ Clearly, a high RDW is not specific for iron de&shy;fi&shy;ciency.
 <p> Levels &lt;&nbsp;16% saturation indicate that the rate
   of delivery of iron is insufficient to maintain normal
   hemo&shy;globin synthesis.  However, low trans&shy;ferrin saturation
-  levels are not specific for iron de&shy;fi&shy;ciency, as discussed
+  levels are not specific for iron deficiency, as discussed
   below. </p>
 <h3 id="17.5.1">17.5.1 Factors influencing serum iron, TIBC, and transferrin
   saturation</h3>
@@ -1705,7 +1696,7 @@ Clearly, a high RDW is not specific for iron de&shy;fi&shy;ciency.
 <span class="topic">Biological variation</span> for serum iron may be quite large:
   coefficients of variation may exceed 30% &mdash; mainly as a
   result of variation in the release of iron from the
-  reticulo&shy;endothelial system to the plasma among indiv&shy;iduals
+  reticulo&shy;endothelial system to the plasma among individuals
   <span title="Worwood M. (1996).  The importance of standardization of
   methodology for determination of iron status.  In:  Hallberg
   L, Asp N-G (eds.)  Iron Nutrition in Health and Disease.
@@ -1740,7 +1731,7 @@ style="width:470px;height:550px"></iframe>
 
   The results for
   serum iron have obvious implications for its use at the
-  population and indiv&shy;idual levels.  They highlight the
+  population and individual levels.  They highlight the
   importance of using multiple indices of iron status to
   provide a more valid assessment of iron status than any
   single measurement <a href="#17.9">(Section&nbsp;17.9</a>).
@@ -1763,7 +1754,7 @@ style="width:470px;height:550px"></iframe>
   advancing age
 <span title="Yip R, Johnson C, Dallman PR.  (1984).  Age-related changes
   in laboratory values used in the diagnosis of anemia and
-  iron de&shy;fi&shy;ciency.  American Journal of Clinical Nutrition 39:
+  iron deficiency.  American Journal of Clinical Nutrition 39:
   427&ndash;436. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/6695842"
   target="right" >Yip et al., 1984</a>).
@@ -1792,7 +1783,7 @@ style="width:470px;height:550px"></iframe>
   <iframe src="figures/fig17-5.htm" name="figure175AFrame" id="figure175A" style="width:470px;height:700px"></iframe>	.
   <p>
   <span class="topic">Oral contraceptive agents</span> result in elevated levels of TIBC
-  similar to those observed in iron de&shy;fi&shy;ciency
+  similar to those observed in iron deficiency
 
   <span title="Pilch SM, Senti FR (eds.)  (1984).  Assessment of the Iron
   Nutritional Status of the U.S.  Population Based on Data
@@ -1804,17 +1795,17 @@ style="width:470px;height:550px"></iframe>
    </span>
   </p>
 <p>
-<span class="topic">Iron de&shy;fi&shy;ciency</span> leads to a fall in serum iron levels and a
+<span class="topic">Iron deficiency</span> leads to a fall in serum iron levels and a
   rise in serum trans&shy;ferrin and, thus, a rise in TIBC.
-  Con&shy;sequently, trans&shy;ferrin saturation is low.  These changes
-  appear during the second stage of iron de&shy;fi&shy;ciency, after
+  Consequently, trans&shy;ferrin saturation is low.  These changes
+  appear during the second stage of iron deficiency, after
   iron stores are depleted.  Hence, trans&shy;ferrin saturation is
   a more sensitive index of iron status than the red cell
   indices discussed in <a href="#17.3">Section&nbsp;17.3</a>.  It is also more
-  consistently useful for diagnosing iron de&shy;fi&shy;ciency than
+  consistently useful for diagnosing iron deficiency than
   either serum iron or total TIBC alone:  a low trans&shy;ferrin
   saturation in association with an elevated TIBC is specific
-  for iron de&shy;fi&shy;ciency. </p>
+  for iron deficiency. </p>
 <p>
 <span class="topic">Iron overload</span> results in an elevated body iron store and,
   thus, a high serum iron level, leading to a low TIBC and an
@@ -1822,7 +1813,7 @@ style="width:470px;height:550px"></iframe>
   trans&shy;ferrin saturation &gt; 70% was used as a criterion for
   detecting iron overload in adults
   <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
@@ -1851,18 +1842,18 @@ style="width:470px;height:550px"></iframe>
   despite adequate or even slightly increased iron stores.  As
   the iron stores are adequate, the body does not respond to
   the fall in serum iron by increasing absorption of iron from
-  the diet.  Con&shy;sequently, trans&shy;ferrin synthesis
+  the diet.  Consequently, trans&shy;ferrin synthesis
   is not increased, and levels of TIBC are low.  Hence, the
   determination of TIBC allows one to distinguish between the
   low trans&shy;ferrin saturation associated with the anemia of
-  chronic disease and that of true iron de&shy;fi&shy;ciency. </p>
+  chronic disease and that of true iron deficiency. </p>
 <p>
-<span class="topic">Decreased erythro&shy;poiesis</span> is often associated with vitamin&nbsp;
-  B<sub>12</sub> or folic acid de&shy;fi&shy;ciency, as well as with the action of
+<span class="topic">Decreased erythro&shy;poiesis</span> is often associated with vitamin
+  B<sub>12</sub> or folic acid deficiency, as well as with the action of
   certain drugs and toxins.  In these circumstances, serum
   iron levels are normal or slightly above normal because of
   decreased utilization of iron for hemo&shy;globin synthesis;
-  levels of TIBC are often normal or low.  Con&shy;sequently,
+  levels of TIBC are often normal or low.  Consequently,
   trans&shy;ferrin saturation may be high. </p>
 <p>
 <span class="topic">Increased erythro&shy;poiesis</span> can occur after recovery from bone
@@ -1870,16 +1861,16 @@ style="width:470px;height:550px"></iframe>
   therapy, in hemolysis, and sometimes in polycythemia.  In
   such cases, the serum iron concen&shy;tration may fall below
   normal limits, whereas the TIBC is often high-normal or even
-  high, a trend com&shy;parable to that observed in iron
-  de&shy;fi&shy;ciency.  As a result, some addditional alternative
+  high, a trend comparable to that observed in iron
+  deficiency.  As a result, some addditional alternative
   measures of iron status (e.g., serum ferritin) should be
-  used to distinguish between iron de&shy;fi&shy;ciency and increased
+  used to distinguish between iron deficiency and increased
   erythro&shy;poiesis. </p>
 <h3 id="17.5.2">17.5.2 Interpretive criteria</h3>
 <p> In adults, a trans&shy;ferrin saturation below about 16% will be
   associated with iron-deficient erythro&shy;poiesis, if the
   subjects with infection and inflammation are excluded
-  <span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron meta&shy;bolism:
+  <span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron metabolism:
   a comprehensive review.  Nutrition Reviews 54:  295&ndash;317.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Beard et al., 1996</a>).
      </span>
@@ -1892,7 +1883,7 @@ style="width:470px;height:550px"></iframe>
 
   <span title="Dallman PR, Looker AC, Johnson CL, Carroll M. (1996).
   Influence of age on laboratory criteria for the diagnosis of
-  iron de&shy;fi&shy;ciency anaemia and iron de&shy;fi&shy;ciency in infants and
+  iron deficiency anaemia and iron deficiency in infants and
   children.  In:  Hallberg L, Asp N-G (eds.)  Iron Nutrition
   in Health and Disease.  John Libbey and Co, London, pp.
   65&ndash;74.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
@@ -1903,20 +1894,20 @@ style="width:470px;height:550px"></iframe>
 
 <p>
 <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   Looker et al., (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >1997</a>)
      </span>
 suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
   trans&shy;ferrin saturation in children 1&ndash;15y, and &lt;&nbsp;15% for
   adults &ge;16y when assessing the prevalence of iron
-  de&shy;fi&shy;ciency in the NHANES III survey, as shown in
+  deficiency in the NHANES III survey, as shown in
 
   <a href="#table1714A">Table&nbsp;17.14</a>.
 
   The cutoffs of
   <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   Looker et al., (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >1997</a>).
      </span>
@@ -1942,7 +1933,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
 <p> trans&shy;ferrin saturation values &gt;&nbsp;70% were used as a
   criterion for detecting iron overload in adult males and
   females in both the NHANES II and III surveys, in
-  com&shy;bin&shy;ation with elevated serum ferritin levels (<a href="#17.6">Section&nbsp;17.6</a>).  In some studies, a lower cutoff value for
+  combination with elevated serum ferritin levels (<a href="#17.6">Section&nbsp;17.6</a>).  In some studies, a lower cutoff value for
   trans&shy;ferrin saturation for screening for iron overload in
   women (i.e., &gt;&nbsp;50%) has been used
   <span title="Hallberg L. (1995).  Results of surveys to assess iron
@@ -1968,7 +1959,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
   A diagrammatic summary of this
   information is shown in
  <a href="#figure176A">Figure&nbsp;17.6</a>.
- <iframe src="figures/fig17-6.htm" name="figure176AFrame" id="figure176A" style="width:470px;height:400px"></iframe>
+ <iframe src="figures/fig17-6.htm"name="figure176AFrame" id="figure176A" style="width:470px;height:400px"></iframe>
 
 <p> The U.K.  National
   Diet and Nutrition Survey of young people aged 4 to 18y
@@ -2038,7 +2029,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
     </span>
   particularly at the
   lower end of the range where the diagnosis of iron
-  de&shy;fi&shy;ciency is important
+  deficiency is important
    <span title="Worwood M. (1996).  The importance of standardization of
   methodology for determination of iron status.  In:  Hallberg
   L, Asp N-G (eds.)  Iron Nutrition in Health and Disease.
@@ -2086,9 +2077,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
    <span title="Ramsay WNM.  (1997).  The determination of the total
   iron-binding capacity of serum.  Clinica Chimica Acta 259:
   25&ndash;30.">
-  (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9086291/"
-  target="right" >Ramsay, 1997</a>).
-   </span>
+  (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9086291/" target="right" >Ramsay, 1997</a>). </p>
 <p> Potential sources of error in the measurement of both serum
   iron and TIBC include contamination by exogenous iron,
   interference by lipids and bilirubin in the spectrometric
@@ -2104,7 +2093,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
   the assay employing ferrozine, used for serum iron and TIBC
   in NHANES III, was improved by the addition of 1% thiourea
   <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
@@ -2145,9 +2134,9 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
   measurements of iron transport are now often omitted from
   nutrition surveys because of the large volume of serum
   sample required, cumbersome analytical methods, and their
-  poor sensitivity and specificity for iron de&shy;fi&shy;ciency; their
+  poor sensitivity and specificity for iron deficiency; their
   greatest value is in distinguishing between the anemia of
-  inflammatory disease and that of true iron de&shy;fi&shy;ciency
+  inflammatory disease and that of true iron deficiency
       <span title="Cook JD.  (1999).  Defining optimal body iron.  Proceedings
   of the Nutrition Society 58:  489&ndash;495.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/10466194" target="right" >Cook, 1999</a>).
@@ -2157,7 +2146,7 @@ suggested using cutoff values ranging from &lt;&nbsp;10% to &lt;&nbsp;14% for
       <span title="Addison GM, Beamish MR, Hayles CN, Hodgkins M, Jacobs A,
   Llewellyn P. (1972).  An immunoradiometric assay for
   ferritin in the serum of normal subjects and patients with
-  iron de&shy;fi&shy;ciency and iron overload.  Journal of Clinical
+  iron deficiency and iron overload.  Journal of Clinical
   Pathology 25:  326&ndash;329.">
 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Addison et al. (1972</a>).
    </span>
@@ -2170,8 +2159,8 @@ Its function in the serum is unknown.
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/7044096" target="right" >Cook and Skikne, 1982</a>).
      </span>
   In most
-  healthy indiv&shy;iduals and those with uncomplicated iron
-  de&shy;fi&shy;ciency, the concen&shy;tration of serum or plasma ferritin
+  healthy individuals and those with uncomplicated iron
+  deficiency, the concen&shy;tration of serum or plasma ferritin
   parallels the total amount of storage iron
    <span title="Cook JD, Lipschitz DA, Miles LEM, Finch CA.  (1974).Serum
   ferritin as a measure of iron stores in normal subjects.
@@ -2180,7 +2169,7 @@ Its function in the serum is unknown.
   </span>
   Once iron stores become exhausted, however, serum
   ferritin concen&shy;trations no longer reflect the severity of
-  the iron-de&shy;fi&shy;ciency state.  Serum ferritin is the only
+  the iron-deficiency state.  Serum ferritin is the only
   measure of iron status that can reflect a deficient, excess,
   or normal iron status.
   Evidence for the quantitative relationship between serum
@@ -2253,7 +2242,7 @@ response in serum ferritin levels.
   concen&shy;trations then fall throughout later infancy
    <span title="Domell&ouml;f M, Dewey KG, Lonnerdal B,
   Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/12468607" target="right" >Domell&ouml;f et al.,  2002b</a>).
       </span>
@@ -2303,7 +2292,7 @@ response in serum ferritin levels.
         (<a href="#table1711A">Table&nbsp;17.11</a>)
   (<a href="#figure177A">Figure&nbsp;17.7</a>)
 
-<iframe src="figures/fig17-7.htm" name="figure177AFrame" id="figure177A" style="width:490px;height:510px"></iframe>
+<iframe src="figures/fig17-7.htm"name="figure177AFrame" id="figure177A" style="width:490px;height:510px"></iframe>
 
        <span title="Zacharski LR, Ornstein DL, Woloshin S, Schwartz LM.  (2000).
   Association of age, sex, and race with body iron stores in
@@ -2323,7 +2312,7 @@ response in serum ferritin levels.
 <p>
 <span class="topic">Race</span> is known to influence serum ferritin concen&shy;trations.
   In NHANES&nbsp;III, adult male African Americans had higher serum
-  ferritin values than Caucasians and Hispanics of com&shy;parable
+  ferritin values than Caucasians and Hispanics of comparable
   age for each decade of life.  In the adult females, serum
   ferritin levels were only higher in the African Americans
   after menopause.  Overall, serum ferritin values were
@@ -2341,15 +2330,15 @@ response in serum ferritin levels.
         </span>
   </p>
 <p>
-<span class="topic">Iron de&shy;fi&shy;ciency</span> leads to lower iron stores:  serum ferritin
+<span class="topic">Iron deficiency</span> leads to lower iron stores:  serum ferritin
   values fall progressively as the stores decline, before the
   characteristic changes in serum iron and TIBC.  In
-  conditions of frank iron-de&shy;fi&shy;ciency anemia, when classic
+  conditions of frank iron-deficiency anemia, when classic
   microcytic hypochromic anemia occurs, serum ferritin levels
   are very low or zero, reflecting the exhaustion of storage
   iron.  It is important to note that a low concen&shy;tration of
-  serum ferritin is characteristic only of iron de&shy;fi&shy;ciency
-           <span title="Dallman PR, Siimes MA, Stekel A. (1980).  Iron de&shy;fi&shy;ciency in
+  serum ferritin is characteristic only of iron deficiency
+           <span title="Dallman PR, Siimes MA, Stekel A. (1980).  Iron deficiency in
   infancy and childhood.  American Journal of Clinical
   Nutrition 33:  86&ndash;118. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/6986756" target="right" >Dallman et al., 1980</a>).
@@ -2378,8 +2367,8 @@ neoplastic diseases, and liver disorders elevate serum
   elevated concen&shy;tration of ferritin in the serum.  Hence,
   serum ferritin is inappropriate as an indicator of iron
   status where infection and inflammation are widespread and
-  coexist with iron de&shy;fi&shy;ciency because values may be within
-  the normal range despite the presence of iron de&shy;fi&shy;ciency
+  coexist with iron deficiency because values may be within
+  the normal range despite the presence of iron deficiency
     <span title="Brown KH.  (1998).  Effect of infections on plasma Zn
   concen&shy;trations and implications for zinc status assessment
   in low-income countries.  American Journal of Clinical
@@ -2394,7 +2383,7 @@ neoplastic diseases, and liver disorders elevate serum
   induce elevated serum ferritin concen&shy;trations.  For example,
   in NHANES&nbsp;III
     <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
@@ -2418,7 +2407,7 @@ neoplastic diseases, and liver disorders elevate serum
   appropriate when these conditions are chronic, as is common
   in the elderly
     <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
@@ -2458,8 +2447,8 @@ neoplastic diseases, and liver disorders elevate serum
 </span>
   and people age &gt;&nbsp;65y
    <span title="Doyle W, Crawley H, Robert H, Bates CJ.  J. (1999).  Iron
-  de&shy;fi&shy;ciency in older people:  interactions between food and
-  nutrient intakes with bio&shy;chem&shy;ical measures of iron; further
+  deficiency in older people:  interactions between food and
+  nutrient intakes with biochemical measures of iron; further
   analysis of the National Diet and Nutrition Survey of people
   aged 65 years and over.  European Journal of Clinical
   Nutrition 53:  552&ndash;559.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
@@ -2468,7 +2457,7 @@ neoplastic diseases, and liver disorders elevate serum
   The normal upper limit of
   a1-antichymotrysin for adults is 0.65g/L. </p>
 <p>
-<span class="topic">Decreased erythro&shy;poiesis</span> may be associated with a de&shy;fi&shy;ciency
+<span class="topic">Decreased erythro&shy;poiesis</span> may be associated with a deficiency
   of specific nutrients such as vitamin&nbsp;B<sub>12</sub> and folic acid,
   and with certain drugs and toxins.  This results in a
   decreased utilization of iron for hemo&shy;globin synthesis, and,
@@ -2495,7 +2484,7 @@ neoplastic diseases, and liver disorders elevate serum
   &mdash; an update.  Clinica Chimica Acta 259:  3&ndash;23.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9086290" target="right" >Worwood, 1997</a>).
     </span>
-  Such damage is one of the factors con&shy;tribut&shy;ing to the elevated
+  Such damage is one of the factors contributing to the elevated
   serum ferritin concen&shy;trations that are observed in children
   with protein-energy malnutrition.  These elevated serum
   ferritin levels do not reflect a high intracellular
@@ -2570,13 +2559,13 @@ elevated plasma glucose concen&shy;trations
   value of &lt;&nbsp;12&mu;g/L
   for all older subjects
     <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>)      </span>
       (<a href="#table1714A">Table&nbsp;17.14</a>).
 
   <span title="Hallberg L, Bengtsson C, Lapidus L, Lindstedt G, Lundberg
-  PA, Hult&eacute;n L. (1993).  Screening for iron de&shy;fi&shy;ciency:  an
+  PA, Hult&eacute;n L. (1993).  Screening for iron deficiency:  an
   analysis based on bone marrow examinations and serum
   ferritin determinations in a population sample of women.
   British Journal of Haematology 85:  787&ndash;798. ">
@@ -2587,12 +2576,12 @@ elevated plasma glucose concen&shy;trations
   ferritin may be necessary to diagnose iron depletion in the
   elderly
     <span title="Guyatt GH, Patterson C, Ali M, Singer J, Levine M, Turpie I,
-  Meyer R. (1990).  Diagnosis of iron-de&shy;fi&shy;ciency anemia in the
+  Meyer R. (1990).  Diagnosis of iron-deficiency anemia in the
   elderly.  American Journal of Medicine 88:  205&ndash;209. ">
    (<a href="http://www.ncbi.nlm.nih.gov/pubmed/2178409" target="right" >Guyatt et at., 1990</a> ;
 	 </span>
 	    <span title="Fleming D, Wood RJ.  (1996).  Plasma trans&shy;ferrin receptor
-  helps to predict iron de&shy;fi&shy;ciency in the anemia of chronic
+  helps to predict iron deficiency in the anemia of chronic
   disease.  Nutrition Reviews 53:  167&ndash;175. ">
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/7478311" target="right" >Fleming and Wood, 1996</a>).
    </span>
@@ -2601,7 +2590,7 @@ elevated plasma glucose concen&shy;trations
 <p> Lower cutoffs for infants have been proposed by
     <span title="Domell&ouml;f M, Dewey KG, Lonnerdal B,
   Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/12468607" target="right" >Domell&ouml;f et al.,  2002b</a>).
       </span>
@@ -2633,7 +2622,7 @@ The cutoffs are based on serum ferritin
   disorders, as they also occur in liver disease, neoplasms
   (e.g., leukemia), inflammatory disease, and decreased
   erythro&shy;poiesis, as discussed above.  If these conditions
-  coexist with iron de&shy;fi&shy;ciency, indiv&shy;iduals may be incorrectly
+  coexist with iron deficiency, individuals may be incorrectly
   diagnosed as iron replete based on serum ferritin alone. </p>
 
 <p> Tables of mean and selected percentiles for serum ferritin
@@ -2648,7 +2637,7 @@ The cutoffs are based on serum ferritin
   NHANES II, in both children and adults
     <span title="Dallman PR, Looker AC, Johnson CL, Carroll M. (1996).
   Influence of age on laboratory criteria for the diagnosis of
-  iron de&shy;fi&shy;ciency anaemia and iron de&shy;fi&shy;ciency in infants and
+  iron deficiency anaemia and iron deficiency in infants and
   children.  In:  Hallberg L, Asp N-G (eds.)  Iron Nutrition
   in Health and Disease.  John Libbey and Co, London, pp.
   65&ndash;74.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
@@ -2745,7 +2734,7 @@ The cutoffs are based on serum ferritin
   for serum ferritin analyzed from venous blood using IRMA are
   approx&shy;imately 3% and 7%, respectively
    <span title="Dallman PR.  (1984).  Diagnosis of anemia and iron
-  de&shy;fi&shy;ciency:  analytic and biological variations of
+  deficiency:  analytic and biological variations of
   laboratory tests.  American Journal of Clinical Nutrition
   39:  937&ndash;941.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/6720622" target="right" >Dallman, 1984</a>).
@@ -2771,13 +2760,13 @@ The cutoffs are based on serum ferritin
   for the IRMA and ELISA methods have been reported
    <span title="Flowers CH, Kuizon M, Beard JL, Skikne BS, Covell AM, Cook
   JD.  (1986).  A serum ferritin assay for prevalence studies
-  of iron de&shy;fi&shy;ciency.  American Journal of Hematology 23:
+  of iron deficiency.  American Journal of Hematology 23:
   141&ndash;151.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/3529940" target="right" >Flowers et al., 1986</a>).
     </span>
   Nevertheless, differences among kits may be
   marked particularly at low values, and can alter the
-  apparent prevalence of iron de&shy;fi&shy;ciency
+  apparent prevalence of iron deficiency
   <span title="Hallberg L. (1995).  Results of surveys to assess iron
   status in Europe.  Nutrition Reviews 53:  314&ndash;322.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/8643213" target="right" >Hallberg, 1995</a>).
@@ -2815,10 +2804,10 @@ The cutoffs are based on serum ferritin
   refrigerated at 2&ndash;8&deg;C for at least 5 d. For longer storage
   of up to 6mo, samples should be frozen at &ndash;20&deg;C.  Repeated
   thawing and freezing should be avoided. </p>
-<h2 id="17.7">17.7 Zinc protoporphyrin and free eryth&shy;ro&shy;cyte protoporphyrin</h2>
+<h2 id="17.7">17.7 Zinc protoporphyrin and free erythrocyte protoporphyrin</h2>
 <p> There is some confusion in the literature because
   protoporphyrin is reported as both zinc protoporphyrin
-  (ZnPP) and total metal-free eryth&shy;ro&shy;cyte protoporphyrin
+  (ZnPP) and total metal-free erythrocyte protoporphyrin
   (FEP).  Indeed, in many of the earlier studies these two
   terms were used inter&shy;changeably.  This arose, in part,
   because in the early analytical procedures, ZnPP was
@@ -2830,12 +2819,12 @@ The cutoffs are based on serum ferritin
   iron for this reaction to occur, zinc is substituted for
   iron, forming ZnPP instead of heme.  The ZnPP then
   accumulates within the iron-deprived circulating
-  eryth&shy;ro&shy;cytes, where it can be measured in samples of whole
+  erythrocytes, where it can be measured in samples of whole
   blood. </p>
-<p> Zinc protoporphyrin remains in the eryth&shy;ro&shy;cytes for the
+<p> Zinc protoporphyrin remains in the erythrocytes for the
   duration of their lifespan.  Therefore, an increased ZnPP
   concen&shy;tration in the blood indicates that the majority of
-  the eryth&shy;ro&shy;cytes matured at a time when the iron supply was
+  the erythrocytes matured at a time when the iron supply was
   suboptimal. </p>
 <p> The preferred mode of expression for ZnPP is a
   ratio based on &mu;mol of ZnPP per mol of heme
@@ -2851,9 +2840,9 @@ The cutoffs are based on serum ferritin
   example, from plasma-volume changes in pregnancy. </p>
 <p> As the zinc-for-iron substitution occurs
   mainly in the bone marrow, the ZnPP :  heme ratio in
-  eryth&shy;ro&shy;cytes reflects the iron status at this site
+  erythrocytes reflects the iron status at this site
   <span title="McLaren GD, Carpenter JT Jr, Nino HV.  (1975).  Erythrocyte
-  protoporphyrin in the detection of iron de&shy;fi&shy;ciency.
+  protoporphyrin in the detection of iron deficiency.
   Clinical Chemistry 21:  1121&ndash;1127. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/1137918" target="right" >McLaren
     et al., 1975</a>).
@@ -2861,13 +2850,13 @@ The cutoffs are based on serum ferritin
 	The ratio is a sensitive and relatively
   specific index of iron status, and is used specifically to
   detect an undersupply of iron to developing
-  eryth&shy;ro&shy;cytes.   Factors affecting ZnPP
+  erythrocytes.   Factors affecting ZnPP
   and FEP concen&shy;trations are discussed below.
        <a href="#table1716A">Table&nbsp;17.16</a>
 
     <iframe src="tables/table17-16.html" name="table1716AFrame" id="table1716A" style="width:750px;height:675px;"></iframe>
 
-  provides an interpretation of the ZnPP : heme ratio in the
+  provides an interpretation of the ZnPP :  heme ratio in the
   diagnosis of iron disorders.
   </p>
 
@@ -2877,47 +2866,52 @@ The cutoffs are based on serum ferritin
   FEP after about 3y are small, although mean values in
   females &gt;&nbsp;12y are slightly higher than in men. </p>
 <p>
-<span class="topic">Iron de&shy;fi&shy;ciency</span> of increasing severity produces
+<span class="topic">Iron deficiency</span> of increasing severity produces
   progressively elevated concen&shy;trations of both ZnPP and FEP.
   A ZnPP :  heme ratio of 40&ndash;60&mu;mol/mol heme is associated
-  with iron-deficient erythro&shy;poiesis, and values of &gt;&nbsp;80&mu;mol/mol heme with iron-de&shy;fi&shy;ciency anemia.  When FEP is
+  with iron-deficient erythro&shy;poiesis, and values of &gt;&nbsp;80&mu;mol/mol heme with iron-deficiency anemia.  When FEP is
   measured, levels range from 1.47 to 8.09&mu;mol/L RBC. </p>
 <p>
 <span class="topic">Chronic disease states</span> such as infection, inflammation, and
   some neoplastic diseases are associated with elevated levels
   of ZnPP or FEP as a result of low iron levels in the bone
   marrow (<a href="#17.5.1">Section&nbsp;17.5.1</a>).  Hence, measurements of ZnPP or FEP
-  do not distinguish between the anemia of iron de&shy;fi&shy;ciency and
+  do not distinguish between the anemia of iron deficiency and
   the anemia of chronic disease. </p>
 <p>
 <span class="topic">Lead toxicity</span> can result in elevated concen&shy;trations of ZnPP
   and FEP because lead impairs the delivery of iron to, or its
-  utilization in, mature eryth&shy;ro&shy;cytes.  In NHANES II, FEP
+  utilization in, mature erythrocytes.  In NHANES II, FEP
   values were elevated in children 1&ndash;4y with high blood lead
   values.  Levels were lower in NHANES III, following the
   introduction of lead-free petrol
       <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
   </p>
 <h3 id="17.7.2">17.7.2 Interpretive criteria</h3>
 
-  <a href="#table1715A">Table&nbsp;17.15</a>
+
+        <a href="#table1715A">Table&nbsp;17.15</a><!--
+  <p>
+  <a class="iframe" onclick="toggleIFrameVisibility('table1715B')" target="table1715BFrame">Table&nbsp;17.15</a>
+   <iframe name="table1715BFrame" id="table1715B" style="width:430px;height:485px;"></iframe>
+  -->
 
   presents suggested 2 SD cutoff values for ZnPP :
   heme ratios for infants aged 4, 6, and 9mo compiled by
    <span title="Domell&ouml;f M, Dewey KG, Lonnerdal B,
   Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/12468607" target="right" >Domell&ouml;f et al.,  2002b</a>).
       </span>
   In children and adults, ZnPP :
   heme ratios of 60-80&mu;mol/mol heme are sometimes
   associated with iron-deficient erythro&shy;poiesis, and values
-  of &gt;&nbsp;80&mu;mol/mol heme with iron-de&shy;fi&shy;ciency anemia
+  of &gt;&nbsp;80&mu;mol/mol heme with iron-deficiency anemia
     <span title="Labb&eacute; RF, Dewanji A, McLaughlin K. (1999).Observations on
   the zinc protoporphyrin/heme ratio in whole blood.  Clinical
   Chemistry 45:  146&ndash;148.">
@@ -2925,7 +2919,7 @@ The cutoffs are based on serum ferritin
 </span>
 <p> In the 1997 New Zealand National Nutrition Survey for
   persons aged &ge;15y, a cutoff value for ZnPP :  heme ratio
-  of &gt;&nbsp;60&mu;mol/mol heme (in com&shy;bin&shy;ation with a serum ferritin
+  of &gt;&nbsp;60&mu;mol/mol heme (in combination with a serum ferritin
   &lt;&nbsp;12&mu;g/L) was used to indicate iron-deficient
   erythro&shy;poiesis.  The mean and SEM for the ZnPP :  heme ratio
   by age, sex, and race or ethnicity are also presented for
@@ -2952,19 +2946,25 @@ The cutoffs are based on serum ferritin
   adults approximate the 95th percentile of the NHANES III
   reference sample
       <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
   They are shown in
     <a href="#table1714A">Table&nbsp;17.14</a>.
+	  <!--
+  <a class="iframe" onclick="toggleIFrameVisibility('table1714C')" target="table1714CFrame">Table&nbsp;17.14</a>.
+
+   <iframe name="table1714CFrame" id="table1714C" style="width:550px;height:430px;"></iframe>
+   -->
+
 
   A lower cutoff value for FEP was used for
   children 3&ndash;5y in NHANES III than NHANES II because of the
   correspondingly lower FEP levels, following the introduction
   of lead-free petrol
        <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>  </p>
@@ -3007,11 +3007,11 @@ means
   limitations of the hematofluorometric method may lead to
   falsely elevated values, including the effect of some
   interfering substances such as bilirubin, certain drugs, and
-  high ribo&shy;flavin concen&shy;trations in plasma.  Several
+  high riboflavin concen&shy;trations in plasma.  Several
   strategies exist to eliminate these interferences, such as
-  washing the eryth&shy;ro&shy;cytes free of plasma
+  washing the erythrocytes free of plasma
   <span title="Hastka J, Lasserre JJ, Schwarzbeck A, Strauch M, Hehlmann R.
-  (1992).  Washing eryth&shy;ro&shy;cytes to remove interferents in
+  (1992).  Washing erythrocytes to remove interferents in
   measurements of zinc protoporphyrin by front-face
   hematofluorometry.  Clinical Chemistry 38:  2184&ndash;2189.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/1424108 " target="right" >Hastka et al.,
@@ -3043,10 +3043,10 @@ means
   the New York State Department of Health Protoporphyrin
   Proficiency Testing Program. </p>
 <p> The method used for the
-  analysis of eryth&shy;ro&shy;cyte protoporphyrin in NHANES II and
+  analysis of erythrocyte protoporphyrin in NHANES II and
   NHANES III
        <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>  </p>
@@ -3085,14 +3085,14 @@ means
   proportional to the total body mass of cellular trans&shy;ferrin
   receptors
       <span title="Cook JD, Flowers CH, Skikne BS.  (1998).  An assessment of
-  dried blood spot technology for identifying iron de&shy;fi&shy;ciency.
+  dried blood spot technology for identifying iron deficiency.
   Blood 92:  1807&ndash;1813.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9716612"
   target="right" >Cook, 1999</a>).
          </span>
 <p> Levels of TfRs circulating in the
   serum are a sensitive indicator of the degree of tissue iron
-  de&shy;fi&shy;ciency.  In mild iron de&shy;fi&shy;ciency, when iron availability
+  deficiency.  In mild iron deficiency, when iron availability
   to tissues is compromised because iron stores are depleted,
   TfR expression by cells increases, allowing the cells to
   compete more effectively for trans&shy;ferrin-bound iron.  As a
@@ -3100,15 +3100,15 @@ means
   functional iron deficit
          <span title="Gimferrer E, Ubeda J, Royo MT, Marigo GJ, Marco N, Fernandez
   N, Oliver A, Padros R, Gich I. (1997).  Serum trans&shy;ferrin
-  receptor levels in different stages of iron de&shy;fi&shy;ciency.
+  receptor levels in different stages of iron deficiency.
   Blood 90:  1332&ndash;1334. &bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
   (<a href="https://www.google.com" target="right" >Gimferrer et al., 1997</a>).
       </span>
-  For example, in elderly women with iron de&shy;fi&shy;ciency, but not
+  For example, in elderly women with iron deficiency, but not
   necessarily anemia, plasma TfR levels were 1.3 times the
   levels in iron-sufficient controls
        <span title="Ahluwalia N, Lammi-Keefe CJ, Bendel RB, Morse EE, Beard JL,
-  Haley NR.  (1995).  Iron de&shy;fi&shy;ciency and anemia of chronic
+  Haley NR.  (1995).  Iron deficiency and anemia of chronic
   disease in elderly women:  a discriminant-analysis approach
   for differentiation.  American Journal of Clinical Nutrition
   61:  590&ndash;596">
@@ -3118,29 +3118,32 @@ means
   serum TfR levels were 5.8 times that of the controls
        <span title="Gimferrer E, Ubeda J, Royo MT, Marigo GJ, Marco N, Fernandez
   N, Oliver A, Padros R, Gich I. (1997).  Serum trans&shy;ferrin
-  receptor levels in different stages of iron de&shy;fi&shy;ciency.
+  receptor levels in different stages of iron deficiency.
   Blood 90:  1332&ndash;1334.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
   (<a href="https://www.google.com" target="right" >Gimferrer et al., 1997</a>).
       </span>
 <p> One of the main advantages of
   using serum TfR is that, unlike serum ferritin,
-  concen&shy;trations are not sig&shy;nif&shy;icantly affected by the anemia
-  of chronic disease.  Con&shy;sequently, serum TfR concen&shy;trations
-  can be used to help distinguish indiv&shy;iduals with anemia of
-  chronic disease from those with iron-de&shy;fi&shy;ciency anemia &mdash; a
+  concen&shy;trations are not significantly affected by the anemia
+  of chronic disease.  Consequently, serum TfR concen&shy;trations
+  can be used to help distinguish individuals with anemia of
+  chronic disease from those with iron-deficiency anemia &mdash; a
   distinction that used to require a bone marrow examination
   for stainable iron.
 
    <a href="#figure178A">Figure&nbsp;17.8</a>
-
+  <!--
+	<a href="figures/fig17-8.htm" class="iframe" onclick="toggleIFrameVisibility('figure178A')"
+  target="figure178AFrame">Figure&nbsp;17.8</a>
+  -->
 <iframe src="figures/fig17-8.htm" name="figure178AFrame" id="figure178A" style="width:500px;height:540px"></iframe>
 
   shows that for patients
-  with coexisting iron de&shy;fi&shy;ciency and anemia of chronic
-  disease, serum TfR levels are elevated and com&shy;parable to
-  those for patients with only iron-de&shy;fi&shy;ciency anemia.  This
+  with coexisting iron deficiency and anemia of chronic
+  disease, serum TfR levels are elevated and comparable to
+  those for patients with only iron-deficiency anemia.  This
   finding is particularly important because the diagnosis of
-  iron de&shy;fi&shy;ciency in indiv&shy;iduals with concurrent anemia of
+  iron deficiency in individuals with concurrent anemia of
   chronic disease has been especially difficult in the past
        <span title="Ahluwalia N. (1998).  Diagnostic utility of serum
   trans&shy;ferrin receptors measurement in assessing iron status.
@@ -3151,9 +3154,9 @@ means
 <p> In humans, the majority of TfR (75%&ndash;
   80%) is derived from the erythroid bone marrow; therefore,
   any change in erythro&shy;poiesis
-  (e.g., as a result of vitamin&nbsp;B<sub>12</sub> or folate de&shy;fi&shy;ciency),
+  (e.g., as a result of vitamin&nbsp;B<sub>12</sub> or folate deficiency),
   will, in turn, affect serum TfR concen&shy;trations.  For this
-  reason, conditions that alter eryth&shy;ro&shy;cyte production may
+  reason, conditions that alter erythrocyte production may
   confound the interpretation of serum TfR values for iron
   status assessment. </p>
 <h3 id="17.8.1">17.8.1 Factors affecting serum TfR</h3>
@@ -3189,7 +3192,7 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   in other population groups. </p>
 <p>
 <span class="topic">Age-related changes</span> in serum TfR occur.  Levels in neonates
-  and infants are com&shy;parable but higher than adult levels
+  and infants are comparable but higher than adult levels
            <span title="Choi JW, Pai SH, Im MW, Kim SK.  (1999).  Change in
   trans&shy;ferrin receptor concen&shy;trations with age.  Clinical
   Chemistry 45:  1562&ndash;1563.">
@@ -3198,19 +3201,19 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
 
              <span title="Olivares M, Walter T, Cook JD, Hertrampf E, Pizarro F.
   (2000).  Usefulness of serum trans&shy;ferrin receptor and serum
-  ferritin in diagnosis of iron de&shy;fi&shy;ciency in infancy.
+  ferritin in diagnosis of iron deficiency in infancy.
   American Journal of Clinical Nutrition 72:  1191&ndash;1195.">
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/11063448" target="right" >Olivares et al., 2000</a>;
        </span>
     <span title="Domell&ouml;f M, Dewey KG, Lonnerdal B,
   Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686.">
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/12468607" target="right" >Domell&ouml;f et al.,  2002b</a>),
       </span>
   perhaps partly as a result of a higher
-  erythropoietic activ&shy;ity per unit of body weight during
-  infancy.  Other mech&shy;anisms may also be involved.  Further,
+  erythropoietic activity per unit of body weight during
+  infancy.  Other mechanisms may also be involved.  Further,
   there is more overlap of serum TfR values between
   iron-deficient
   and iron-replete infants than in corresponding adults.  This
@@ -3218,7 +3221,7 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   in healthy infants
            <span title="Olivares M, Walter T, Cook JD, Hertrampf E, Pizarro F.
   (2000).  Usefulness of serum trans&shy;ferrin receptor and serum
-  ferritin in diagnosis of iron de&shy;fi&shy;ciency in infancy.
+  ferritin in diagnosis of iron deficiency in infancy.
   American Journal of Clinical Nutrition 72:  1191&ndash;1195.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/11063448" target="right" >Olivares et al., 2000</a>).
        </span>
@@ -3248,9 +3251,9 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   said to be a response to physiologically low iron stores.
   Studies in the elderly are limited, but some results suggest
   that both the levels and the magnitude of the response of
-  serum TfR to iron de&shy;fi&shy;ciency may be lower in this age group
+  serum TfR to iron deficiency may be lower in this age group
    <span title="Ahluwalia N, Lammi-Keefe CJ, Bendel RB, Morse EE, Beard JL,
-  Haley NR.  (1995).  Iron de&shy;fi&shy;ciency and anemia of chronic
+  Haley NR.  (1995).  Iron deficiency and anemia of chronic
   disease in elderly women:  a discriminant-analysis approach
   for differentiation.  American Journal of Clinical Nutrition
   61:  590&ndash;596">
@@ -3305,40 +3308,40 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   </span>
   </p>
 <p>
-<span class="topic">Tissue iron de&shy;fi&shy;ciency</span> leads to increases in serum TfR, as
+<span class="topic">Tissue iron deficiency</span> leads to increases in serum TfR, as
   noted earlier.  Even after iron stores are totally depleted,
   serum TfR concen&shy;trations continue to increase in proportion
   to the increasing tissue iron deficit,
   as hemo&shy;globin concen&shy;trations fall
   <span title="Skikne BS, Flowers CH, Cook JD.  (1990).  Serum trans&shy;ferrin
-  receptor:  a quantitative measure of tissue iron de&shy;fi&shy;ciency.
+  receptor:  a quantitative measure of tissue iron deficiency.
   Blood 75:  1870&ndash;1876.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/2331526" target="right" >Skikne et al., 1990</a>).
     </span>
   This trend has been observed in neonates
     <span title="Rusia U, Flowers C, Madan N, Agarwal N, Sood SK, Sikka M.
   (1996).  Serum trans&shy;ferrin receptor levels in the evaluation
-  of iron de&shy;fi&shy;ciency in the neonate.  Acta Paediatrica
+  of iron deficiency in the neonate.  Acta Paediatrica
   Japonica 38:  455&ndash;459">.
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/8942003" target="right" >Rusia et al., 1996</a>),
     </span>
   infants
     <span title="Olivares M, Walter T, Cook JD, Hertrampf E, Pizarro F.
   (2000).  Usefulness of serum trans&shy;ferrin receptor and serum
-  ferritin in diagnosis of iron de&shy;fi&shy;ciency in infancy.
+  ferritin in diagnosis of iron deficiency in infancy.
   American Journal of Clinical Nutrition 72:  1191&ndash;1195. ">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/11063448 " target="right" >Olivares et al., 2000</a>),
     </span>
   pregnant women
     <span title="Carriaga MT, Skikne BS, Finley B, Cutler B, Cook JD.
   (1991).  Serum trans&shy;ferrin receptor for the detection of
-  iron de&shy;fi&shy;ciency in pregnancy.  American Journal of Clinical
+  iron deficiency in pregnancy.  American Journal of Clinical
   Nutrition 54:  1077&ndash;1081.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/1957824 " target="right" >Carriaga et al., 1991</a>),
     </span>
   and adults
     <span title="Skikne BS, Flowers CH, Cook JD.  (1990).  Serum trans&shy;ferrin
-  receptor:  a quantitative measure of tissue iron de&shy;fi&shy;ciency.
+  receptor:  a quantitative measure of tissue iron deficiency.
   Blood 75:  1870&ndash;1876.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/2331526" target="right" >Skikne et al., 1990</a>).
     </span>
@@ -3346,7 +3349,7 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   stores become totally depleted (i.e., serum ferritin &lt;&nbsp;12&mu;g/L)
   is more controversial
    <span title="Skikne BS, Flowers CH, Cook JD.  (1990).  Serum trans&shy;ferrin
-  receptor:  a quantitative measure of tissue iron de&shy;fi&shy;ciency.
+  receptor:  a quantitative measure of tissue iron deficiency.
   Blood 75:  1870&ndash;1876.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/2331526" target="right" >Skikne et al., 1990</a>).
     </span>
@@ -3360,15 +3363,17 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   with elevated serum TfR.  Numerous other conditions, some of
   which are listed in
       <a href="#table1717A">Table&nbsp;17.17</a>,
-
-   <iframe src="tables/table17-17.html" name="table1717AFrame" id="table1717A" style="width:425px;height:850px;"></iframe>
+	  <!--
+  (<a href="tables/table17-17.html" class="iframe" onclick="toggleIFrameVisibility('table1717A')" target="table1717AFrame">Table&nbsp;17.17)</a>
+  -->
+   <iframe src="tables/table17-17.html"name="table1717AFrame" id="table1717A" style="width:425px;height:850px;"></iframe>
 
   result in increased erythroid proliferation. </p>
 <p>
 <span class="topic">Decreased erythro&shy;poiesis</span> associated with chronic renal
   disease and aplastic anemia leads to a fall in serum TfR
   concen&shy;trations
-     <span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron meta&shy;bolism:
+     <span title="Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron metabolism:
   a comprehensive review.  Nutrition Reviews 54:  295&ndash;317.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9063021" target="right" >Beard et al., 1996;</a>
     </span>
@@ -3396,7 +3401,7 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   </p>
 <p>
 <span class="topic">Cigarette smoking</span> (10 per day) has been linked to a
-  sig&shy;nif&shy;icant decrease in serum TfR concen&shy;tration in males and
+  significant decrease in serum TfR concen&shy;tration in males and
   females
      <span title="Raya G, Henny J, Steinmatz J, Herbeth B, Siest G. (2001).
   Soluble trans&shy;ferrin receptor (sTfR):  biological variations
@@ -3405,25 +3410,25 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/11831633 " target="right" >Raya et al., 2001</a>).
     </span>
   </p>
-<p> <span class="topic">Nutrient deficiencies,</span> such as folic acid de&shy;fi&shy;ciency and
-  vitamin&nbsp;B<sub>12</sub> de&shy;fi&shy;ciency, are also associated with defective
-  but elevated erythro&shy;poiesis.  As a result, indiv&shy;iduals with
-  the later stages of vitamin&nbsp;B<sub>12</sub>de&shy;fi&shy;ciency have elevated TfR
+<p> <span class="topic">Nutrient deficiencies,</span> such as folic acid deficiency and
+  vitamin&nbsp;B<sub>12</sub> deficiency, are also associated with defective
+  but elevated erythro&shy;poiesis.  As a result, individuals with
+  the later stages of vitamin&nbsp;B<sub>12</sub>deficiency have elevated TfR
   levels associated with megaloblastic anemia
        <span title="Carmel R, Skikne BS., 1992).  Serum trans&shy;ferrin receptor in
-  the megaloblastic anemia of cobalamin de&shy;fi&shy;ciency.  European
+  the megaloblastic anemia of cobalamin deficiency.  European
   Journal of Haematology 49:  246&ndash;250.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/1473586" target="right" >Carmel and Skikne, 1992;</a>
    </span>
        <span title="Remacha AF, Bellido M, Garcia-Die F, Marco N, Ubeda J,
   Gimferrer E., 1997).  Serum erythropoietin and erythroid
-  activ&shy;ity in vitamin&nbsp;B12 de&shy;fi&shy;ciency.
+  activity in vitamin&nbsp;B12 deficiency.
   Haematologica 82: 67&ndash;68.">
   <a href="http://www.ncbi.nlm.nih.gov/pubmed/9107086" target="right" >Remacha et al., 1997</a>).
    </span>
   In such cases, use of
   serum TfR measurement alone would yield a false-positive
-  diagnosis for iron de&shy;fi&shy;ciency. </p>
+  diagnosis for iron deficiency. </p>
 <p>
 <span class="topic">Acute malaria</span> may result in reduced levels of serum TfR
      <span title="Williams TN, Maitland K, Rees DC, Peto TEA, Bowden DK,
@@ -3440,16 +3445,16 @@ Cooper and Zlotkin (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9624883" target=
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/10975004" target="right" >Beesley et al., 2000</a>).
   </span>
 This means
-  that in areas where both iron de&shy;fi&shy;ciency and clinical
+  that in areas where both iron deficiency and clinical
   episodes of malaria occur, the reliability of serum TfR as
   an indicator of iron status is uncertain. </p>
 <p>
 <span class="topic">Pregnancy</span> and the resulting hemodilution do not appear to
   decrease serum TfR concen&shy;trations.  Serum TfR may thus be a
-  reliable indicator of iron de&shy;fi&shy;ciency during pregnancy.
+  reliable indicator of iron deficiency during pregnancy.
        <span title="Carriaga MT, Skikne BS, Finley B, Cutler B, Cook JD.
  , 1991).  Serum trans&shy;ferrin receptor for the detection of
-  iron de&shy;fi&shy;ciency in pregnancy.  American Journal of Clinical
+  iron deficiency in pregnancy.  American Journal of Clinical
   Nutrition 54:  1077&ndash;1081.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/1957824" target="right" >Carriaga et al. , 1991)</a>
     </span>
@@ -3459,10 +3464,10 @@ This means
   low serum ferritin concen&shy;trations. </p>
 <p> Nevertheless, questions still remain about the effect of
   changes in erythro&shy;poiesis in early pregnancy on serum TfR
-  levels; such changes may mask iron de&shy;fi&shy;ciency at this time
+  levels; such changes may mask iron deficiency at this time
        <span title="&Aring;kesson A, Bjellerup P, Berglund M, Bremme K,
   Vahter M., 1998).  Serum trans&shy;ferrin receptor:
-  a specific marker of   iron de&shy;fi&shy;ciency in pregnancy.
+  a specific marker of   iron deficiency in pregnancy.
   American Journal of Clinical Nutrition 68:  1241&ndash;1246.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9846853" target="right" >&Aring;kesson et al., 1998</a>).
     </span>
@@ -3483,7 +3488,7 @@ This means
     </span>
   reported that serum TfR did not enhance
   the sensitivity and specificity for the determination of
-  iron-de&shy;fi&shy;ciency anemia in pregnant women from Malawi where
+  iron-deficiency anemia in pregnant women from Malawi where
   anemia and chronic disease are very prevalent.  In a study
   of Jamaican pregnant women, however, serum TfR readily
   distinguished those who received an iron supplement from the
@@ -3537,10 +3542,10 @@ This means
   <p> Currently, the recommended
   approach to interpret serum TfR values is to examine their
   direction and magnitude of change in relation to the
-  severity of iron de&shy;fi&shy;ciency, rather than the absolute
+  severity of iron deficiency, rather than the absolute
   levels.  In general, the correlation among different TfR
   assays is good, and their ability to identify iron
-  de&shy;fi&shy;ciency is similar, provided the cutoff values for the
+  deficiency is similar, provided the cutoff values for the
   particular assay used are applied. </p>
 
     <iframe src="tables/table17-18.html" name="table1718AFrame" id="table1718A" style="width:450px;height:500px;"></iframe>
@@ -3559,27 +3564,31 @@ This means
   nonanemic subjects ranging in age from neonates (birth
   weight &ge;2500 g) to adults 23&ndash;62 y, as shown in
       <a href="#table1718A">Table&nbsp;17.18</a>.
-
+	  <!--
+  <a href="tables/table17-18.html" class="iframe" onclick="toggleIFrameVisibility('table1718')" target="table1718Frame">Table&nbsp;17.18</a>.
+  -->
   </p>
 
 <p>
   Those with a history of
   blood transfusions, major surgery, recent infections, or
   disease were excluded.  Subjects were nonanemic (i.e.,
-  hemo&shy;globin &ge;110g/L) with no evidence of iron de&shy;fi&shy;ciency.
+  hemo&shy;globin &ge;110g/L) with no evidence of iron deficiency.
   Serum TfR levels were measured using an ELISA kit (Orion
   Diagnostica, Espoo, Finland).
 <p> Reference percentiles for
   serum TfR for persons aged from 3y to &ge;60y, assayed
   using an automated nephelometer and the N Latex sTfR assay
   (Dade-Behring, Marburg, Germany), are given in
-
+  <!--
+  <a href="tables/table17-19.html" class="iframe" onclick="toggleIFrameVisibility('table1719')" target="table1719Frame">Table&nbsp;17.19</a>
+  </p>-->
       <a href="#table1719A">Table&nbsp;17.19</a>.
   <iframe src="tables/table17-19.html" name="table1719AFrame" id="table1719A" style="width:525px;height:610px;"></iframe>
 <p> Some investigators have advocated the use of the ratio of
   serum TfR to serum ferritin to assess iron status
    <span title="Skikne BS, Flowers CH, Cook JD. , 1990).  Serum trans&shy;ferrin
-  receptor:  a quantitative measure of tissue iron de&shy;fi&shy;ciency.
+  receptor:  a quantitative measure of tissue iron deficiency.
   Blood 75:  1870&ndash;1876.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/2331526"
   target="right" >Skikne et al., 1990</a>).
@@ -3664,7 +3673,7 @@ This means
   needed.  In the future, assays on whole-blood spots dried on
   filter paper may be possible
   <span title="Cook JD, Flowers CH, Skikne BS. , 1998).  An assessment of
-  dried blood spot technology for identifying iron de&shy;fi&shy;ciency.
+  dried blood spot technology for identifying iron deficiency.
   Blood 92:  1807&ndash;181">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9716612" target="right" >Cook et al., 1998</a>).
              </span>
@@ -3676,6 +3685,9 @@ This means
   variation for serum TfR are lower than for serum ferritin
 
           (<a href="#table1710A">Table&nbsp;17.10</a>)
+		  <!--
+  (<a class="iframe" onclick="toggleIFrameVisibility('table1710B')" target="table1710BFrame">Table&nbsp;17.10</a
+  -->
 
   <span title="Cooper MJ, Zlotkin SH. , 1996).  Day-to-day variation of
   trans&shy;ferrin receptor and ferritin in healthy men and women.
@@ -3686,6 +3698,8 @@ target="right" >Cooper and Zlotkin, 1996)</a>
 
   </p>
 
+  <!--<iframe name="table1710BFrame" id="table1710B" style="width:625px;height:510px;"></iframe>
+  -->
 <p> Serum samples
   should be stored for no longer than 2 d at room temperature,
   7 d at
@@ -3699,11 +3713,11 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   misclassification that can occur due to overlapping normal
   and abnormal values for a single measure is minimized.
   Moreover, multiple measures differentiate the severity of
-  iron de&shy;fi&shy;ciency more readily.  A com&shy;bin&shy;ation of three tests
+  iron deficiency more readily.  A combination of three tests
   of iron status are frequently used, with abnormal values for
-  at least two of the three tests indicating iron de&shy;fi&shy;ciency.
+  at least two of the three tests indicating iron deficiency.
   At present, there is no consensus on the best definition of
-  iron de&shy;fi&shy;ciency when based on multiple measures. </p>
+  iron deficiency when based on multiple measures. </p>
 <p> In NHANES II and NHANES III
   <span title="Pilch SM, Senti FR (eds.) , 1984).  Assessment of the Iron
   Nutritional Status of the U.S.  Population Based on Data
@@ -3715,14 +3729,14 @@ target="right" >Cooper and Zlotkin, 1996)</a>
    </span>
     <span title="Dallman PR, Looker AC, Johnson CL, Carroll M., 1996).
   Influence of age on laboratory criteria for the diagnosis of
-  iron de&shy;fi&shy;ciency anaemia and iron de&shy;fi&shy;ciency in infants and
+  iron deficiency anaemia and iron deficiency in infants and
   children.  In:  Hallberg L, Asp N-G (eds.)  Iron Nutrition
   in Health and Disease.  John Libbey and Co, London, pp.
   65&ndash;74.&bull;&bull;&bull;NO PUBMED ENTRY&bull;&bull;&bull;">
   <a href="https://www.google.com" target="right" >Dallman et al., 1996</a>;
      </span>
        <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
- , 1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+ , 1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>),
      </span>
@@ -3731,61 +3745,77 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   in selected groups of the U.S. population:  one model
   involved ferritin, and one used MCV
    (<a href="#figure179A">Figure&nbsp;17.9</a>).
-
+   <!--
+   	(<a href="figures/fig17-9.htm" class="iframe" onclick="toggleIFrameVisibility('figure179')"
+  target="figure179Frame">Figure&nbsp;17.9</a>)
+  -->
 <iframe src="figures/fig17-9.htm" name="figure179AFrame" id="figure179A" style="width:470px;height:600px"></iframe>
 
   In the
   ferritin model, serum ferritin, trans&shy;ferrin saturation, and
   FEP were included, whereas the MCV model was based on MCV,
-  trans&shy;ferrin saturation, and FEP.  In NHANES III, indiv&shy;iduals
-  with iron de&shy;fi&shy;ciency, based on at least two of three
+  trans&shy;ferrin saturation, and FEP.  In NHANES III, individuals
+  with iron deficiency, based on at least two of three
   abnormal values in the ferritin model, concurrent with low
   hemo&shy;globin concen&shy;trations, were considered to have
-  iron-de&shy;fi&shy;ciency anemia
+  iron-deficiency anemia
          <span title="Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
- , 1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+ , 1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976.">
   (<a href="http://www.ncbi.nlm.nih.gov/pubmed/9091669" target="right" >Looker et al., 1997</a>).
      </span>
   It is noteworthy that neither model can provide a definitive
-  diagnosis of iron de&shy;fi&shy;ciency because none of the measures
+  diagnosis of iron deficiency because none of the measures
   (with the exception of serum ferritin) distinguishes between
-  changes resulting from iron de&shy;fi&shy;ciency and those arising
+  changes resulting from iron deficiency and those arising
   from infection or inflammation.  The cutoff values used in
   the NHANES III survey are presented in
       <a href="#table1714A">Table&nbsp;17.14</a>.
-
+    <!--
+  <a class="iframe" onclick="toggleIFrameVisibility('table1714D')" target="table1714DFrame">Table&nbsp;17.14</a>
+  </p>
+  <iframe name="table1714DFrame" id="table1714D" style="width:550px;height:430px;"></iframe>
+  -->
 <p> The inclusion of serum TfR as one of the laboratory criteria is
   recommended because of its ability to distinguish the anemia
-  of chronic disease from iron-de&shy;fi&shy;ciency anemia,
+  of chronic disease from iron-deficiency anemia,
   even in the presence of chronic infection or inflammation.
 
     (<a href="#figure178A">Figure&nbsp;17.8</a>).
+	
+	<!--
+	(<a class="iframe" onclick="toggleIFrameVisibility('figure178a')"
+  target="figure178aFrame">Figure&nbsp;17.8</a>)
+<iframe name="figure178aFrame" id="figure178a"
+style="width:450px;height:540px"></iframe>
+ -->
 
-  Hence, in future surveys, a com&shy;bin&shy;ation of
+  Hence, in future surveys, a combination of
   serum TfR, serum ferritin, and hemo&shy;globin measurements may
   be used to describe the iron status of a population:  serum
   ferritin levels reflect the decline and eventually the
   exhaustion of body iron stores; serum TfR reflects the
-  degree of de&shy;fi&shy;ciency in functional iron after the stores
+  degree of deficiency in functional iron after the stores
   have been depleted, even in the presence of the anemia of
   chronic disease; hemo&shy;globin measures the presence of anemia.
-  This com&shy;bin&shy;ation may be especially useful because it
+  This combination may be especially useful because it
   provides diagnostic information over a wide spectrum of iron
   status, ranging from replete iron stores to overt iron
-  de&shy;fi&shy;ciency anemia. </p>
+  deficiency anemia. </p>
 <h2 id="17.10">17.10 Summary</h2>
   <p>
       <a href="#table1720A">Table&nbsp;17.20</a>
-
+<!--
+  <a href="tables/table17-20.html" class="iframe" onclick="toggleIFrameVisibility('table1720A')" target="table1720AFrame">Table&nbsp;17.20</a>
+  -->
     <iframe src="tables/table17-20.html" name="table1720AFrame" id="table1720A" style="width:700px;height:650px;"></iframe>
 
-  summarizes the changes in bio&shy;chem&shy;ical measures
+  summarizes the changes in biochemical measures
   of iron status that occur during each of the three phases in
-  the development of iron-de&shy;fi&shy;ciency anemia.  The first phase
+  the development of iron-deficiency anemia.  The first phase
   is a decrease in iron stores, reflected by a decline in
   serum or plasma ferritin concen&shy;trations.  The second phase,
-  iron-deficient erythro&shy;poiesis, is character&shy;ized by exhausted
+  iron-deficient erythro&shy;poiesis, is characterized by exhausted
   iron stores, reflected by a further decline in serum
   ferritin to &lt;&nbsp;12&mu;g/L, at which time serum TfR levels
   increase.  At about the same time, serum iron concen&shy;trations
@@ -3797,14 +3827,17 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   or to &gt;&nbsp;60&ndash;80&mu;mol/mol heme, respectively, because the
   supply of iron is no longer adequate for heme synthesis.  At
   this second stage, the hemo&shy;globin remains within the normal
-  range.  In the third and final stage of iron de&shy;fi&shy;ciency,
+  range.  In the third and final stage of iron deficiency,
   frank microcytic, hypochromic anemia occurs, when decreases
   in both the hemo&shy;globin concen&shy;tration and the hematocrit
   occur, resulting in a low MCHC.  The presence of hypochromic
   microcytosis can be confirmed at this stage using a stained
   blood film.
           <a href="#table1720A">Table&nbsp;17.20</a>
-
+		  <!--
+  <a class="iframe" onclick="toggleIFrameVisibility('table1720B')" target="table1720BFrame">Table&nbsp;17.20</a>
+      <iframe name="table1720BFrame" id="table1720B" style="width:700px;height:650px;"></iframe>
+	  -->
   also presents the changes in the
   iron status measures that occur during iron overload.  As
   elevated serum ferritin concen&shy;trations also occur during
@@ -3815,15 +3848,15 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   measures should be used at the same time.  The presence of
   two or more abnormal values generally indicates impaired
   iron status.  At present there is no consensus on the best
-  com&shy;bin&shy;ation to use.  The selection of the most appropriate
-  com&shy;bin&shy;ation depends on the health of the indiv&shy;idual(s) and
-  on the study objectives.  Diagnosis of iron de&shy;fi&shy;ciency is
+  combination to use.  The selection of the most appropriate
+  combination depends on the health of the individual(s) and
+  on the study objectives.  Diagnosis of iron deficiency is
   difficult in the presence of other conditions that confound
   the interpretation of laboratory results.  For example, the
   diagnosis may be obscured by the coexistence of chronic
   inflammation, unless serum TfR is determined. </p>
 <p> The prevalence of low iron status will vary according to the
-  com&shy;bin&shy;ation of measures selected.  When serum ferritin is
+  combination of measures selected.  When serum ferritin is
   included, prevalence values will always be higher, because
   serum ferritin is the most sensitive measure of the early
   depletion of body iron stores. </p>
@@ -3833,7 +3866,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
 <p> Addison GM, Beamish MR, Hayles CN, Hodgkins M, Jacobs A,
   Llewellyn P. (1972).  An immunoradiometric assay for
   ferritin in the serum of normal subjects and patients with
-  iron de&shy;fi&shy;ciency and iron overload.  Journal of Clinical
+  iron deficiency and iron overload.  Journal of Clinical
   Pathology 25:  326&ndash;329. </p>
 <p> Ahluwalia N. (1998).  Diagnostic utility of serum
   trans&shy;ferrin receptors measurement in assessing iron status.
@@ -3844,7 +3877,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   arthritis.  Journal of the American Dietetics Association
   96:  247&ndash;251. </p>
 <p> Ahluwalia N, Lammi-Keefe CJ, Bendel RB, Morse EE, Beard JL,
-  Haley NR.  (1995).  Iron de&shy;fi&shy;ciency and anemia of chronic
+  Haley NR.  (1995).  Iron deficiency and anemia of chronic
   disease in elderly women:  a discriminant-analysis approach
   for differentiation.  American Journal of Clinical Nutrition
   61:  590&ndash;596.  Ahluwalia N, de Silva A, Atukorala S, Weaver
@@ -3854,7 +3887,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Nutrition 75:  289&ndash;294. </p>
 <p> &Aring;kesson A, Bjellerup P, Berglund M, Bremme K, Vahter M.
   (1998).  Serum trans&shy;ferrin receptor:  a specific marker of
-  iron de&shy;fi&shy;ciency in pregnancy.  American Journal of Clinical
+  iron deficiency in pregnancy.  American Journal of Clinical
   Nutrition 68:  1241&ndash;1246. </p>
 <p> &Aring;kesson A, Bjellerup P, Vahter M. (1999).  Evaluation of
   kits for measurement of soluble trans&shy;ferrin receptor.
@@ -3865,14 +3898,14 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Roitman-Johnson B, Seligman PA.  (1998).  Measurement of
   soluble trans&shy;ferrin receptor in serum of healthy adults.
   Clinical Chemistry 44:  35&ndash;39. </p>
-<p> Allen LH.  (1997).  Pregnancy and iron de&shy;fi&shy;ciency:
+<p> Allen LH.  (1997).  Pregnancy and iron deficiency:
   unresolved issues.  Nutrition Reviews 51:  49&ndash;52. </p>
-<p> Andrews NC.  (1999).  Disorders of iron meta&shy;bolism.  New
+<p> Andrews NC.  (1999).  Disorders of iron metabolism.  New
   England Journal of Medicine 341:  1986&ndash;1995. </p>
 <p> Baynes RD, Skikne BS, Cook JD.  (1994).  Circulating
   trans&shy;ferrin receptors and assessment of iron status.
   Journal of Nutritional Biochemistry 5:  322&ndash;330. </p>
-<p> Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron meta&shy;bolism:
+<p> Beard JL, Dawson H, Pi&ntilde;ero DJ.  (1996).  Iron metabolism:
   a comprehensive review.  Nutrition Reviews 54:  295&ndash;317. </p>
 <p> Beesley R, Filteau S, Tomkins A, Doherty T. Ayles H, Reid A
   et al.  (2000).  Impact of acute malaria on plasma
@@ -3880,7 +3913,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   the Royal Society of Tropical Medicine and Hygiene 94:
   295&ndash;289. </p>
 <p> Bessman JD, Feinstein DI.  (1979).  Quantitative
-  anisocytosis as a discriminant between iron de&shy;fi&shy;ciency and
+  anisocytosis as a discriminant between iron deficiency and
   thalassemia minor.  Blood 53:  288&ndash;293. </p>
 <p> Bessman JD, Gilmer PR Jr, Gardner FH.  (1983).  Improved
   classification of anemias by MCV and RDW.  American Journal
@@ -3908,17 +3941,17 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Survey Workers.  International Life Sciences Institute,
   Washington, DC. </p>
 <p> Carmel R, Skikne BS.  (1992).  Serum trans&shy;ferrin receptor in
-  the megaloblastic anemia of cobalamin de&shy;fi&shy;ciency.  European
+  the megaloblastic anemia of cobalamin deficiency.  European
   Journal of Haematology 49:  246&ndash;250. </p>
 <p> Carriaga MT, Skikne BS, Finley B, Cutler B, Cook JD.
   (1991).  Serum trans&shy;ferrin receptor for the detection of
-  iron de&shy;fi&shy;ciency in pregnancy.  American Journal of Clinical
+  iron deficiency in pregnancy.  American Journal of Clinical
   Nutrition 54:  1077&ndash;1081. </p>
 <p> CDC (Centers for Disease Control and Prevention).  (1989).
   Criteria for anemia in children and childbearing-aged women.
   Morbidity and Mortality Weekly Report 38:  400&ndash;404. </p>
 <p> CDC (Centers for Disease Control and Prevention).  (1998).
-  Recommendations to prevent and control iron de&shy;fi&shy;ciency in
+  Recommendations to prevent and control iron deficiency in
   the United States.  Morbidity and Mortality Weekly Report
   47:  1&ndash;36. </p>
 <p> Charoenlarp P, Polpothi T. (1987).  The distribution of
@@ -3945,7 +3978,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   ferritin as a measure of iron stores in normal subjects.
   American Journal of Clinical Nutrition 27:  681&ndash;687. </p>
 <p> Cook JD, Flowers CH, Skikne BS.  (1998).  An assessment of
-  dried blood spot technology for identifying iron de&shy;fi&shy;ciency.
+  dried blood spot technology for identifying iron deficiency.
   Blood 92:  1807&ndash;1813. </p>
 <p> Cook JD, Flowers CH, Skikne BS.  (2003).  The quantitative
   assessment of body iron.  Blood 101:  3359&ndash;3364. </p>
@@ -3953,17 +3986,17 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   trans&shy;ferrin receptor and ferritin in healthy men and women.
   American Journal of Clinical Nutrition 64:  738&ndash;742. </p>
 <p> Dallman PR.  (1977).  New approaches to screening for iron
-  de&shy;fi&shy;ciency.  Journal of Pediatrics 90:  678&ndash;681. </p>
+  deficiency.  Journal of Pediatrics 90:  678&ndash;681. </p>
 <p> Dallman PR.  (1984).  Diagnosis of anemia and iron
-  de&shy;fi&shy;ciency:  analytic and biological variations of
+  deficiency:  analytic and biological variations of
   laboratory tests.  American Journal of Clinical Nutrition
   39:  937&ndash;941. </p>
-<p> Dallman PR, Siimes MA, Stekel A. (1980).  Iron de&shy;fi&shy;ciency in
+<p> Dallman PR, Siimes MA, Stekel A. (1980).  Iron deficiency in
   infancy and childhood.  American Journal of Clinical
   Nutrition 33:  86&ndash;118. </p>
 <p> Dallman PR, Looker AC, Johnson CL, Carroll M. (1996).
   Influence of age on laboratory criteria for the diagnosis of
-  iron de&shy;fi&shy;ciency anaemia and iron de&shy;fi&shy;ciency in infants and
+  iron deficiency anaemia and iron deficiency in infants and
   children.  In:  Hallberg L, Asp N-G (eds.)  Iron Nutrition
   in Health and Disease.  John Libbey and Co, London, pp.
   65&ndash;74. </p>
@@ -3977,11 +4010,11 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Hernell O. (2002a).  Sex differences in iron status during
   infancy.  Pediatrics 110:  545&ndash;552.  Domell&ouml;f M, Dewey KG,
   Lonnerdal B, Cohen RJ, Hernell O. (2002b).  The diagnostic
-  criteria for iron de&shy;fi&shy;ciency in infants should be
+  criteria for iron deficiency in infants should be
   reevaluated.  Journal of Nutrition 132:  3680&ndash;3686. </p>
 <p> Doyle W, Crawley H, Robert H, Bates CJ.  J. (1999).  Iron
-  de&shy;fi&shy;ciency in older people:  interactions between food and
-  nutrient intakes with bio&shy;chem&shy;ical measures of iron; further
+  deficiency in older people:  interactions between food and
+  nutrient intakes with biochemical measures of iron; further
   analysis of the National Diet and Nutrition Survey of people
   aged 65 years and over.  European Journal of Clinical
   Nutrition 53:  552&ndash;559. </p>
@@ -3990,7 +4023,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   months of age.  Archives of Disease in Childhood 74:
   36&ndash;39. </p>
 <p> Fairbanks VG.  (1980).  Nonequivalence of automated and
-  manual hematocrit and eryth&shy;ro&shy;cyte indices.  American Journal
+  manual hematocrit and erythrocyte indices.  American Journal
   of Clinical Pathology 73:  55&ndash;62. </p>
 <p> Fairbanks VF.  (1994).  Iron in medicine and nutrition.  In:
   Shils M, Olson JA, Shike M (eds.)  Modern Nutrition in
@@ -4009,14 +4042,14 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   People aged 65 Years or Older.  Volume 1:  Report of the
   Diet and Nutrition Survey.  The Stationery Office, London. </p>
 <p> Fishman SM, Christian P, West KJ Jr.  (2000).  The role of
-  vita&shy;mins in the prevention and control of anaemia.  Public
+  vitamins in the prevention and control of anaemia.  Public
   Health Nutrition 3:  125&ndash;150. </p>
 <p> Fleming D, Wood RJ.  (1996).  Plasma trans&shy;ferrin receptor
-  helps to predict iron de&shy;fi&shy;ciency in the anemia of chronic
+  helps to predict iron deficiency in the anemia of chronic
   disease.  Nutrition Reviews 53:  167&ndash;175. </p>
 <p> Flowers CH, Kuizon M, Beard JL, Skikne BS, Covell AM, Cook
   JD.  (1986).  A serum ferritin assay for prevalence studies
-  of iron de&shy;fi&shy;ciency.  American Journal of Hematology 23:
+  of iron deficiency.  American Journal of Hematology 23:
   141&ndash;151. </p>
 <p> Flowers CH, Skikne BS, Covell AM, Cook JD.  (1989).  The
   clinical measurement of serum trans&shy;ferrin receptor.
@@ -4027,7 +4060,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   369&ndash;373. </p>
 <p> Gimferrer E, Ubeda J, Royo MT, Marigo GJ, Marco N, Fernandez
   N, Oliver A, Padros R, Gich I. (1997).  Serum trans&shy;ferrin
-  receptor levels in different stages of iron de&shy;fi&shy;ciency.
+  receptor levels in different stages of iron deficiency.
   Blood 90:  1332&ndash;1334. </p>
 <p> Giovanniello TJ, DiBenedetto G, Palmer DW, Peters T Jr.
   (1968).  Fullyand semi-automated methods for the
@@ -4055,11 +4088,11 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   absorptivity of protoporphyrin IX.  Clinical Chemistry 35:
   1601&ndash;1608. </p>
 <p> Guyatt GH, Patterson C, Ali M, Singer J, Levine M, Turpie I,
-  Meyer R. (1990).  Diagnosis of iron-de&shy;fi&shy;ciency anemia in the
+  Meyer R. (1990).  Diagnosis of iron-deficiency anemia in the
   elderly.  American Journal of Medicine 88:  205&ndash;209. </p>
 <p> Hallberg L. (1995).  Results of surveys to assess iron
   status in Europe.  Nutrition Reviews 53:  314&ndash;322.  Hallberg
-  L. (2001).  Perspectives on nutritional iron de&shy;fi&shy;ciency.
+  L. (2001).  Perspectives on nutritional iron deficiency.
   Annual Review of Nutrition 21:  1&ndash;21. </p>
 <p> Hallberg L, Hulthen L. (2000).  Prediction of dietary iron
   absorption:  an algorithm for calculating absorption and
@@ -4074,7 +4107,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   American-type of meal.  American Journal of Clinical
   Nutrition 39:  577&ndash;583. </p>
 <p> Hallberg L, Bengtsson C, Lapidus L, Lindstedt G, Lundberg
-  PA, Hult&eacute;n L. (1993).  Screening for iron de&shy;fi&shy;ciency:  an
+  PA, Hult&eacute;n L. (1993).  Screening for iron deficiency:  an
   analysis based on bone marrow examinations and serum
   ferritin determinations in a population sample of women.
   British Journal of Haematology 85:  787&ndash;798. </p>
@@ -4086,11 +4119,11 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   hemochromatosis:  a huGE review.  American Journal of
   Epidemiology 154:  193&ndash;206. </p>
 <p> Hastka J, Lasserre JJ, Schwarzbeck A, Strauch M, Hehlmann R.
-  (1992).  Washing eryth&shy;ro&shy;cytes to remove interferents in
+  (1992).  Washing erythrocytes to remove interferents in
   measurements of zinc protoporphyrin by front-face
   hematofluorometry.  Clinical Chemistry 38:  2184&ndash;2189. </p>
 <p> Herbert V. (1987).  Nutrition science as a continually
-  unfolding story:  the folate and vitamin&nbsp;B<sub>12</sub> paradigm.
+  unfolding story:  the folate and vitamin B<sub>12</sub> paradigm.
   American Journal of Clinical Nutrition 46:  387&ndash;402. </p>
 <p> Huebers HA, Eng MJ, Josephson BM, Ekpoom N, Rettmer RL,
   Labb&eacute; RF, Pootrakul I, Finch CA.  (1987).  Plasma iron and
@@ -4101,7 +4134,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   (1990).  Intact trans&shy;ferrin receptors in human plasma and
   their relation to erythro&shy;poiesis.  Blood 75:  102&ndash;107. </p>
 <p> Hurtado A, Merino C, Delgado E. (1945).  Influence of
-  anoxemia on the hemopoietic activ&shy;ity.  Archives of Internal
+  anoxemia on the hemopoietic activity.  Archives of Internal
   Medicine 75:  284&ndash;323. </p>
 <p> ICSH (International Committee for Standardization in
   Haematology).  (1978).  Recommendations for measurement of
@@ -4132,7 +4165,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Silicon, Vanadium, and Zinc.  National Academy Press,
   Washington, DC. </p>
 <p> Johnson-Spear MA, Yip R. (1994).  Hemoglobin difference
-  between black and white women with com&shy;parable iron status:
+  between black and white women with comparable iron status:
   justification for race-specific anemia criteria.  American
   Journal of Clinical Nutrition 60:  117&ndash;121. </p>
 <p> Khusun H, Yip R, Schultink W, Dillon DHS.  (1999).  World
@@ -4162,7 +4195,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   assess iron status in various NHANES surveys.  Nutrition
   Reviews 53:  246&ndash;254. </p>
 <p> Looker AC, Dallman PR, Carroll MD, Gunter EW, Johnson CL.
-  (1997).  Prevalence of iron de&shy;fi&shy;ciency in the United States.
+  (1997).  Prevalence of iron deficiency in the United States.
   Journal of the American Medical Association 277:  973&ndash;976. </p>
 <p> Lu Y, Lynch SR, Cook JD, Madan N, Bayer WL.  (1987).  Use of
   capillary blood for the evaluation of iron status.  American
@@ -4171,7 +4204,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   some red cell parameters.  Acta Paediatrica Scandinavica 60:
   317&ndash;323. </p>
 <p> McLaren GD, Carpenter JT Jr, Nino HV.  (1975).  Erythrocyte
-  protoporphyrin in the detection of iron de&shy;fi&shy;ciency.
+  protoporphyrin in the detection of iron deficiency.
   Clinical Chemistry 21:  1121&ndash;1127. </p>
 <p> McLennan W, Podger A. (1998).  National Nutrition Survey:
   Nutrient Intakes and Physical Measurements.  Australian
@@ -4195,7 +4228,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Guideline.  C42-A.  NCCLS.  Villanova, PA. </p>
 <p> Olivares M, Walter T, Cook JD, Hertrampf E, Pizarro F.
   (2000).  Usefulness of serum trans&shy;ferrin receptor and serum
-  ferritin in diagnosis of iron de&shy;fi&shy;ciency in infancy.
+  ferritin in diagnosis of iron deficiency in infancy.
   American Journal of Clinical Nutrition 72:  1191&ndash;1195. </p>
 <p> Osler M, Milman N, Heitmann BL.  (1998).  Dietary and
   non-dietary factors associated with iron status in a cohort
@@ -4221,7 +4254,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   iron-binding capacity of serum.  Clinica Chimica Acta 259:
   25&ndash;30. </p>
 <p> Raper NR, Rosenthal JC, Woteki CE.  (1984).  Estimates of
-  available iron in diets of indiv&shy;iduals 1 year old and older
+  available iron in diets of individuals 1 year old and older
   in the Nationwide Food Consumption Survey.  Journal of the
   American Dietetic Association 84:  783&ndash;787. </p>
 <p> Raya G, Henny J, Steinmatz J, Herbeth B, Siest G. (2001).
@@ -4230,15 +4263,15 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Medicine 39:  1162&ndash;1168. </p>
 <p> Remacha AF, Bellido M, Garcia-Die F, Marco N, Ubeda J,
   Gimferrer E. (1997).  Serum erythropoietin and erythroid
-  activ&shy;ity in vitamin&nbsp;B<sub>12</sub> de&shy;fi&shy;ciency.  Haematologica 82:
+  activity in vitamin B<sub>12</sub> deficiency.  Haematologica 82:
   67&ndash;68. </p>
 <p> Romslo I, Talstad I. (1988).  Day-to-day variations in serum
   iron, serum iron-binding capacity, serum ferritin and
-  eryth&shy;ro&shy;cyte protopophyrin concen&shy;trations in anaemic
+  erythrocyte protopophyrin concen&shy;trations in anaemic
   subjects.  European Journal of Haematology 40:  79&ndash;82. </p>
 <p> Rusia U, Flowers C, Madan N, Agarwal N, Sood SK, Sikka M.
   (1996).  Serum trans&shy;ferrin receptor levels in the evaluation
-  of iron de&shy;fi&shy;ciency in the neonate.  Acta Paediatrica
+  of iron deficiency in the neonate.  Acta Paediatrica
   Japonica 38:  455&ndash;459. </p>
 <p> Russell D, Parnell W, Wilson N, Faed J, Ferguson E, Herbison
   P, Horwath C, Nye T, Walker R, Wilson B. (1999).  NZ Food,
@@ -4256,7 +4289,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   supplementation in pregnancy.  American Journal of Clinical
   Nutrition 58:  622&ndash;626. </p>
 <p> Skikne BS, Flowers CH, Cook JD.  (1990).  Serum trans&shy;ferrin
-  receptor:  a quantitative measure of tissue iron de&shy;fi&shy;ciency.
+  receptor:  a quantitative measure of tissue iron deficiency.
   Blood 75:  1870&ndash;1876. </p>
 <p> Statland BE, Winkel P. (1977).  Relationship of day-today
   variation of serum iron concen&shy;trations to ironbinding
@@ -4313,7 +4346,7 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   Clinical Chemistry 332:  526&ndash;529. </p>
 <p> WHO/UNICEF/UNU (World Health Organization / United Nations
   Childrens Fund / United Nations University) (2001).  Iron
-  de&shy;fi&shy;ciency anaemia, assessment, prevention and control:  a
+  deficiency anaemia, assessment, prevention and control:  a
   guide for programme managers.  WHO/NHD/01.3.  World Health
   Organization, Geneva. </p>
 <p> Wians FH Jr, Urban JE, Kroft SH, Keffer JH.  (2001).
@@ -4347,10 +4380,10 @@ target="right" >Cooper and Zlotkin, 1996)</a>
   pp. 277&ndash;292. </p>
 <p> Yip R, Johnson C, Dallman PR.  (1984).  Age-related changes
   in laboratory values used in the diagnosis of anemia and
-  iron de&shy;fi&shy;ciency.  American Journal of Clinical Nutrition 39:
+  iron deficiency.  American Journal of Clinical Nutrition 39:
   427&ndash;436. </p>
 <p> Yip R, Stoltzfus RJ, Simmons WK.  (1996).  Assessment of the
-  prevalence and the nature of iron de&shy;fi&shy;ciency for
+  prevalence and the nature of iron deficiency for
   populations:  the utility of comparing haemoglobin
   distributions.  In:  Hallberg L, Asp N-G (eds.)  Iron
   Nutrition in Health and Disease.  John Libbey and Co,

@@ -280,6 +280,12 @@ li {
 	padding: 2px;
 }
 
+li.numbered {
+	list-style-position: inside;
+	list-style-type: decimal;
+	padding: 10px;
+}
+
 h3:target {
   animation: highlight 1s ease;
 }
