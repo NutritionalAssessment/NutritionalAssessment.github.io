@@ -52,6 +52,43 @@ table {
 	padding: 10px;
 	text-align: center;
 }
+table.condensed {
+	table-layout: auto;
+	border-style: solid;
+	border-width: thin;
+	border-collapse: collapse;
+	margin: 20px 20px 20px 20px;
+	float: left;
+	padding: 10px;
+	text-align: center;
+	font-size: 0.2em;
+}
+
+table.center {
+	float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.compressed {
+	font-size: 10pt;
+	table-layout: auto;
+	border-style: solid;
+	border-width: thin;
+	border-collapse: collapse;
+	margin: 20px 20px 20px 20px;
+	float: left;
+	padding: 10px;
+	text-align: center;
+}
+sup {
+    vertical-align: text-top;
+    font-size: 0.7em;
+}
+
+sub {
+	vertical-align: text-bottom;
+	font-size: 0.7em;
+}
 
 td.left-aligned { text-align: left; }
 td.shaded { background-color: pink; }
@@ -206,15 +243,14 @@ figcaption {
   color: black;
   font-size: 22px;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
 
 img.cover {
   float: left;
+}
+img.center {
+	float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #watermark-text {
