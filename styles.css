@@ -19,6 +19,13 @@ a.iframe {
   text-decoration: underline;
   color: blue;
 }
+ul.no-padding{
+padding: 10px;
+}
+
+ul.small{
+	font-size; small;
+}
 
 span.n {
 	white-space: nowrap;
@@ -33,12 +40,12 @@ caption.cap {
 figure {
   float: left;
   padding: 10px;
-  margin: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
 }
 
 figcaption.cap {
   background-color: lavender; 
-  margin: 20px 0px 0px 0px;
+  margin: 10px 0px 0px 0px;
   padding: 10px;
 }
 
@@ -47,11 +54,16 @@ table {
 	border-style: solid;
 	border-width: thin;
 	border-collapse: collapse;
-	margin: 20px 20px 20px 20px;
+	margin: 10px 10px 10px 10px;
 	float: left;
 	padding: 10px;
 	text-align: center;
 }
+
+table.forty {
+	width: 40%;
+}
+
 table.condensed {
 	table-layout: auto;
 	border-style: solid;
@@ -99,6 +111,19 @@ caption {
   font-size: 13pt;
   margin: 10px;
 }
+.boxedtext {
+  background-color: white; /* Green */
+  border: 1px solid black;
+  color: black;
+  padding: 0px 2px 0px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  	font-family: Calibri, sans-serif; 
+	font-size: 13pt; 
+}
+
+
 .box {
   font-size: 14pt;
   display: block;
@@ -115,14 +140,10 @@ caption {
   display: block ;
   float: left;
   background-color: lightyellow;
-  width: 50%;
+  width: 38%;
   border:2px solid black;
   padding: 10px;
-  margin-left: 2%;
-  margin-right: 3%;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  
+  margin: 10px 10px 10px 10px;
 }
 .tinybox {
   font-size: 14pt;
@@ -151,7 +172,8 @@ caption {
 
 
 .citeAs {
-  display: block;
+  text-align: left;
+  display: flow-root;
   background-color: lightgrey;
   border-width: thin;
   border-style: solid;
@@ -160,7 +182,7 @@ caption {
 }
 
 .abstract {
-  display: flow-root;
+  display: block;
   background-color: lightyellow;
   border-width: thin;
   border-style: solid;
@@ -204,10 +226,11 @@ tr:hover { background-color:  yellow; }
 figure {
   float: left;
   cursor: pointer;
-  margin-top: 0px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 0px;
 }
 
 nofigure {
@@ -248,9 +271,13 @@ img.cover {
   float: left;
 }
 img.center {
+	display: block;
 	float: none;
   margin-left: auto;
   margin-right: auto;
+}
+img.hundred {
+	width: 100%;
 }
 
 #watermark-text {
@@ -319,7 +346,12 @@ li {
 li.numbered {
 	list-style-position: inside;
 	list-style-type: decimal;
-	padding: 10px;
+	padding: 2px;
+}
+li.circle {
+	list-style-position: inside;
+	list-style-type: circle;
+	padding: 2x
 }
 
 h3:target {
