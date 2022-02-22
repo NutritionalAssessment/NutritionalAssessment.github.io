@@ -20,7 +20,9 @@ a.iframe {
   color: blue;
 }
 ul.no-padding{
-padding: 10px;
+padding: 5px;
+margin-top: 0;
+margin-bottom:0px;
 }
 
 ul.small{
@@ -35,6 +37,16 @@ caption.cap {
   background-color: lavender; 
   margin: 20px 0px 0px 0px;
   padding: 10px;
+}
+
+mjx-container {
+margin: 10px !important;
+}
+
+blockquote {
+margin-bottom: 5px;
+margin-top: 5px;
+padding: 0px 0px 0px 0px;
 }
 
 figure {
@@ -63,6 +75,11 @@ table {
 table.forty {
 	width: 40%;
 }
+table.ninenine {
+	width: 99%;
+}
+
+
 
 table.condensed {
 	table-layout: auto;
@@ -121,6 +138,17 @@ caption {
   display: inline-block;
   	font-family: Calibri, sans-serif; 
 	font-size: 13pt; 
+}
+.yellowboxedtext {
+  background-color: rgb(253, 236, 0); /*Yellow */
+  border: 1px solid black;
+  color: black;
+  padding: 0px 2px 0px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:  Arial, Helvetica, sans-serif;
+	font-size: 20pt; 
 }
 
 
@@ -204,6 +232,10 @@ caption {
   font-weight: bold;
 }
 
+mybr {
+    line-height: 10px;
+ }
+
 tr, td {vertical-align: center;
 	border-style: solid;
 	border-width: thin;
@@ -269,6 +301,8 @@ figcaption {
 
 img.cover {
   float: left;
+  margin-right:  20px;
+  margin-bottom:  20px;
 }
 img.center {
 	display: block;
@@ -351,13 +385,14 @@ li.numbered {
 li.circle {
 	list-style-position: inside;
 	list-style-type: circle;
-	padding: 2x
+	padding: 2px
 }
 
 h3:target {
   animation: highlight 1s ease;
 }
 .tippy-box[data-theme~='nutass'] {
+  text-align: left;
   background-color: lavender;
   color: black;
   padding: 4px 8px;
