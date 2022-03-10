@@ -19,6 +19,14 @@ a.iframe {
   text-decoration: underline;
   color: blue;
 }
+
+ul.padded{
+  padding:5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
 ul.no-padding{
 padding: 5px;
 margin-top: 0;
@@ -70,10 +78,13 @@ table {
 	float: left;
 	padding: 10px;
 	text-align: center;
-}
 
+}
 table.forty {
 	width: 40%;
+}
+table.fifty {
+	width: 50%;
 }
 table.ninenine {
 	width: 99%;
@@ -97,6 +108,7 @@ table.center {
 	float: none;
   margin-left: auto;
   margin-right: auto;
+  font-size: 3.2vw;
 }
 table.compressed {
 	font-size: 10pt;
@@ -109,6 +121,8 @@ table.compressed {
 	padding: 10px;
 	text-align: center;
 }
+
+
 sup {
     vertical-align: text-top;
     font-size: 0.7em;
@@ -242,8 +256,16 @@ tr, td {vertical-align: center;
 	white-space: nowrap;
 	text-align: center;
 	padding: 3px;
-  font-size: 13pt;
+  font-size: 2.0vw;
 }
+
+tdsmall{	border-style: solid;
+	border-width: thin;
+	white-space: nowrap;
+	text-align: center;
+	padding: 5px;
+  font-size: 13pt;}
+
 th {
 	border-style: solid;
 	border-width: thin;
@@ -381,6 +403,7 @@ li.numbered {
 	list-style-position: inside;
 	list-style-type: decimal;
 	padding: 2px;
+  margin-top: 5px;
 }
 li.circle {
 	list-style-position: inside;
