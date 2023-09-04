@@ -1,0 +1,210 @@
+References
+
+Arimond M et al. 2010 J Nutr 2059S-2069S
+
+Arsenault J.E., Hijmans R.J. & Brown H.K. (2015). Improving nutrition security
+through agriculture: an analytical framework based on national food balance
+sheets to estimate nutritional adequacy of food supplies. Food Security. DOI
+10.1007/s12571-015-0452-y.
+https://link.springer.com/article/10.1007/s12571-015-0452-y
+
+Beegle K., De Weerdt J., Friedman J., Gibson J. (2010). Methods of Household
+Consumption Measurement through Surveys. Experimental Results from
+Tanzania. Policy Research Working Paper 5501. The World Bank.
+https://documents.worldbank.org/en/publication/documents-reports/documentdetail/265491468312013923/methods-of-household-consumption-measurement-through-surveys-experimental-results-from-tanzania
+
+Burk MC, Pao EM. (1976). Methodology for Large Scale Surveys of Household
+and Individual Diets. Home Economics Research Report No. 40. U.S. Department
+of Agriculture, Washington, DC.
+https://agris.fao.org/agris-search/search.do?recordID=US19780231644
+
+Carletto C., Zezza A. & Banerjee R (2013). Towards better measurement of
+household food security: Harmonizing indicators and the role of household
+surveys. Global Food Security, 2, 30-40.
+https://www.sciencedirect.com/science/article/abs/pii/S2211912412000272
+
+Den Hond EM, Lesaffre E, Kesteloot HE. (1995). Regional differences in
+consumption of 103 fat products in Belgium: a supermarket-chain sales approach.
+Journal of the American College of Nutrition14: 621?627.   PMID: 8598423
+
+Del Gobbo L.C., Khatibzadeh S., Imamura F., Micha R., Shi P., Smith M., Myers
+S.S. & Mozaffarian D. (2015). Assessing global dietary habits: a comparison of
+national estimates from the FAO and the Global Dietary Database. Am J Clin
+Nutr,  doi: 10.3945/ajcn.114.087403. PMID: 25788002
+
+FAO (2001). Food Balance Sheets: A Handbook. Food and Agriculture
+Organization of the United Nations, Rome.
+https://www.fao.org/3/x9892e/X9892E00.htm
+
+FAO (2021a). New Food Balances. Description of utilization variables.
+https://fenixservices.fao.org/faostat/static/documents/FBS/New%20FBS%20meth
+odology.pdf
+
+FAO (2021b) Key differences between new and old Food Balance Sheet (FBS).
+https://fenixservices.fao.org/faostat/static/documents/FBS/Key%20differences%2
+0between%20new%20and%20old%20FBS%20June2022%20.pdf
+
+FAO (2021c)
+https://www.fao.org/faostat/en/#data/FBS
+
+FAO (2021d) FAOSTAT Analytical Brief 40. Food balances 2010?2019
+Global, regional and country trends.
+https://www.fao.org/3/cb9574en/cb9574en.pdf (Accessed August 2022).
+
+FAO (2021e) Tracking progress on food and agriculture-related SDG indicators
+2021: A report on the indicators under FAO custodianship. Rome.
+https://doi.org/10.4060/cb6872en
+
+FAO (2021f) Food Balance Sheets
+https://www.fao.org/economic/the-statistics-division-
+ess/publications-studies/publications/food-balance-sheets/zh/
+
+FAO (2021g) Applications and uses of food balance sheets.
+https://www.fao.org/3/x9892e/X9892e04.htm#P3309_98127
+
+FAO (2021h) Supply Utilization Accounts and Food Balance Sheets
+https://www.fao.org/economic/the-statistics-division-ess/methodology/methodology-systems/supply-utilization-accounts-and-food-balance-sheets-background-information-for-your-better-understanding/en/
+
+FAO (2022)  Methodological notes for the food security and nutrition indicators
+https://www.fao.org/3/cc0639en/online/sofi-2022/annexes1_b.html
+
+FAO (2022a) Food balance sheets: Overview, methodology, and country support
+https://www.sesric.org/imgs/news/2429_PRESENTATION_FAO_FBS-OVERVIEW.pdf
+
+FAO (2023) Food Balance Sheets and The Food Consumption Survey: A
+Comparison of Methodologies and Results
+https://www.fao.org/economic/the-statistics-division-ess/methodology/methodology-systems/food-balance-sheets-and-the-food-consumption-survey-a-comparison-of-methodologies-and-results/en/
+
+FAO, IFAD, UNICEF, WFP and WHO (2022). The State of Food Security and
+Nutrition in the World. Repurposing food and agricultural policies to make
+healthy diets more affordable. Rome, FAO. https://doi.org/10.4060/cc0639en
+
+FAO and The World Bank. 2018. Food Data Collection in Household
+Consumption and Expenditure Surveys. Guidelines for Low- and Middle-Income
+Countries. Rome.  https://www.fao.org/publications/card/en/c/CA1561EN/
+
+Fiedler J.L., Lividini K., Bermudez O.I. & Smitz M-F (2012). Household
+Consumption and Expenditures Surveys (HCES): A primer for food and nutrition
+analysts in low- and middle-income countries. Food and Nutrition Bulletin, vol.
+33, no. 3, S170-S184.  PMID: 23193768
+
+Fiedler J.L. & Mwangi D.M. (2016). Using household consumption and
+expenditure surveys to make inferences about food consumption, nutrient intakes
+and nutrition status. How important is it to adjust for meal partakers? IFPRI
+(International Food Policy Research Institute) Discussion paper. (accessed
+January 2023)   https://www.ifpri.org/publication/using-household-consumption-and-expenditure-surveys-make-inferences-about-food
+
+Gage TB, O?Connor K. (2009). Nutrition and the variation in level and age
+patterns of mortality. Human Biology 81:  551-574.
+https://doi.org/10.3378/027.081.0605   PMID: 20504181
+
+Gr?nberger K. (2014) Estimating food consumption patterns by reconciling food
+balance Sheets and household Budget surveys. Food and Agriculture
+Organization of the United Nations, Rome.
+https://www.fao.org/publications/card/en/c/487604cf-e5c8-422d-b25a-d2356022b08b/
+
+INDDEX Project (2018), Data4Diets: Building Blocks for Diet-related Food
+Security Analysis.  Tufts University, Boston, MA.  https://inddex.nutrition.tufts.edu/
+
+Jacobs K & Sumner DA (2002) The Food Balance Sheets of the Food and
+Agriculture Organization: A review of Potential Ways to Broaden the Appropriate
+uses of the Data. Berkeley, CL: Department of Agricultural Economics,
+University of California.
+
+Maxwell D. Coates J. & Vaitla B. (2013). How Do Different Indicators of
+Household Food Security Compare? Empirical Evidence from Tigray. Feinstein
+International Center, Tufts University: Medford, USA.
+https://fic.tufts.edu/assets/Different-Indicators-of-HFS.pdf
+
+Moltedo A., Troubat N., Lokshin M. & Sajaia Z. (2014). Analyzing Food Security
+Using Household Survey Data : Streamlined Analysis with ADePT Software.
+Washington, DC: World Bank. World Bank.
+https://openknowledge.worldbank.org/handle/10986/18091
+
+Moltedo A., ?lvarez-S?nchez C., Troubat N. & Cafiero C. (2018). Optimizing the
+use of ADePT-Food Security Module for Nutrient Analysis ADePT-FSM Version
+3. Statistics Division (ESS) Food and Agriculture Organization of the United
+Nations Rome. Available at https://www.fao.org/3/cb2465en/cb2465en.pdf
+(accessed January 2023).
+
+Moltedo A., ?lvarez-S?nchez C., Troubat N. & Cafiero C. (2022). Estimating the
+prevalence of nutrient inadequacy from household consumption and expenditure
+surveys. FAO Statistics Working Paper Series / 22-30 DOI: 10.4060/cc2780en.
+https://www.fao.org/documents/card/en/c/cc2780en
+
+N?arhinen M, Berg MA, Nissinen A, Puska P. (1999). Supermarket sales data: a
+tool for measuring regional differences in dietary habits. Public Health Nutrition
+2: 277?282. PMID: 10512562
+
+Roser M, and Ritchie H. (2019) Hunger and Undernourishment.  Our Word Data.
+https://ourworldindata.org/hunger-and-undernourishment
+
+Russell, J., Lechner, A., Hanich, Q., Delisle, A., Campbell, B., & Charlton, K.
+(2018). Assessing food security using household consumption expenditure
+surveys (HCES): A scoping literature review. Public Health Nutrition, 21(12),
+2200-2210. doi:10.1017/S136898001800068X    PMID: 29656716
+
+Sasaki S. & Kesteloot H. (1992). Value of Food and Agriculture Organization
+data on food-balance sheets as a data source for dietary fat intake in
+epidemiologic studies. American Journal of Clinical
+Nutrition 56:716?723. PMID: 1414973
+
+Smith, L. C. & Ali S. 2007. Measuring Food Security Using Household
+Expenditure Surveys. Food Security in Practice technical guide series.
+Washington, D.C.: International Food Policy Research Institute.
+https://ebrary.ifpri.org/digital/collection/p15738coll2/id/125275/
+
+Smith L.C., Dupriez O. & Troubat N. (2014) Assessment of the Reliability and
+Relevance of the Food Data Collected in National Household Consumption and
+Expenditure Surveys. IHSN (International Household Survey Network) Working
+Paper No. 008. IHSN_WP008_EN.pdf (accessed November 2022).
+http://www.ihsn.org/node/683
+
+Smith MR, Micha R, Golden CD, Mozaffarian D, Myers SS (2016) Global
+Expanded Nutrient Supply (GENuS) Model: A New Method for Estimating the
+Global Dietary Supply of Nutrients. PLoS ONE 11(1): e0146976.
+https://doi.org/10.1371/journal.pone.0146976   PMID: 26807571
+
+Swindale A, Ohri-Vachaspati P. (1999). Measuring Household Food
+Consumption: A Technical Guide. Food and Nutrition Technical Assistance
+Project, Academy for Educational Development, Washington DC, pp. 1?24.
+
+Turrini, A., Saba, A., Perrone, D. E Cialfa and A D'Amicis (2001). Food
+consumption patterns in Italy: the INN-CA Study 1994?1996. Eur J Clin Nutr 55,
+571?588. https://doi.org/10.1038/sj.ejcn.1601185. PMID: 11464231
+
+Wanner N., Cafiero C. Troubat N. & Conforti P. (2014). Refinements to the FAO
+methodology for estimating the Prevalence of Undernourishment indicator. ESS
+Working Paper No. 14-05, September 2014 2 Food and Agriculture Organization
+of the United Nations Rome.
+https://www.fao.org/documents/card/en/c/c2567f45-f9a8-464f-9f81-217d99b472b1
+
+Wessells KR, Brown KH. Estimating the global prevalence of zinc deficiency:
+results  ased on zinc availability in national food supplies and the prevalence of stunting.
+PLoS One. 2012;7(11):e50568. doi: 10.1371/journal.pone.0050568. Epub 2012 Nov 29.
+PMID: 23209782
+
+Wessells, K. R., Singh, G. M., & Brown, K. H. (2012).
+Estimating the global prevalence of inadequate zinc intake from
+national food balance sheets: effects of methodological assumptions.
+PloS one, 7(11), e50565.    PMID: 23209781
+
+Wuehler S.E., Peerson J.M. & K.H. Brown (2005) Use of national food balance
+data to estimate the adequacy of zinc in national food supplies: methodology and
+regional estimates. Public Health Nutrition: 8(7), 812?819 DOI:
+10.1079/PHN2005724   PMID: 16277796
+
+WHO (World Health Organization) 1996. Trace elements in human nutrition and
+health. Geneva: WHO
+https://apps.who.int/iris/handle/10665/37931
+
+World Bank website. Microdata Library.
+https://microdata.worldbank.org/index.php/home Accessed November 2022.
+
+Zezza A., Carletto C., Fiedler J.L., Gennari P., Jolliffe D. (2017). Food counts.
+Measuring food consumption and expenditures in household consumption and
+expenditure surveys (HCES). Introduction to the special issue,
+Food Policy, 72, 1-6. ISSN 0306-9192.
+https://www.sciencedirect.com/journal/food-policy/vol/72/suppl/C
+
+

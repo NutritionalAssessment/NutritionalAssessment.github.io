@@ -1,0 +1,902 @@
+ASSESSMENT OF FOOD AVAILABLE FOR CONSUMPTION AT
+THE NATIONAL AND HOUSEHOLD LEVELS
+
+Catherine Leclercq, Nathalie Troubat & Rosalind Gibson
+
+Abstract
+
+This chapter describes how National Food Balance Sheets (FBSs) and 
+Household Surveys allow a quantitative assessment of food available for 
+consumption at national and household levels respectively. Data are expressed as 
+per capita food supply for human consumption and can be used to estimate per 
+capita food intakes and, through matching with food composition data, per capita 
+energy and nutrient intakes. 
+
+Food Balance Sheets are calculated from national food production, plus imports, 
+plus food taken from stocks. Exports and food added to stocks are then subtracted 
+to obtain an estimate of gross country's food supply. The estimate of food 
+diverted for non-human uses (e.g. animal feed, seed, non-food use) and of food 
+loss up to retail level are subtracted from the gross country's food supply to 
+obtain the net country's food supply (i.e. total food available for human 
+consumption in a country at the retail level). FBSs are particularly precious for 
+low-income countries where household food consumption surveys and individual 
+food consumption surveys are not performed regularly on a representative sample 
+of the population. Food Balance Sheets provide no information on the distribution 
+within the countries (in terms of geographical areas or socio-economic groups) 
+and on its distribution according to seasons. 
+
+In contrast, household surveys may provide information on 
+household food consumption 
+within the countries (in terms of geographical areas or socio-economic groups) 
+and on its distribution according to seasons. Household food consumption is the 
+food and beverages available for consumption by the household, family group, or 
+institution. It is defined as the total amount of food and beverages available for 
+consumption in the household or prepared and consumed outside the household. 
+Household surveys are of two types, surveys where food consumption is measured 
+(Household Food Consumption Surveys (HFCS) and those more widely used in 
+low- and middle-income economies to inform on global food security and poverty 
+where food available for consumption is measured (Household Consumption and 
+Expenditure Surveys (HCES). Efforts have recently been made to improve and 
+harmonize household surveys.
+
+Prevalence of Undernourishment (PoU) at national level is based on FBSs, 
+making use of HBS. It is a key indicator to assess food insecurity at global level.
+
+National and Household surveys provide no information on the availability of 
+food/nutrients according to age, sex and physiological status. Interpreting data 
+collected through such surveys in terms of nutritional adequacy of the diet 
+without complementing them with data collected at individual level is highly 
+uncertain. 
+
+============================================ end of abstract
+
+The food available for human consumption by a population
+is best assessed by a national survey, with the 
+resulting data expressed as per capita food supply. Such 
+data can then be used to estimate per capita food intakes and per capita nutrient 
+intakes. Food and nutriet intakes can also be estimated from household surveys. 
+The term that should be used for data 
+derived from most of these national and 
+household surveys is either "food supply" or 
+"food available for consumption" rather than "food consumption". Only a few 
+types of household surveys measure actual food consumed.
+
+Chapter 3 provides a details of the methods 
+suitable for measuring food consumption at the individual level.
+In contrast, the present chapter considers 
+survey methods suitable for a quantitative 
+assessment of food available for consumption/consumed at national and 
+household levels.
+
+Note that per capita food supply for human consumption, assessed 
+through surveys at national level, provide no information on its distribution 
+within the countries (in terms of geographical areas or socio-economic groups) 
+and on its availability according to season. 
+In contrast, per capita food supply and per capita 
+food consumption assessed through surveys at household level may provide 
+information on its distribution within the 
+countries, in terms of geographical areas 
+or socio-economic groups, and on its distribution according to seasons. 
+However, it provides no information on its distribution 
+within the household according to 
+individual characteristics which determine 
+nutrient needs - typically age, sex, body 
+weight, physical activity level and physiological status. 
+
+Methods designed to estimate the exposure to 
+hazardous substances even though they 
+are sometimes based on food supply at household 
+level are not described. Similarly, methods suitable for 
+qualitative assessment, such as food frequency or 
+food diversity instruments, or methods using Universal Product Codes 
+(UPCs) are not considered here.
+
+2.1 Measurement of food available for consumption at the national level: 
+Food balance sheets
+
+Food balance sheets (FBS) are particularly important in countries where household 
+food consumption surveys and individual food consumption surveys are not 
+performed regularly on a representative sample of the population. 
+This is the case for some low-income countries. 
+
+Several terms have been used to describe FBSs. These include "country's food 
+supply", "national food accounts", "food moving into consumption", "food 
+consumption statistics", "food disappearance data", "food available for 
+consumption" and "consumption level estimates". Here the term 
+"country's food supply" is used. 
+
+FBSs present a comprehensive picture of the pattern of a country's food supply 
+during a specified reference period: the calendar year, 
+the agricultural year or the 
+crop year (FAO, 2021c). The sources of supply 
+and its utilization are reported for 
+each food item potentially available for human consumption, including primary 
+commodities such as soybeans and processed commodities such as oil of 
+soyabean. 
+
+The country's food supply is calculated from national food production, plus 
+imports, plus food taken from stocks. Exports and food added to stocks are then 
+subtracted to obtain an estimate of gross country's food supply. The estimate of 
+food diverted for non-human uses (e.g. animal feed, seed, non-food use) and of 
+food loss are then subtracted from the gross country's food supply to 
+obtain the net country's food supply, i.e. the total food available for human 
+consumption in a country at the retail level (FAO 2021d).
+
+For the purposes of the FBS, "food loss" closely aligns with "post-harvest / post-
+slaughter loss". It represents the quantity of food that leaves the 
+production / supply chain at any stage, e.g., during production, processing and 
+distribution, up to the retail level (FAO 2021a). Food loss may be considerable in 
+countries where the agricultural products reach the consumer after travelling long 
+distance and / or passing through several 
+intermediaries prior to retail. In 
+such cases, large amounts of food are lost because of damage, especially for 
+perishable foods such as fresh fruit and vegetables or 
+processed foods with a short 
+shelf life. Assumptions about losses may be based 
+on expert opinion obtained in the 
+countries. Losses or waste at the retailer, food catering and household level are 
+not considered in the compilation of FBS. Hence, total food availability 
+estimates derived from the FBS are likely to be higher than average food 
+consumed at the household level.
+
+In some cases, information on country's stocks 
+is not available. The effect of this 
+data gap is reduced by preparing FBSs as a moving average for 3-year periods  
+for all countries (https://www.fao.org/economic/the-statistics-division-
+ess/publications-studies/publications/food-balance-sheets/zh/ )
+
+Both official and unofficial data are used for compilation of FBSs; National 
+statistical offices constitute an important data source. 
+However, directly measured 
+data on food availability at national level 
+may be difficult to obtain (FAO, 2021a) 
+and FBS compilers often derive estimates of food availability by making certain 
+adjustments based on other existing data sets that measure food production or 
+consumption. Two official data sources may provide additional information, 
+helping the estimation of a country's 
+food availability: industrial output surveys 
+and Household Consumption and Expenditure Surveys (HCES). 
+See Section 2.2 for the description of HCES surveys).
+
+In its online database (FAOSTAT), FAO provides free access to FBSs for 
+over 245 countries and territories and all the FAO regional groups, from 
+1961 to date (https://www.fao.org/faostat/en/#home).  
+The FBSs reported are "standardized FBSs": the 
+quantity of primary commodities available for consumption (e.g., wheat) include 
+the quantity of processed commodities (e.g., bread) converted back to their 
+primary commodities. The list of food commodities (such as "cassava") in each of 
+the 24 food groups (such as "starchy roots") can be found in the definition and 
+standard section of the FAOSAT FBS website 
+(https://www.fao.org/faostat/en/#data/FBS). Data on per capita 
+food supplies are expressed in terms of quantity, and in terms of caloric 
+value, referred to as the Dietary Energy Supply (DES). 
+The protein and fat content are also calculated 
+by applying appropriate food composition factors 
+for all primary and processed products.
+
+The per capita supply available for human consumption is obtained by dividing 
+the food supply by the partaking population estimate in each country; it is 
+expressed in grams per capita of individual food commodities. FAO uses mid-
+year official population estimates released by the United Nations Development 
+Program (UNDP). The most recent data are available at  
+https://population.un.org/wpp/   According to the last 
+FAO recommendation for FBS compilers, the number of migrants and tourists 
+must be subtracted from the population estimates. The number of migrants and 
+tourists should be calculated as the difference between country's outbound 
+travelers and inbound visitors (FAO 2021a).  
+
+The accuracy of food balance sheets, 
+which are in essence derived statistics, is of 
+course dependent on the reliability of the 
+underlying basic statistics. The coverage 
+and accuracy of underlying statistics vary a 
+great deal between countries. In some 
+low-income countries, the coverage and quality of the 
+statistics are uncertain - especially for 
+food diverted for non-human food uses and for food stocks.
+Systematic errors may also 
+increase in countries where food systems become 
+more sophisticated. FBSs may result in an underestimate of 
+per capita food supply 
+in low-income countries where subsistence 
+agriculture is widespread. In fact, 
+household consumption of vegetal food products 
+obtained through growing or 
+gathering and of animal food products obtained 
+through breeding or hunting are 
+not considered in the calculation.  
+FAO documents emphasize that availability for 
+human consumption does not equate with consumption. The quantities of 
+food available for human consumption, as estimated in the food balance sheet, 
+reflect only the quantities reaching the consumer at retail level. 
+The amount of food (and of nutrients) 
+actually consumed may be lower than the quantity shown 
+in the food balance sheet depending on the degree of loss and waste of edible food 
+and nutrients in the household, e.g., during storage, in preparation and cooking 
+(which affect vitamins and minerals to a greater extent than calories, protein and 
+fat) as plate-waste, as fed to domestic animals and pets, or thrown away 
+(https://www.fao.org/economic/the-statistics-division-
+ess/methodology/methodology-systems/supply-utilization-accounts-and-food-
+balance-sheets-background-information-for-your-better-understanding/en/).
+
+When making use of FAO FBS data, one must recognize that recently 
+FAO has changed its FBS methodology. The new methodology 
+is illustrated in the document "The New Food Balances and the utilization 
+variables" (FAO, 2021a). Key differences between new and old FBS are 
+described in FAO (2021b). With the release of FBS data for 2019, the new 
+methodology used for 2014-2019 has been applied backwards to cover 2010-2013, 
+therefore giving consistent time series of national food supply from 2010 to 
+2019. The per capita food supply data for 2010-19 have been compiled using the 
+2019 UNPD population data, whereas the series up to 2009 has been compiled 
+using the 2015 (or even earlier) version of the UNPD population data. FAO plan
+that the FBS preceding 2010 will also be recompiled using the new methodology. 
+
+2.2.  Measurement of food available for consumption at the household level: 
+Household surveys
+
+Household food consumption is defined as the total amount of 
+food and beverages available for consumption in the household 
+plus foods prepared and consumed by the household but outside.
+Household surveys are of two types: 
+(a) those developed in the 80s as an alternative 
+to individual surveys to provide nutritional information.   
+In these, Household Food Consumption Surveys (HFCS) food consumption is measured.  
+(b) More recently, particularly in low- and middle-income economies, household 
+surveys are being used to inform on global food security and poverty, and where
+where food available for consumption is measured but forms only part of the survey
+(Household Consumption and Expenditure Surveys (HCES). 
+Surch surveys can also be conducted in 
+institutions, e.g. for institutionalized elderly.
+
+In the past, some surveys similar to HFCS or HCES were 
+conducted  in high-income countries with the objective of dietary assessment.
+They were based on a record of food quantities entering the 
+household, either purchased, received as gifts, or produced for household use, 
+over a reference period. They used the "food account method" (Burk & Pao, 1976) or 
+the "food inventory method" (Turrini et al., 2001). 
+Individual food consumption by the 
+household was often recorded as an additional component of the 
+survey, leading to an increased burden on the sampled households. Such surveys 
+are now rare and have been substituted by individual food consumption surveys.
+
+During HFCS and HCES, data on acquisition and/or expenditure and/or 
+consumption of commodities including foods and beverages are collected. HFCS 
+and HCES are less expensive than individual food consumption surveys and 
+require a lower burden for participants. However, many of the technical problems 
+and limitations of household surveys are the same as those of individual dietary 
+surveys and are discussed in other sections (Chapters 4 and 5). Thus, diet might 
+be altered by the design of the survey or the recording process. 
+
+Typically, HFCS and HCES are conducted on large nationally representative 
+sample of households (Fiedler et al., 2012). These surveys all involve collecting 
+information on demographic and socioeconomic characteristics of the household, 
+thereby enabling data to be presented in terms of income 
+level, family size, region of the country, etc. Attention must be paid to the 
+sample design of these surveys 
+to ensure that a representative national 
+sample is obtained, as noted in  
+Setion 1.4.2. The sample design should account for the influence on food 
+consumption of season, holidays, weekends, socioeconomic status and region to 
+obtain information on the true mean food consumption and the diverse food 
+consumption pattern of a population.
+
+2.2.1. Household Food Consumption Surveys (HFCS).
+
+HFCS measure all food and beverages consumed within a household during a 
+specified period. They require careful supervision by the interviewer and good 
+cooperation of the respondents. In general, these surveys are more complicated 
+and costly to undertake than HCES and are therefore often not carried out 
+frequently or at regular intervals. They are now rarely performed; they have 
+been substituted with individual food consumption 
+surveys even if the latter are more costly. 
+
+Weighed household food records
+
+Food records (also called food diaries) are usually completed over at least a 1-wk 
+period, by either the householder or a fieldworker. The food eaten by the 
+household is recorded. During the survey period, the weight 
+or volume of each food consumed at each meal is recorded, before subdivision 
+into individual helpings (Burk & Pao, 1976). Detailed descriptions of all foods, 
+including brand names, and their method of preparation are recorded. For 
+composite dishes, the amount of each raw ingredient used in the recipe and the 
+final weight of the prepared composite dish is also recorded. In some surveys the 
+plate wastes from each meal are collected and separated so that individual food 
+item wastes are weighed and recorded.  
+
+Household 24-h recalls
+
+In this method, the household member responsible for the food preparation is 
+interviewed to obtain information on both household composition and household 
+food consumption over the previous 24-h period. In the first stage of the 
+interview, information is collected on the dishes and ingredients consumed, 
+followed by details on the quantity, focusing particularly on those foods that are 
+important sources of energy.  
+A technical guide for measuring household food consumption using a 24-h recall 
+was developed by Swindale & Ohri-Vachaspati (1999), providing detailed 
+instructions and sample questionnaires that can be used to collect the data, 
+quantify the portion sizes of food consumed, and analyze the results.
+
+2.2.2. Household Consumption and Expenditure surveys (HCES).
+
+Household Consumption and Expenditure surveys (HCES) are typically 
+performed within Household Expenditure Surveys (HES), i.e. economic surveys 
+designed to inform national economic policy which are usually implemented by 
+national statistical agencies. 
+
+HCES are less costly than HFCS and are widely used in low-income settings 
+(FAO, 2023). They are usually conducted every 3-5 years. HCES refer to a 
+heterogeneous group including Household Income Expenditure Surveys (HIES), 
+Living Standards Measurement Studies (LSMS) and National Household Budget 
+Surveys (NHBS). LSMS are multi-topic surveys for which technical assistance 
+can be provided by the World Bank's LSMS group. 
+
+HCES were primarily designed to measure household food available for 
+consumption in a reference period through the expenditure approach (i.e., the 
+monetary value of the food). Over time, quantities of foods and beverages have 
+also been collected, and these surveys have been repurposed to serve other needs 
+such as monitoring food security, leading to improvements in survey design and 
+the capture food data of a higher quality.  
+
+Food consumption estimates generated from acquisition data or a combination of 
+both acquisition and consumption data are usually referred to as "apparent 
+consumption" or "food available for consumption" to distinguish it from actual 
+consumption (Fiedler & Mwangi, 2016). Data collected in HCES on food 
+available for consumption are quite often used as a proxy for the quantities eaten.
+
+HCES vary in their complexity and respondent burden. Data are collected through 
+a diary or recall with reference period ranging usually from seven days to one 
+month. Food and beverages, wasted, spoiled, or fed to pets or livestock are 
+frequently not accounted for but, in some cases, wastes can be weighed, or a 
+wastage factor can be applied. Food and beverages prepared and consumed 
+outside of the house have always been poorly captured in most HCES but there is 
+a trend to improve the collection of this consumption. In some recent HCES a 
+special module has been added to collect personal expenditure on snacks, meals, 
+sweets, and drinks consumed outside the home. Adjustments can also be made for 
+the presence of non-household members during the survey period. Ideally HCES 
+should report all the sources of consumption, either purchased, received as gifts, 
+or produced for household use.
+
+Some HCES collecting only food entering the households (based on concept of 
+acquisition) assume that there are no major changes in household stocks during 
+the survey period. An important limitation of this simplified methodology is 
+related to the fact that some foods (e.g. grains) are not perishable and can be 
+stored. As a consequence, if the survey is conducted in a period of drawing-down 
+stocks to meet current consumption, household consumption is underestimated. 
+On the contrary, if the survey is conducted in a period of stocks accumulation for 
+later consumption, household consumption will be overestimated (Smith et al., 
+2014). It is therefore recommended that these simplified HCES are no longer 
+used. 
+
+A study conducted in Tanzania in 2007 and 2008 with the use of eight different 
+survey designs of HCES assessed the effect on over- and under-reporting of survey 
+length, level of detail of food list and diary 
+versus record methodology (Beegle et al., 2010). Over- and-under reporting 
+appeared to depend on the specific setting in 
+terms of share of consumption from home production, dietary diversity, and 
+fraction of meals eaten in the household. 
+
+The experiment by Beegle et al. (2010) was combined with extensive research on 
+100 available HCES surveys to identify possible strategies towards improvement 
+and harmonization of survey methodologies to collect more reliable food data for 
+poverty or food security analysis (Carletto, Zezza & Banerjee, 2013, Smith et al., 
+2014, Zezza et al, 2017). Based on this research FAO and WB (2018) developed 
+guidelines for the collection of food data in HCES. Low- and middle-income 
+countries are recommended to adopt these guidelines so that food data collected in 
+HCES are of better quality and standardized between countries.
+
+2.3. Main uses of national or household surveys 
+
+2.3.1. Uses of FBS
+
+In relation to other sources of data 
+on food supply, FBSs data have the comparative 
+advantage of being easily accessible and of providing a global coverage of 
+countries food supplies with a rather consistent methodology. 
+
+Access of FBS data makes it easy to assess its correlation with other data which 
+have a global coverage.  For instance, associations between mortality at national 
+level and per capita food supply assessed through FBSs have sometimes been 
+studied. However, any interpretation in terms of causal/effect of such observed 
+association is highly questionable and should be discouraged. 
+
+On the contrary, FBS is an appropriate and extremely rich source of data for 
+observational studies. Del Gobbo et al. (2015) have developed calibration models 
+by matching FBSs per capita food supply data with estimated individual food 
+intake by age and sex at the country level. The authors suggest that these models 
+could be used not only to improve per capita food intakes estimates but even to 
+assess individual food intakes by age and sex, based on countries FBSs. FBS are 
+also quite frequently used to compare per capita food supply between countries 
+and regions and to assess time trends since 1961 at country, regional and global 
+level. They can also be used to formulate agricultural policies concerned with the 
+production, distribution and consumption of foods. 
+However one of the main uses of FBS is to 
+monitor global hunger and to provide data on national 
+diets or nutrient adequacy. FBSs data can provide insights into the countries and 
+regions that are most likely to be at greatest risk for low intakes of some nutrients. 
+
+Given the importance of the decisions that may be taken based on FBS data, 
+users need to have a good understanding of the data sources. Jacobs & Sumner 
+(2002) provide a thorough analysis of their appropriate uses and potential 
+weaknesses. 
+
+Trends in global hunger
+
+Ideally, the assessment of food insecurity should be based on data from nationally 
+representative individual or household surveys (see Section 2.2). However, 
+only a few countries conduct such surveys on an annual basis. FBSs therefore 
+have a key role in the assessment of global food insecurity, published yearly in 
+the report "The State of Food Security and Nutrition in the World" by FAO, 
+IFAD, UNICEF, WFP and WHO (2022). This global monitoring report identifies 
+countries in which food insecurity is most prevalent, monitors food security 
+trends over time and provides projections of future food insecurity. Thus, the per 
+capita Dietary Energy Supply (DES) estimated from FBSs is used as proxy of the 
+average energy intake of the population. The DES is combined with information 
+on the inter-household variability in per capita "Dietary Energy Consumption" 
+estimated from HCES and the minimum energy requirement at population level to 
+estimate the Prevalence of Undernourishment (PoU) (Wanner, 2014). The use of 
+data on inter-household variability in the PoU calculation is crucial. 
+Food (and consequently energy) is, of course, not 
+equally distributed among households within a 
+country. A mere comparison between per capita DES with energy requirements at 
+country level would largely underestimate the prevalence of food insecurity at 
+household level in many countries. 
+PoU is one of the indicators of Sustainable Development Goal 2 (FAO 2021e). 
+
+Macronutrient availability at national level 
+
+Nutrient supply per capita can be estimated by combining supply data from FBSs 
+expressed in g/capita/day with a food composition database for all primary and 
+processed items. Energy (kcal/capita/day), protein (g/capita/day), and fat 
+(g/capita/day) supplies are freely available by year and country on FAO website 
+(https://www.fao.org/faostat/en/#data/FBSH).
+ 
+It is noteworthy that FAO nutrient supply data are obtained through a common 
+global food composition database, ignoring the differences in composition 
+of foods between countries. The food composition database is available in 
+FAO (2001a) but no reference is provided in terms of data source.
+
+Due to uncertainties in the data and process used to develop FBSs, macronutrients 
+are often expressed as percentage of energy (e.g. percentage of calories from 
+proteins) or as ratios between nutrients (e.g. ratio of unsaturated fatty acids to 
+saturated fatty acids) (Sasaki & Kesteloot, 1992) rather than through per capita 
+nutrient supply.
+
+The use of nutrient density allows the comparison of diet quality between 
+countries which have differing levels of accuracy of the food supply data and thus 
+differing level of under/over estimation of total nutrient per capita supply. 
+However, the assessment of the percentage of energy, protein fat and nutrients 
+derived from each food group and the comparison of such data by countries can 
+be jeopardized by a differing level of under/over estimation between food groups.
+
+Food security indicators at national level
+
+Five indicators present in the FAO "Suite of indicators of food security" are 
+derived from 3-year moving averages of FBS
+(https://data.apps.fao.org/catalog/dataset/faostat-food-security/resource/a9a2c6ac-
+4c3b-4604-bb81-35a3a782763e)
+
+*	Share of dietary energy supply derived from cereals, roots and tubers 
+(percent, 3-year average)
+*	Dietary energy supply used in the estimation of the Prevalence of 
+Undernourishment (kcal/cap/day, 3-year average)
+*	Average dietary energy supply adequacy (percent, 3-year average)
+*	Average protein supply (g/cap/day, 3-year average)
+*	Average supply of protein of animal origin (g/cap/day, 3-year average)
+
+Among these, a key nutritional indicator is the share of 
+energy from cereals, roots 
+and tubers. This percentage is typically 
+high in low-income countries where these 
+staple foods constitute a very large part of the diet with a 
+resulting in low diversity and low micronutrient supply. 
+The average supply of protein of animal 
+origin is an indicator of diets with low supply of high-quality proteins.
+
+Micronutrient availability at national level 
+
+Several efforts have been made to use FBS for the assessment of the adequacy of 
+nutrient supply at global level, in different regions of the world and 
+individual countries. To this aim FBSs have been matched not only to energy and 
+macronutrients, but also to full range of vitamins and minerals.
+
+FBSs provide national data and thus do not provide any information on the per 
+capita nutrient supply by age and sex, although 
+the different age and sex groups have 
+very different micronutrient needs. However, the age and sex distributions of each 
+country allow calculation at the national level of 
+the theoretical estimated 
+average requirement (EAR) for each micronutrient. The percentage of the 
+population at risk of inadequacy may be estimated as the proportion of the 
+population with usual intakes under the theoretical mean requirement of the 
+population. The distribution of usual intake in the population is inferred 
+from the mean usual intake per capita of the nutrient supply and the estimated 
+within person variability for each nutrient.  This method, called EAR cut-point 
+method, is described in detail in chapter 8.b. of the present volume. 
+
+Wuehler, Peerson & Brown (2005) performed this analysis in 176 countries based 
+on the estimated phytate supply and considering its bioavailability (based on the 
+estimated phytate-to-zinc molar ratios). The estimated zinc supply was estimated 
+based on FBSs combined with a common global food composition database for 
+all countries. 
+
+Arsenault, Hijmans & Brown (2015) used FBSs from three countries 
+(Bangladesh, Senegal, and Cameroon) and assessed the per capita availability for 
+eight micronutrients (vitamin A, vitamin C, 
+vitamin B6, riboflavin, niacin, folate, 
+calcium and zinc). A common food composition database was compiled and used 
+for all three countries, but additional country-specific adjustments were made to 
+take into consideration the different processing of staple foods.
+This leads to differing nutrient 
+composition of ingested foods (e.g. percentage of refined wheat at country 
+level). 
+
+Two indicators of adequacy were used: 
+1) the per capita nutrient supply 
+expressed as a percentage of the theoretical weighed EAR of each country and 
+2) the percentage of the population that has an adequate usual intake, as 
+estimated with the EAR cut-point method (see chapter 8.b). 
+Each nutrient gap in the food 
+supply was calculated as the difference between the current amount in the food 
+supply minus the amount of the nutrient needed to achieve 80% prevalence of 
+adequate intakes. Linear optimization modeling was used to determine the 
+optimal mix of crops to fulfill the nutrient gaps for several nutrients. 
+
+Smith et al. (2016) performed a very comprehensive estimate of per capita supply 
+for 23 macro- and micronutrients in 225 food groups in 152 countries over 50 
+years (1961 to 2011) by combining FBSs data with some ancillary data. Food 
+supply by age and sex was assessed considering the percentage of edible food and 
+the level of fortification in each food group together 
+with data from individual and 
+household surveys at country level. In each country an ad-hoc food composition 
+database was compiled based on six national and regional food composition 
+tables. Nutrient losses during the processing of cereals to flour were considered. 
+The distribution of nutrient per capita supply by age and sex was derived through 
+a probabilistic method (Monte Carlo simulations).  
+
+2.2.3. Uses of data from household surveys
+
+Data on household food availability for consumption derived from household 
+surveys and HCES in particular are largely used for the assessment of global and 
+national trends in food security in low- and middle-income countries and to provide information on food consumption patterns. 
+The World Bank has developed the most 
+comprehensive repository of HCES data worldwide. 
+(https://microdata.worldbank.org/index.php/home).
+
+Data sources and details of the relevant 
+methods used to produce diet-related food security 
+indicators from household consumption surveys are summarized on the Data4Diet 
+platform developed by the INDDEX project (2018). 
+
+HCES with carefully designed consumption modules are a valuable source of data 
+for household-level food security and nutrition measurement (Russell et al., 2018; 
+Zezza et al., 2017). However, the consumption modules used 
+are heterogeneous across 
+countries. Main differences among HCES are 
+1) the length of the recall period; 
+2) whether data are collected at acquisition or consumption level, or both; 
+3) whether there is information on the 
+mode of food acquisition (purchases, own production, 
+and in-kind); 
+4) whether or not information on food consumed away from home is 
+collected and in what form; 
+5) whether food detail is collected through open recall 
+or a list, and, if a list, how 
+disaggregated and specific the foods and food groups 
+are; and 
+6) the use of non-standard units without available conversions (Smith et 
+al., 2014). 
+
+Therefore, comparisons across countries can be inaccurate and the 
+indicators of food security and nutrition derived from some HCES survey 
+may be very uncertain. For example, 
+if the food consumption module has a short food 
+list with aggregated items, the matching with a food composition database leads 
+to large uncertainty in the assessment of the 
+per capita supply of nutrients. If food 
+consumed away from home is not considered, the assessment of food security and 
+nutrition indicators is uncertain.
+
+Prevalence of Undernourishment (PoU)
+
+Dietary energy is never equally distributed within a country. For this reason, as 
+mentioned in Section 2.3.1, information on the variability in the distribution 
+of household per capita dietary energy consumption is often 
+used to estimate the PoU at the
+national level. Such information is generated from household surveys. Updated 
+instructions related to the estimation of PoU using HCES data can be found in a 
+FAO e-learning course available here: 
+https://elearning.fao.org/course/view.php?id=386 (accessed January 2023).
+
+Data on height by age and sex and of the percentage of pregnant and lactating 
+females in each country are used to calculate the weighed average of normative 
+per capita minimum energy requirement. The process is illustrated in the 
+methodology section of the State of Food Insecurity (SOFI) annual report (FAO, 
+IFAD, UNICEF, WFP and WHO,2022). The calculation of energy requirement 
+requires an estimate of the Physical Activity Level (PAL) by age/sex groups. 
+When such data are not available, a normative PAL of 1.55 is generally used. 
+
+The PoU calculation takes into account 
+the level of inequality in accessing dietary 
+energy between households (by correcting excess variability in food data 
+collected in HCES due to measurement errors) and the expected component of 
+variability due to differences in individuals' body weight and physical activity 
+levels. 
+
+Food security indicators and per capita nutrient availability  
+
+Estimates of per capita food, nutrient and energy intake available for consumption 
+can be calculated by multiplying the edible portion of foods with food 
+composition tables. The number of household members and visitors eating each 
+meal can be recorded to estimate the per capita availability. Socioeconomic 
+characteristics of the household allow to estimate per capita food available for 
+consumption at regional and/or national level by category of socio-economic 
+groups, education, household size, etc. 
+
+Moltedo et al. (2014) developed detailed instructions for analyzing food security 
+using household survey data. FAO and the World Bank have developed a free 
+standalone software (ADePT-FSM (Food Security Module)) that allows users to 
+easily derive food security indicators from HCES data. 
+(https://www.fao.org/food-agriculture-statistics/statistical-domains/food-security-
+and-nutrition/methodology/en/).
+Moltedo et al. (2018) developed detailed instructions for estimating per capita 
+availability for consumption of micronutrients and amino acids using food data 
+collected in HCES. 
+
+With regards to nutrient adequacy based on HCES it is stressed that only 
+appropriately measured intakes at individual levels should be compared with sex- 
+and age-specific nutrient recommendations to estimate the nutrient adequacy in 
+the different age and sex population groups (Section 8.1.1). However, it is still 
+possible to estimate ratios of per capita availability of nutrients to the average 
+weighed nutrient requirement at population level. These ratios do not allow to 
+estimate the prevalence of inadequacy in the population but may provide a gross 
+indication of issues in 
+covering requirements some specific nutrients at population 
+level. (Moltedo et al. 2018)
+
+Preliminary attempts to estimate the prevalence of nutrient inadequacy (PoNI) 
+based on household data have been performed. To this aim, a pre-treatment of 
+data is needed to remove within-person variation, i.e. to adjust for  
+day-to-day variability. Moltedo et al. (2022) compared the prevalence of 
+inadequacy estimated with pre-treated household survey data versus individual 
+food consumption survey. The analysis was performed for eight micronutrients 
+(vitamins A, B1, B2, B6, B12 and C, and calcium and zinc) with the use of 
+Bangladesh datasets. 
+
+Reconciliation between FBSs and HCESs
+
+Gr�nberger K. (2014) compared per capita food supply from country-specific 
+FBSs with that of 64 HCESs from 51 low- and middle-income countries, for 16 
+major food groups. Overall, the results of the reconciliation suggest that average 
+consumption of cereals, eggs, fish products, 
+pulses and vegetables are likely to be 
+underestimated in FBS, whereas fruits, meat, milk and sugar products are likely to 
+be overestimated. Both FBS and HCES are prone to measurement errors. 
+Even though the estimated differences in average total food supply per capita 
+were moderate, there is considerable 
+uncertainty in the estimate of availability of 
+single food groups at country and global level. 
+
+2.3.3. National and household surveys in the global assessment of food security 
+and diet quality by age and sex 
+
+As mentioned in chapters 3 and 4, individual food consumption data are key to 
+assess the distribution of usual food and nutrient intake in different population 
+groups within a country and thus to 
+evaluate the adequacy of the diet (chapter 8b). 
+A publicly available global database such as the FAO/WHO GIFT platform 
+(https://www.fao.org/gift-individual-food-consumption/en/) includes only data 
+collected through quantitative individual food consumption survey.
+
+Other global databases make use of FBS and HCES data to model the intake of 
+foods and nutrients by age and sex worldwide, by filling the gaps in individual 
+food consumption data. It is the case of the Global Dietary Database initiative 
+(GDD) and of the Institute for Health Metrics and Evaluation (IHME) database.  
+The GDD database is available at https://www.globaldietarydatabase.org/ 
+and provides modeled data for 55 dietary factors 
+including 14 foods, 7 beverages, 15 macronutrients and 19 micronutrients in 
+185 countries. Modeled data are provided by country, year of primary data 
+collection, age, sex, education level, urban or rural residence, and 
+pregnancy/nursing status. 
+The IHME initiative database is available at  
+http://www.healthdata.org/results/data-visualizations (accessed November 
+2022).  Modeled data are provided by country, age, sex and year of primary 
+data collection in 204 countries for 87 indicators, including 15 dietary 
+indicators (9 foods and 6 nutrients). These dietary indicators are included in 
+the Global Burden of Diseases (GBD), a worldwide observational 
+epidemiological study. Key research papers based on the analysis of GBD data 
+are published each year in a special issue of The Lancet 
+(https://www.thelancet.com/gbd/about). 
+
+Conclusion
+
+In conclusion, the assessment of food available for consumption through 
+household and national surveys provides key information for the global 
+monitoring of food security. They are less expensive than individual food 
+consumption surveys and can therefore be performed more frequently. 
+Conversely, they are not fit to assess individual food consumption and, 
+consequently, to assess nutrient adequacy of the diet. 
+National, household and individual surveys are thus complementary. Efforts to 
+take full advantage of this complementarity should be encouraged so that better 
+data are available to monitor the adequacy of diets. Indeed, better data on what 
+people eat is a key requirement for better policies. 
+
+
+
+
+References
+
+Arsenault J.E., Hijmans R.J. & Brown H.K. (2015). Improving nutrition security 
+through agriculture: an analytical framework based on national food balance 
+sheets to estimate nutritional adequacy of food supplies. Food Security. DOI 
+10.1007/s12571-015-0452-y. 
+
+Beegle K., De Weerdt J., Friedman J., Gibson J. (2010). Methods of Household 
+Consumption Measurement through Surveys. Experimental Results from 
+Tanzania. Policy Research Working Paper 5501. The World Bank.
+
+Burk MC, Pao EM. (1976). Methodology for Large Scale Surveys of Household 
+and Individual Diets. Home Economics Research Report No. 40. U.S. Department 
+of Agriculture, Washington, DC.
+
+Carletto C., Zezza A. & Banerjee R (2013). Towards better measurement of 
+household food security: Harmonizing indicators and the role of household 
+surveys. Global Food Security, 2, 30-40.
+
+Den Hond EM, Lesaffre E, Kesteloot HE. (1995). Regional differences in 
+consumption of 103 fat products in Belgium: a supermarket-chain sales approach. 
+Journal of the American College of Nutrition14: 621�627.
+
+Del Gobbo L.C., Khatibzadeh S., Imamura F., Micha R., Shi P., Smith M., Myers 
+S.S. & Mozaffarian D. (2015). Assessing global dietary habits: a comparison of 
+national estimates from the FAO and the Global Dietary Database. Am J Clin 
+Nutr,  doi: 10.3945/ajcn.114.087403.
+
+FAO (2001). Food Balance Sheets: A Handbook. Food and Agriculture 
+Organization of the United Nations, Rome. 
+https://www.fao.org/3/x9892e/X9892E00.htm 
+
+FAO (2021a). New Food Balances. Description of utilization variables. 
+https://fenixservices.fao.org/faostat/static/documents/FBS/New%20FBS%20meth
+odology.pdf (Accessed August 2022). 
+
+FAO (2021b) Key differences between new and old Food Balance Sheet (FBS). 
+https://fenixservices.fao.org/faostat/static/documents/FBS/Key%20differences%2
+0between%20new%20and%20old%20FBS%20June2022%20.pdf  
+(Accessed August 2022).  
+
+FAO (2021c)  
+https://www.fao.org/faostat/en/#data/FBS
+
+FAO (2021d) FAOSTAT Analytical Brief 40. Food balances 2010�2019
+Global, regional and country trends. 
+https://www.fao.org/3/cb9574en/cb9574en.pdf (Accessed August 2022).  
+
+FAO (2021e) Tracking progress on food and agriculture-related SDG indicators 
+2021: A report on the indicators under FAO custodianship. Rome. 
+https://doi.org/10.4060/cb6872en 
+
+FAO (2023) Food Balance Sheets and The Food Consumption Survey: A 
+Comparison of Methodologies and Resultshttps://www.fao.org/economic/the-
+statistics-division-ess/methodology/methodology-systems/food-balance-sheets-
+and-the-food-consumption-survey-a-comparison-of-methodologies-and-
+results/en/ (accessed January 2023)
+
+FAO, IFAD, UNICEF, WFP and WHO (2022). The State of Food Security and 
+Nutrition in the World. Repurposing food and agricultural policies to make 
+healthy diets more affordable. Rome, FAO. https://doi.org/10.4060/cc0639en
+
+FAO and The World Bank. 2018. Food Data Collection in Household 
+Consumption and Expenditure Surveys. Guidelines for Low- and Middle-Income 
+Countries. Rome.
+
+Fiedler J.L., Lividini K., Bermudez O.I. & Smitz M-F (2012). Household 
+Consumption and Expenditures Surveys (HCES): A primer for food and nutrition 
+analysts in low- and middle-income countries. Food and Nutrition Bulletin, vol. 
+33, no. 3, S170-S184.
+
+Fiedler J.L. & Mwangi D.M. (2016). Using household consumption and 
+expenditure surveys to make inferences about food consumption, nutrient intakes 
+and nutrition status. How important is it to adjust for meal partakers? IFPRI 
+(International Food Policy Research Institute) Discussion paper. (accessed 
+January 2023)
+
+Gage TB, O�Connor K. (2009). Nutrition and the variation in level and age 
+patterns of mortality. Human Biology 81:  551-574.
+https://doi.org/10.3378/027.081.0605
+
+Gr�nberger K. (2014) Estimating food consumption patterns by reconciling food 
+balance Sheets and household Budget surveys. Food and Agriculture 
+Organization of the United Nations, Rome.
+
+INDDEX Project (2018), Data4Diets: Building Blocks for Diet-related Food 
+Security Analysis.  Tufts University, Boston, 
+MA.  https://inddex.nutrition.tufts.edu/ (Accessed November 2022).
+
+Jacobs K & Sumner DA (2002) The Food Balance Sheets of the Food and 
+Agriculture Organization: A review of Potential Ways to Broaden the Appropriate 
+uses of the Data. Berkeley, CL: Department of Agricultural Economics, 
+University of California.
+
+Maxwell D. Coates J. & Vaitla B. (2013). How Do Different Indicators of 
+Household Food Security Compare? Empirical Evidence from Tigray. Feinstein 
+International Center, Tufts University: Medford, USA. 
+https://fic.tufts.edu/assets/Different-Indicators-of-HFS.pdf (accessed September 
+2022).
+
+Moltedo A., Troubat N., Lokshin M. & Sajaia Z. (2014). Analyzing Food Security 
+Using Household Survey Data : Streamlined Analysis with ADePT Software. 
+Washington, DC: World Bank. World Bank. 
+https://openknowledge.worldbank.org/handle/10986/18091 (accessed January 
+2023)
+
+Moltedo A., �lvarez-S�nchez C., Troubat N. & Cafiero C. (2018). Optimizing the 
+use of ADePT-Food Security Module for Nutrient Analysis ADePT-FSM Version 
+3. Statistics Division (ESS) Food and Agriculture Organization of the United 
+Nations Rome. Available at https://www.fao.org/3/cb2465en/cb2465en.pdf 
+(accessed January 2023).
+
+Moltedo A., �lvarez-S�nchez C., Troubat N. & Cafiero C. (2022). Estimating the 
+prevalence of nutrient inadequacy from household consumption and expenditure 
+surveys. FAO Statistics Working Paper Series / 22-30 DOI: 10.4060/cc2780en.
+
+N�arhinen M, Berg MA, Nissinen A, Puska P. (1999). Supermarket sales data: a 
+tool for measuring regional differences in dietary habits. Public Health Nutrition 
+2: 277�282.
+
+Russell, J., Lechner, A., Hanich, Q., Delisle, A., Campbell, B., & Charlton, K. 
+(2018). Assessing food security using household consumption expenditure 
+surveys (HCES): A scoping literature review. Public Health Nutrition, 21(12), 
+2200-2210. doi:10.1017/S136898001800068X
+
+Sasaki S. & Kesteloot H. (1992). Value of Food and Agriculture Organization 
+data on food-balance sheets as a data source for dietary fat intake in 
+epidemiologic studies. American Journal of Clinical Nutrition 56:716�723.
+
+Smith, L. C. & Ali S. 2007. Measuring Food Security Using Household 
+Expenditure Surveys. Food Security in Practice technical guide series. 
+Washington, D.C.: International Food Policy Research Institute. DOI: 
+10.2499/0896297675
+
+Smith L.C., Dupriez O. & Troubat N. (2014) Assessment of the Reliability and 
+Relevance of the Food Data Collected in National Household Consumption and 
+Expenditure Surveys. IHSN (International Household Survey Network) Working 
+Paper No. 008. IHSN_WP008_EN.pdf (accessed November 2022).
+
+Smith MR, Micha R, Golden CD, Mozaffarian D, Myers SS (2016) Global 
+Expanded Nutrient Supply (GENuS) Model: A New Method for Estimating the 
+Global Dietary Supply of Nutrients. PLoS ONE 11(1): e0146976. 
+https://doi.org/10.1371/journal.pone.0146976
+
+Swindale A, Ohri-Vachaspati P. (1999). Measuring Household Food 
+Consumption: A Technical Guide. Food and Nutrition Technical Assistance 
+Project, Academy for Educational Development, Washington DC, pp. 1�24.
+
+Turrini, A., Saba, A., Perrone, D. E Cialfa and A D'Amicis (2001). Food 
+consumption patterns in Italy: the INN-CA Study 1994�1996. Eur J Clin Nutr 55, 
+571�588. https://doi.org/10.1038/sj.ejcn.1601185.
+
+Wanner N., Cafiero C. Troubat N. & Conforti P. (2014). Refinements to the FAO 
+methodology for estimating the Prevalence of Undernourishment indicator. ESS 
+Working Paper No. 14-05, September 2014 2 Food and Agriculture Organization 
+of the United Nations Rome.
+
+Wuehler S.E., Peerson J.M. & K.H. Brown (2005) Use of national food balance 
+data to estimate the adequacy of zinc in national food supplies: methodology and 
+regional estimates. Public Health Nutrition: 8(7), 812�819 DOI: 
+10.1079/PHN2005724
+
+WHO (World Health Organization) 1996. Trace elements in human nutrition and 
+health. Geneva: WHO https://apps.who.int/iris/handle/10665/37931 (accessed 
+august 2022)
+
+World Bank website. Microdata Library. 
+https://microdata.worldbank.org/index.php/home Accessed November 2022.
+
+Zezza A., Carletto C., Fiedler J.L., Gennari P., Jolliffe D. (2017). Food counts. 
+Measuring food consumption and expenditures in household consumption and 
+expenditure surveys (HCES). Introduction to the special issue,
+Food Policy, 72, 1-6. ISSN 0306-9192. 
+https://doi.org/10.1016/j.foodpol.2017.08.007.
+07.03.2023
+1
+
