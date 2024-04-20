@@ -23,8 +23,8 @@ a.iframe {
 
 
 ul.padded{
-  padding:5px;
-  margin-top: 0px;
+  padding: 5px;
+    margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 10px;
 }
@@ -36,7 +36,7 @@ margin-bottom:0px;
 }
 
 ul.small{
-	font-size; small;
+	font-size: small;
 }
 
 span.n {
@@ -93,7 +93,6 @@ table {
 	float: left;
 	padding: 10px;
 	text-align: center;
-
 }
 table.thirty {
   width: 30%
@@ -110,10 +109,7 @@ table.sixty {
 
 table.ninenine {
 	width: 99%;
-  font-size: 0.5em;
 }
-
-
 
 table.condensed {
 	table-layout: auto;
@@ -124,17 +120,16 @@ table.condensed {
 	float: left;
 	padding: 10px;
 	text-align: center;
-	font-size: 0.1em;
 }
 
 table.center {
-	float: none;
+width:99%;  
+  float: none;
   margin-left: auto;
   margin-right: auto;
-  font-size: 3.0vw;
 }
+
 table.compressed {
-	font-size: 10pt;
 	table-layout: auto;
 	border-style: solid;
 	border-width: thin;
@@ -175,19 +170,18 @@ td.shade {background-color: lavender; }
 caption {
   caption-side: bottom;
   text-align: justify;
-  font-size: 13pt;
   margin: 10px;
 }
-.boxedtext {
-  background-color: white; /* Green */
-  border: 1px solid black;
-  color: black;
-  padding: 0px 2px 0px 2px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  	font-family: Calibri, sans-serif; 
-	font-size: 13pt; 
+.boxedtable {
+  display: block;
+  background-color: lightyellow;
+  width: 94%;
+  border:2px solid black;
+  padding: 10px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-bottom: 40px;
+  margin-top: 20px;  
 }
 .yellowboxedtext {
   background-color: rgb(253, 236, 0); /*Yellow */
@@ -198,12 +192,10 @@ caption {
   text-decoration: none;
   display: inline-block;
   font-family:  Arial, Helvetica, sans-serif;
-	font-size: 20pt; 
 }
 
 
 .box {
-  font-size: 14pt;
   display: block;
   background-color: lightyellow;
   width: 70%;
@@ -214,7 +206,6 @@ caption {
   margin-top: 20px; 
 }
 .smallbox {
-  font-size: 14pt;
   display: block ;
   float: left;
   background-color: lightyellow;
@@ -224,7 +215,6 @@ caption {
   margin: 10px 10px 10px 10px;
 }
 .tinybox {
-  font-size: 14pt;
   display: block;
   float: left;
   background-color: lightyellow;
@@ -238,7 +228,6 @@ caption {
 
 }
 .inlinetinybox {
-  font-size: 14pt;
   display: block;
   float: none;
   background-color: lightyellow;
@@ -258,7 +247,6 @@ caption {
    margin: -9em 0;
    vertical-align: -0.35em;
    line-height: 1.05em;
-   font-size: 60%;
    text-align: left;
 }
 
@@ -279,13 +267,12 @@ caption {
   background-color: lightyellow;
   border-width: thin;
   border-style: solid;
-  margin: 15%;
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 10px;
-  border: 15%;
+  margin-left: 2%;
+  margin-right: 3%;
   text-align: justify;
-  font-size: 14pt;
 }
 
 
@@ -306,16 +293,15 @@ tr, td {vertical-align: center;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
-	padding: 3px;
-  font-size: 1.6vw;
+
+
 }
 
 tdsmall{	border-style: solid;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
-	padding: 5px;
-  font-size: 13pt;}
+	padding: 5px;}
 
 th {
 	border-style: solid;
@@ -323,7 +309,6 @@ th {
 	white-space: nowrap;
 	text-align: center;
 	padding: 5px;
-  font-size: 13pt;
 }
 thead.reporttablehead { background-color:  lavender; }
 tr:hover { background-color:  yellow; }
@@ -339,7 +324,6 @@ figure {
 }
 
 nofigure {
-  font-size: 13pt;
   border-style: solid;
   border-width: thin;
   float: left;
@@ -354,7 +338,6 @@ nofigure {
 figcaption {
 	caption-side: bottom;
   text-align: justify;
-  font-size: 13pt;
   margin-top: 0px;
   margin-left: 40px;
   margin-right: 40px;
@@ -369,7 +352,6 @@ figcaption {
   text-align: right;
   background: lavender;
   color: black;
-  font-size: 22px;
 }
 
 img.cover {
@@ -389,7 +371,6 @@ img.hundred {
 
 #watermark-text {
   color: lightgrey;
-  font-size: 120px;
   transform: rotate(330deg);
   -webkit-transform: rotate(330deg);
 }
@@ -413,8 +394,8 @@ img.hundred {
 }
 
 .table-of-contents {
-  float: right;
-  width: 25%;
+  float:right;
+
   background: lavender;
   font-size: 0.8em;
   padding: 0.5em 0.2em 0.5em 1.0em;
@@ -425,7 +406,7 @@ img.hundred {
 
 .table-of-contents ul {
    list-style-type:none;
-   padding-left: 30px; ;
+   padding-left: 30px;
 }
 
 .table-of-contents li {
@@ -446,11 +427,10 @@ img.hundred {
 
 li {
     list-style-position: inside;
+    list-style-type: disc;
 	padding: 2px;
 }
 
-
-}
 
 h3:target {
   animation: highlight 1s ease;
@@ -463,7 +443,6 @@ h3:target {
   border-radius: 5px;
   border-style: solid;
   border-width: thin;
-  font-size: 11pt;
   font-style: normal;
   font-family: Calibri, sans-serif;
 }
