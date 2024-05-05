@@ -19,72 +19,60 @@ a.iframe {
   text-decoration: underline;
   color: blue;
 }
-
-
 ul.padded{
   padding: 5px;
     margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 10px;
 }
-
 ul.no-padding{
 padding: 5px;
 margin-top: 0;
 margin-bottom:0px;
 }
-
 ul.small{
 	font-size: small;
 }
-
 span.n {
 	white-space: nowrap;
 }
-
 caption.cap {
   background-color: lavender; 
   margin: 20px 0px 0px 0px;
   padding: 10px;
 }
-
 mjx-container {
 margin: 10px !important;
 }
-
 blockquote {
 margin-bottom: 5px;
 margin-top: 5px;
 padding: 0px 0px 0px 0px;
 }
-
 p.shiftedfifty{
   margin-left: 50%;
 }
-
 p.shiftedtwenty{
   margin-left: 20%;
 }
-
 figure {
   float: left;
   padding: 10px;
   margin: 10px 10px 10px 10px;
 }
-
 figcaption.cap {
   background-color: lavender; 
   margin: 10px 0px 0px 0px;
   padding: 10px;
 }
-
 p.clearleft {
   clear:left;
 }
-
-
+div.table {overflow-x: auto;
+float: left;
+}
 table {
-	table-layout: auto;
+	table-layout:auto;
 	border-style: solid;
 	border-width: thin;
 	border-collapse: collapse;
@@ -108,11 +96,9 @@ table.sixty {
 table.seventy {
   width: 70%;
 }
-
 table.ninenine {
 	width: 99%;
 }
-
 table.condensed {
 	table-layout: auto;
 	border-style: solid;
@@ -123,14 +109,12 @@ table.condensed {
 	padding: 10px;
 	text-align: center;
 }
-
 table.center {
-width:99%;  
+  width:99%;  
   float: none;
   margin-left: auto;
   margin-right: auto;
 }
-
 table.compressed {
 	table-layout: auto;
 	border-style: solid;
@@ -141,38 +125,39 @@ table.compressed {
 	padding: 10px;
 	text-align: center;
 }
-
-
 sup {
     vertical-align: text-top;
     font-size: 0.7em;
 }
-
 sub {
 	vertical-align: text-bottom;
 	font-size: 0.7em;
 }
-
 th.left-aligned {
   text-align: left;
 }
-
 th.shaded {
   background-color: pink;
 }
-
 th.shade {
   background-color: lavender;
 }
-
-
-td.left-aligned { text-align: left; }
-td.shaded { background-color: pink; }
-td.shade {background-color: lavender; }
+td.left-aligned { text-align: left; 
+}
+td.shaded { background-color: pink; 
+}
+td.shade {background-color: lavender; 
+}
 caption {
-  caption-side: bottom;
+	caption-side: bottom;
   text-align: justify;
-  margin: 10px;
+  margin-top: 0px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 0px;
+  font-style: normal;
+  font-family: Calibri, sans-serif;
+  background-color: lavender;
 }
 .boxedtable {
   display: block;
@@ -196,8 +181,6 @@ caption {
   font-family:  Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
-
-
 .box {
   display: block;
   background-color: lightyellow;
@@ -228,7 +211,6 @@ caption {
   margin-right: 3%;
   margin-bottom: 20px;
   margin-top: 20px;
-
 }
 .inlinetinybox {
   display: block;
@@ -241,10 +223,7 @@ caption {
   margin-right: 3%;
   margin-bottom: 20px;
   margin-top: 20px;
-
 }
-
-
 .supsub {
    display: inline-block;
    margin: -9em 0;
@@ -252,9 +231,6 @@ caption {
    line-height: 1.05em;
    text-align: left;
 }
-
-
-
 .citeAs {
   text-align: left;
   display: flow-root;
@@ -264,7 +240,6 @@ caption {
   padding: 10px;
   margin: 5px;
 }
-
 .abstract {
   display: block;
   background-color: lightyellow;
@@ -277,45 +252,37 @@ caption {
   margin-right: 3%;
   text-align: justify;
 }
-
-
 .MathJax {
   font-size: 1.0 em;
 }
-
 .topic {
   font-weight: bold;
 }
-
 mybr {
     line-height: 10px;
  }
-
 tr, td {vertical-align: center;
 	border-style: solid;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
-
-
 }
-
 tdsmall{	border-style: solid;
-	border-width: thin;
-	white-space: nowrap;
-	text-align: center;
-	padding: 5px;}
-
-th {
-	border-style: solid;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
 	padding: 5px;
 }
-thead.reporttablehead { background-color:  lavender; }
-tr:hover { background-color:  yellow; }
-
+th {	border-style: solid;
+	border-width: thin;
+	white-space: nowrap;
+	text-align: center;
+	padding: 5px;
+}
+thead.reporttablehead { background-color:  lavender; 
+}
+tr:hover { background-color:  yellow; 
+}
 figure {
   float: left;
   cursor: pointer;
@@ -325,7 +292,6 @@ figure {
   margin-bottom: 10px;
   padding: 0px;
 }
-
 nofigure {
   border-style: solid;
   border-width: thin;
@@ -336,8 +302,6 @@ nofigure {
   margin-right: 20px;
   margin-bottom: 0px;
 }
-
-
 figcaption {
 	caption-side: bottom;
   text-align: justify;
@@ -349,14 +313,12 @@ figcaption {
   font-family: Calibri, sans-serif;
   background-color: lavender;
 }
-
 .header {
   padding: 20px;
   text-align: right;
   background: lavender;
   color: black;
 }
-
 img.cover {
   float: left;
   margin-right:  20px;
@@ -371,13 +333,11 @@ img.center {
 img.hundred {
 	width: 100%;
 }
-
 #watermark-text {
   color: lightgrey;
   transform: rotate(330deg);
   -webkit-transform: rotate(330deg);
 }
-
 #watermark {
   position: fixed;
   z-index: 0;
@@ -389,52 +349,42 @@ img.hundred {
   text-align: center;
   padding: 275px 0;
 }
-
 #topcontrol,
 #content {
   position: relative;
   z-index: 1;
 }
-
 .table-of-contents {
+  width: 60%;
   float:right;
-
   background: lavender;
-  font-size: 0.8em;
   padding: 0.5em 0.2em 0.5em 1.0em;
   margin: 0 0 0.5em 0.5em;
   border-top: solid;
   border-top-color: white;
 }
-
 .table-of-contents ul {
    list-style-type:none;
    padding-left: 30px;
 }
-
 .table-of-contents li {
   margin: 0 0 0.25em 0;
   text-indent: -40px;
   list-style-type: none;
   padding: 2px;
 }
-
 .table-of-contents a {
   text-decoration: none;
 }
-
 .table-of-contents a:hover,
 .table-of-contents a:active {
   text-decoration: underline;
 }
-
 li {
-    list-style-position: inside;
-    list-style-type: disc;
+  list-style-position: inside;
+  list-style-type: disc;
 	padding: 2px;
 }
-
-
 h3:target {
   animation: highlight 1s ease;
 }
@@ -449,11 +399,6 @@ h3:target {
   font-style: normal;
   font-family: Calibri, sans-serif;
 }
-
-
-
-
-
 @keyframes highlight {
   from { background: yellow; }
   to { background: white; }
