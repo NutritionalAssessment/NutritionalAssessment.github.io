@@ -72,7 +72,7 @@ div.table {overflow-x: auto;
 float: left;
 }
 table {
-	table-layout:auto;
+	table-layout: auto;
 	border-style: solid;
 	border-width: thin;
 	border-collapse: collapse;
