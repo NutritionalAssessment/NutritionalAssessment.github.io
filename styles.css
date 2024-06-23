@@ -40,6 +40,7 @@ caption.cap {
   background-color: lavender; 
   margin: 20px 0px 0px 0px;
   padding: 10px;
+  font-size: 80%;
 }
 mjx-container {
 margin: 10px !important;
@@ -156,6 +157,7 @@ caption {
   margin-right: 40px;
   margin-bottom: 0px;
   font-style: normal;
+  font-size: 80%;
   font-family: Calibri, sans-serif;
   background-color: lavender;
 }
@@ -266,6 +268,7 @@ tr, td {vertical-align: center;
 	border-width: thin;
 	white-space: nowrap;
 	text-align: center;
+  padding: 5px;
 }
 tdsmall{	border-style: solid;
 	border-width: thin;
@@ -311,6 +314,7 @@ figcaption {
   margin-bottom: 0px;
   font-style: normal;
   font-family: Calibri, sans-serif;
+  font-size: 80%;
   background-color: lavender;
 }
 .header {
