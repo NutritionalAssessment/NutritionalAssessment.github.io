@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="../styles.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="../functions.txt"> </script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <meta name="keywords" content="nutrition, assessment, niacin, pellagra, diet, food intake, PDF  ">
 <meta name="description" content="Assessment of niacin status at the individual, community and national level">
@@ -13,7 +12,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.6">
 <title>Nutritional Assessment of Niacin status deficiency intake diet </title>
 </head>
-<body id="chapter">
+<body style="cursor: default">
 <div class="header">
 <a href="https://nutritionalassessment.org/">
 <img src="../figures/bookcover.jpg"
@@ -58,7 +57,7 @@ tryp&shy;to&shy;phan to niacin (i.e., 60mg tryp&shy;to&shy;phan yields 1mg
 niacin).  Dietary reference values for niacin are set as NE
 per day, or alternatively expressed as mg NE/MJ or mg
 NE/1000 kcal based on the relationship between the
-requirements for niacin ad energy.  Niacin toxicity may
+requirements for niacin and energy.  Niacin toxicity may
 occur when large pharmacological doses of niacin are taken
 to prevent or treat metabolic diseases such as dyslipidemia.
 Tolerable Upper Intake Levels (ULs) are based on dermal
@@ -135,7 +134,7 @@ nico&shy;tin&shy;amide, and nico&shy;tin&shy;amide riboside are shown in
 
 <a href="#figure20c.1">Figure&nbsp;20c.1</a>.	
 <a id="figure20c.1"></a>		
-<figure style="width: 60%">
+<figure style="width: 40%">
 <img src="figures/fig20c.1.jpg" class="hundred" alt="Figure&nbsp;24c.1">
 <figcaption class="cap">
 Figure 20c.1.  Vitamin B3 molecules (nico&shy;tinic acid,
@@ -183,7 +182,7 @@ target="right" >Hrubša et al., 2022</a>). </span>
 Once absorbed, free nico&shy;tin&shy;amide is trans&shy;ported to
 all tissues for the synthesis of the two coen&shy;zymes NAD and
 NADP within the cells.  In general, concentrations of intra&shy;cellular
-of NAD are higher than NADP.  All tissues of
+NAD are higher than NADP.  All tissues of
 the body can syn&shy;the&shy;size NAD and NADP, although
 concentrations are greatest in the liver where some storage
 may occur.  Some niacin can be syn&shy;the&shy;sized by colonic
@@ -424,7 +423,7 @@ deficiency and its dietary precursor tryp&shy;to&shy;phan.  Pellagra
 is known as the disease of the "4Ds" (diarrhea,
 dermatitis, and dementia, culmin&shy;ating in death).  Early
 symptoms include diarrhea resulting from intestinal
-inflam&shy;mation. accom&shy;panied by anorexia, nausea, and abdominal
+inflam&shy;mation, accom&shy;panied by anorexia, nausea, and abdominal
 pain.  Later, dermatitis develops in sun-exposed skin such
 as dorsal parts of hands, feet, cheeks, forehead, and
 sun-exposed regions of the neck
@@ -737,8 +736,8 @@ target="right" >IOM, 2000</a>; </span>
 target="right" >EFSA, 2014</a>). </span>
 
 <p></p>
-Niacin can be derived from the amino acid L-tryp&shy;to&shy;phan, a
-precursor of niacin, so intakes are usually expressed in
+Because niacin can be derived from the amino acid L-tryp&shy;to&shy;phan, a
+precursor of niacin, intakes are usually expressed in
 terms of niacin equivalents (NE).  About 60mg of tryp&shy;to&shy;phan
 yields 1mg niacin following digestion and absorp&shy;tion.
 However, the con&shy;ver&shy;sion rate varies widely (30%) between
@@ -790,7 +789,8 @@ The Estimated Average Requirements (EARs)
 are 12mg NE/day and 11mg NE/day, respec&shy;tively for male and female adults.
 Corres&shy;ponding levels for the US Recommended Dietary
 Allowances (RDAs) are 16mg NE/day for males and 14mg
-NE/day for females.  Both male and female levels for adults
+NE/day for females.  Both male and female 
+RDA intake levels for adults
 are similar to the Recommended Nutrient Intakes (RNIs) set
 by WHO/FAO
 
@@ -944,7 +944,7 @@ preformed niacin or niacin obtained from dietary tryp&shy;to&shy;phan
 
 <a href="#figure20c.2">Figure&nbsp;20c.2</a>.	
 <a id="figure20c.2"></a>		
-<figure style="width: 70%">
+<figure style="width: 40%">
 <img src="figures/fig20c.2.jpg" class="hundred" alt="Figure&nbsp;24c.1">
 <figcaption class="cap">
 Figure 20c.2   The tryp&shy;to&shy;phan - nico&shy;tin&shy;amide path&shy;way. Note
@@ -1013,6 +1013,9 @@ The Journal of nutrition, 119(4), 591–598.">
 target="right" >Jacob et al., 1989</a>) </span>
 
 (<a href="#table20c.1">Table&nbsp;20c.1</a>).
+
+<p class="clearleft">
+
 <a id="table20c.1"></a>
 <table class="thirty">
 <caption class="cap">
@@ -1031,10 +1034,12 @@ target="right" >1989</a>. </span>
 
 </caption>
 
-<thead class="reporttablehead">
+<thead style="font-size: 18px; background-color: lavender;">
 <tr><th>Metabolic<br> period <th> Niacin <br> intake <br> (NE/d) <th> n <th> Day <th> NMN<br> (mg/d) <th>2-pyr (mg/d)</th>
 </tr>
 </thead>
+
+<tbody style="font-size: 15px">
 
 <tr><td>Stabilization<td>  19.6 <td> 7 <td>11&ndash;13<td> 2.90 &pm; 0.41<td> 7.21 &pm; 1.86
 
@@ -1049,6 +1054,7 @@ target="right" >1989</a>. </span>
 <tr> <td> High intake <td> 32  <td> 3 <td> 77&ndash;79 <td> 4.57 &pm; 0.38<td>19.36 &pm; 0.55
 
 </tr>
+</tbody>
 </table>
 <p></p>
 In a later study in Angola of patients with clinical pellagra,
@@ -1144,7 +1150,7 @@ target="right" >2005</a>) </span>
 
 analyzed both N'&#8209;methyl&shy;nico&shy;tin&shy;amide and 2&#8209;pyridone levels simultaneously
 in spot urine samples collected from two healthy
-subjects over consec&shy;utive days. In the early morning of each day, 
+subjects over four consec&shy;utive days. In the early morning of each day, 
 an overnight fasting urine sample was collected. In addition, on day&nbsp;4, 
 non-fasting urine samples were collected at 3h intervals over 9h from each subject. 
 Use of vitamin supplements by each subject was recorded.
@@ -1223,7 +1229,7 @@ the ratio of 2&#8209;pyridone /
 N'&#8209;methyl&shy;nico&shy;tin&shy;amide in urine was not as good a measure of
 the low (6.1mg NE/d intake) as the individual meta&shy;bolite
 excretions and was not sensitive to the intake of 10.1mg NE/d
-(see Table 20.10).  Hence, the ratio appears insensitive to
+(see Table 20c.1).  Hence, the ratio appears insensitive to
 marginal intakes of niacin.  Moreover, some investigators
 suggest that excretion of both N'&#8209;methyl&shy;nico&shy;tin&shy;amide and
 2&#8209;pyridone in the urine is strongly dependent on the level
@@ -1331,11 +1337,12 @@ Annals of nutrition & metabolism, 36(4), 181–185.">
 target="right" >1992</a>. </span>
 </caption>
 
-<thead class="reporttablehead">
+<thead style="font-size: 18px; background-color: lavender;">
 <tr><th>Metabolite<th> Control<br> (n=9) <th> No signs of<br>pellegra<br>(n=9)<th> 
 With<br> pellegra<br>(n=10)
 </tr>
 </thead>
+<tbody style="font-size: 15px">
 <tr><td style="text-align:left">N'methyl-6-pyridone-3-<br>carbox&shy;amide<br>
 (mmol/24hr urine) <td>557 &pm; 199 <td> 152 &pm; 104 <td>42 &pm; 9
 <tr><td style="text-align:left">N'methylnicotinamide <br>(mmol/24hr urine) 
@@ -1344,6 +1351,7 @@ With<br> pellegra<br>(n=10)
 N'methylnicotinamide<td>1.95<td>0.90<td>0.18
 </td>
 </tr>
+</tbody>
 </table>
 
 <p></p>
@@ -1371,14 +1379,14 @@ target="right" >WHO, 2000b</a>). </span>
 
 As noted earlier, WHO do indicate that the
 interpretation of these biomarkers is equivocal.
-<p></p>
 
+<p class="clearleft"></p>
 <a id="table20c.3"></a>
 <table class="thirty">
 <caption class="cap">
 Table 20c.3  Guidelines for the interpretation of urinary excretion of N'methylnicotinamide
 as mg/g creatinine in a 24hr sample and the molecular ratio 
-of N'methyl-6-pyridone-3-carbox&shy;amide to N'methylnicotinamide.  Data from WHO,
+of N'methyl-6-pyridone-3-carbox&shy;amide to N'methyl-nicotinamide.  Data from WHO,
 
 <span data-tippy-content="WHO. (2000). Management of nutrition in major emergencies.">
 <a href="https://www.who.int/publications/i/item/9241545208"
@@ -1386,11 +1394,11 @@ target="right" >2000b</a>. </span>
 
 </caption>
 
-<thead class="reporttablehead">
+<thead style="font-size: 18px; background-color: lavender;">
 <tr><th><th>Defic-<br>ient<th>Low<th>Accept-<br>able <th>&nbsp;High&nbsp;
 </tr>
 </thead>
-
+<tbody style="font-size: 15px">
 <tr><td style="text-align:left">N'methylnicotinamide<br>Men; women, non-preg-<br>nant or 
 1st trimester<br>2nd trimester<br>3rd trimester<br>
 (mg per g creatinine <br>in 24h urine sample)<td>
@@ -1402,6 +1410,7 @@ target="right" >2000b</a>. </span>
     &lt;0.5 <td> &lt;1.0 <td> 1.0 - 4.0 <td>
 </td>
 </tr>
+</tbody>
 </table>
 <p></p>
 
@@ -1442,6 +1451,9 @@ may not be useful in popu&shy;lations with marginal niacin
 status.
 
 (<a href="#table20c.4">Table&nbsp;20c.4</a>).
+
+<p class="clearleft">
+
 <a id="table20c.4"></a>
 <table class="thirty">
 <caption class="cap">
@@ -1454,17 +1466,18 @@ target="right" >2000b</a>. </span>
 
 </caption>
 
-<thead class="reporttablehead">
+<thead style="font-size: 18px; background-color: lavender;">
 <tr><th>Indicator<th>Mild <th> Moderate <th> Severe
 </tr>
 </thead>
-
+<tbody style="font-size: 15px">
 <tr><td><td>&ge; 1 clin. case,<br>&lt;1% of pop.<br>in age group<br>concerned <td>1-4% of pop.<br>in age group<br>concerned<td>&ge; 5% of pop. <br>in age group<br>concerned
 <tr><td style="text-align:left">Urinary N'‑methyl<br>­nico­tin­amide <br>&lt;0.50 mg/g<br>creatinine<td>5-19%<td>20-49%<td>&ge;50%
 <tr><td style="text-align:left">Ratio 2-pyridone:<br>N'&#8209;methyl&shy;nico&shy;tin-<br>amide &lt;1.0<td>5-19%<td>20-49%<td>&ge;50%
 <tr><td style="text-align:left">Dietary intake of <br>niacin equivalents<br> &lt;5mg/day<td>5-19%<td>20-49%<td>&ge;50%
 </td>
 </tr>
+</tbody>
 </table>
 <p></p>
 
@@ -1569,7 +1582,7 @@ In the depletion-repletion study in young men
 
 (<a href="#figure20c.3">Figure&nbsp;20c.3</a>),	
 <a id="figure20c.3"></a>		
-<figure style="width: 60%">
+<figure style="width: 30%">
 <img src="figures/fig20c.3.jpg" class="hundred" alt="Figure&nbsp;20c.3">
 <figcaption class="cap">
 Figure 20c.3. Mean concentration of erythro&shy;cyte nicotinamide (NAD) and
