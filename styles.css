@@ -19,6 +19,7 @@ a.iframe {
   text-decoration: underline;
   color: blue;
 }
+
 ul.padded{
   padding: 5px;
     margin-top: 0px;
@@ -47,7 +48,7 @@ margin: 10px !important;
 }
 blockquote {
 margin-bottom: 5px;
-margin-top: 5px;
+margin-top:x;
 padding: 0px 0px 0px 0px;
 }
 p.shiftedfifty{
@@ -111,10 +112,13 @@ table.condensed {
 	text-align: center;
 }
 table.center {
-  width:99%;  
+  width:80%;  
   float: none;
   margin-left: auto;
   margin-right: auto;
+  border-width: thin;
+	border-collapse: collapse;
+  padding: 2px;
 }
 table.compressed {
 	table-layout: auto;
@@ -183,6 +187,9 @@ caption {
   font-family:  Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
+
+
+
 .box {
   display: block;
   background-color: lightyellow;
@@ -193,7 +200,21 @@ caption {
   margin-bottom: 20px;
   margin-top: 20px; 
 }
+
+.widebox {
+  display: block ;
+  float: left;
+  background-color: lightyellow;
+  width: 95%;
+  border:2px solid black;
+  padding: 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+
+
 .smallbox {
+  font-size:18px;
   display: block ;
   float: left;
   background-color: lightyellow;
@@ -214,6 +235,21 @@ caption {
   margin-bottom: 20px;
   margin-top: 20px;
 }
+.verytinybox {
+  display: block;
+  float: left;
+  background-color: lightyellow;
+  width: 30%;
+  border: 2px solid black;
+  padding: 10px;
+  margin-left: 2%;
+  margin-right: 3%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
 .inlinetinybox {
   display: block;
   float: none;
@@ -289,10 +325,6 @@ tr:hover { background-color:  yellow;
 figure {
   float: left;
   cursor: pointer;
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
   padding: 0px;
 }
 nofigure {
@@ -309,8 +341,8 @@ figcaption {
 	caption-side: bottom;
   text-align: justify;
   margin-top: 0px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 10%;
+  margin-right: 10%;
   margin-bottom: 0px;
   font-style: normal;
   font-family: Calibri, sans-serif;
@@ -330,9 +362,9 @@ img.cover {
 }
 img.center {
 	display: block;
-	float: none;
   margin-left: auto;
   margin-right: auto;
+
 }
 img.hundred {
 	width: 100%;
@@ -369,11 +401,12 @@ img.hundred {
 }
 .table-of-contents ul {
    list-style-type:none;
-   padding-left: 30px;
+   padding-left: 50px;
 }
 .table-of-contents li {
   margin: 0 0 0.25em 0;
-  text-indent: -40px;
+  text-indent: -70px;
+  line-height: 100%;
   list-style-type: none;
   padding: 2px;
 }
@@ -384,11 +417,8 @@ img.hundred {
 .table-of-contents a:active {
   text-decoration: underline;
 }
-li {
-  list-style-position: inside;
-  list-style-type: disc;
-	padding: 2px;
-}
+
+
 h3:target {
   animation: highlight 1s ease;
 }
@@ -407,3 +437,21 @@ h3:target {
   from { background: yellow; }
   to { background: white; }
 }
+.fixed-button {
+  position: fixed;
+  /* Set equal width and height for a perfect circle */
+  width: 50px;
+  height: 50px;
+  /* Apply border-radius to make it circular */
+  border-radius: 50%;
+  bottom: 60px; /* Adjust as needed for desired vertical position */
+  right: 10px;  /* Adjust as needed for desired horizontal position */
+  /* Add other styling for your button here, e.g., background-color, padding, etc. */
+  padding: 5px 5px;
+  background-color: #c5277ee0;
+  font-size: 15px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  z-index: 1000; /* Ensure it appears above other content */
+ }
